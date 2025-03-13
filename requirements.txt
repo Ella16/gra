@@ -1,0 +1,8 @@
+gradio==5.20.1
+openai 
+streamlit
+streamlit-chat
+matplotlib
+scipy
+plotly
+scikit-learn 
