@@ -2,19 +2,6 @@ import os
 import pandas as pd
 import numpy as np
 import ast
-<<<<<<< HEAD
-from openai import OpenAI
-import streamlit as st
-import streamlit_chat as chat
-import time 
-
-import keys # Set OpenAI API key 
-client = OpenAI(api_key=keys.openai.api_key, organization=keys.openai.organization)
-
-DOC_EMB = pd.DataFrame(columns=['docid', 'segid', 'embedding', 'text'])        
-GPT_MODEL = "gpt-4o-mini"
-EMBEDDING_ENGINE = "text-embedding-ada-002"
-=======
 import time 
 
 from openai import OpenAI
@@ -51,7 +38,6 @@ def generate_response(messages):
     print(result.choices[0].message.content)
     return result.choices[0].message.content 
 
->>>>>>> master
 
 def make_embedding(text):
     text = text.replace("\n", " ")
