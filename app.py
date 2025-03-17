@@ -35,13 +35,62 @@ def generate_response(messages):
         messages=messages,
         temperature=0.4,
         max_tokens=500)
-    print(result.choices[0].message.content)
+    # print(result.choices[0].message.content)
     return result.choices[0].message.content 
 
 
 def make_embedding(text):
     text = text.replace("\n", " ")
     return client.embeddings.create(input = [text], model=EMBEDDING_ENGINE).data[0].embedding
+
+def segment_by_paragraph(doc, context_length=1000, tolerance=0.1, stride_para=2):
+    paras = doc.strip().split('\n')
+    paras = [p.strip() for p in paras if len(p.strip())>0]
+    segments = []
+    current_segment = []
+    current_length = 0
+    max_len = context_length * (1 + tolerance)
+    for i, signle_para in enumerate(paras):
+        paragraph_length = len(signle_para)
+        if current_length + paragraph_length <= max_len:
+            current_segment.append(signle_para)
+            current_length += paragraph_length
+        else:
+            segments.append("\n".join(current_segment)) 
+            current_segment = current_segment[-stride_para:] + [signle_para] # get last 2 para
+            current_length = paragraph_length    
+    if current_segment: # 마지막 segment 
+        segments.append("\n".join(current_segment))
+    return segments
+
+def segment(doc, context_len=1000, window_percent=10):
+    window = context_len // window_percent # 1/10 를 윈도우로 잡는다. 
+
+    segs = []
+    doclen = len(doc)
+
+    if doclen > context_len:
+        num_seg = doclen // context_len 
+        seg_len = doclen // num_seg + 1
+        for sid in range(seg_len):
+            doc_seg = doc[max(0, sid*context_len - window) : min(doclen, (sid+1)*context_len)]
+            doc_seg = doc_seg.strip()
+            if len(doc_seg) == 0: continue
+            segs.append([sid, doc_seg])
+    else:
+        segs.append([0, doc])
+    return segs
+
+def make_doc_embedding(doc):
+    
+
+    embedding = []
+    segs = segment(doc)
+    for sid, doc_seg in enumerate(segs):
+        emb_seg = make_embedding(doc_seg) 
+        embedding.append([sid, emb_seg, doc])
+    
+    return embedding
 
 def load_doc_embedding():
     emb_dir = './embedding'
@@ -61,29 +110,13 @@ def load_doc_embedding():
             with open(doc_path, 'r', encoding='utf-8') as f:
                 single_doc = f.read()
                 docs.append([doc_path, single_doc])
-        
-        # TODO 벡터디비로 바꿔야 할듯 
-        context_len = 2000
-        window = context_len // 10 # 10% 를 윈도우로 잡는다. 
 
-        embedding = []
+        embeddings = []
         for docid, (_, single_doc) in enumerate(docs):
-            doclen = len(single_doc)
-            if doclen > context_len:
-                num_seg = doclen // context_len 
-                seg_len = doclen // num_seg + 1
-                for sid in range(seg_len):
-                    doc_seg = single_doc[max(0, sid*context_len - window) : min(doclen, (sid+1)*context_len)]
-                    doc_seg = doc_seg.strip()
-                    if len(doc_seg) == 0: continue
-                    emb_seg = make_embedding(doc_seg) 
-                    embedding.append([docid, sid, emb_seg, doc_seg])
+            _doc_emb = make_doc_embedding()
+            embeddings.appeend(_doc_emb)
 
-            else:
-                emb = make_embedding(single_doc) # context length 8k
-                embedding.append([docid, 0, emb, single_doc])
-
-        df = pd.DataFrame(embedding, columns=['docid', 'segid', 'embedding', 'text'])        
+        df = pd.DataFrame(embeddings, columns=['docid', 'segid', 'embedding', 'text'])        
         df.to_csv(emb_path, index=False, encoding='utf-8')
     
     return df 
@@ -118,6 +151,12 @@ def return_answer_candidate(query):
     top3 = DOC_EMB[DOC_EMB.similarity > SIMILARITY_THRESHOLD].sort_values("similarity", ascending=False).head(3)
     return top3
 
+def fillin_messages(system_prompt, user_prompt):
+    messages =[
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_prompt}
+    ]
+    return messages
 
 def create_prompt(query, ref_docs):
     if len(ref_docs) > 0:
@@ -133,10 +172,7 @@ def create_prompt(query, ref_docs):
         system_prompt = f"""Answer user query in detail"""
 
     user_prompt = f"""User Query: "{str(query)}". """
-    messages =[
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": user_prompt}
-    ]
+    messages = fillin_messages(system_prompt, user_prompt)
     return messages
 
 def main(ONLINE=True):

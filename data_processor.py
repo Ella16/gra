@@ -55,16 +55,26 @@ def pdf_to_txt():
         src_dir = os.path.join(raw_data_dir, folder_names[key])
         dest_dir = os.path.join(data_dir, folder_names[key])
         pdf_files = [file for file in os.listdir(src_dir) if file.lower().endswith('.pdf')]
+        processed_files = [file.replace('.txt', '.pdf') for file in os.listdir(dest_dir) if file.lower().endswith('.txt')]
+        processed_files +=["27. 의료제품+임상통계+상담사례집.pdf",
+                           "15. 항암제+비임상시험+가이드라인+질의응답집.pdf", #아.. 얘는 벌써 해버렸군 
+                           "30. 2021+임상시험+관련+자주묻는+질의응답.pdf"
+                           ] # 얘들은은 좋은 문서라서 따로 처리 
+        pdf_files = list(set(pdf_files) - set(processed_files))
+
         # pdf_files =[ "1. 니자티딘+의약품+중+NDMA+분석법_공개.pdf",
         #              "10. 시판+후+의약품+위해성+관리계획+수립+시+약물유전체+활용+가이드라인.pdf",
         #             "11. 의약품+임상시험+대조군+설정+가이드라인.pdf",]
-        for file in tqdm(pdf_files):
+        N = len(pdf_files)
+        for i, file in enumerate(pdf_files):
             text = parse_pdf_inline(os.path.join(src_dir, file))
             if len(text) > 0:
                 with open(os.path.join(dest_dir, file.replace('.pdf', '.txt')), "w", encoding='utf-8') as txt:
                     txt.write(text)
             else:
                 print(f'fail to parse: {src_dir}/{file}')            
+            if i%10 ==0: 
+                print(i/N)
         print(f'converting done: {src_dir}')
                 
     print(text)
