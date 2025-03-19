@@ -55,6 +55,43 @@ def doc_to_querys():
     final = pd.concat(df_docs)
     final.to_csv(f'{len(files)}.csv', index=False)
 
+# TODO gen_query, data_processor 이것들 정리하기 
+def parse_qa_doc():
+    data_dir = './data/processed/250314/안내서.지침-의약품'
+    qadocs = [
+    # "27. 의료제품+임상통계+상담사례집.txt", # 이미지네..
+"30. 2021+임상시험+관련+자주묻는+질의응답.txt",
+"15. 항암제+비임상시험+가이드라인+질의응답집.txt", 
+"53-2. 의약품+허가+후+제조방법+변경관리+질의응답집(민원인안내서).txt",
+    ]
+    res = []
+    for doc_id, doc_name in enumerate(qadocs):
+        doc_path = os.path.join(data_dir, doc_name)
+        if not os.path.exists(doc_path): continue
+        with open(doc_path, 'r', encoding='utf-8') as f:
+            doc = f.readlines()
+        
+        q = "" # 한 질문에 
+        a = [] # 답이 여러 체크포인트로 이뤄짐 
+        isq = False
+        for line in doc:
+            line = line.lower()
+            if line[0] in ['v', 'a', '○']:
+                a.append(line) 
+            elif line.startswith('q'):                
+                if a:
+                    res.append([doc_name, q, len(a), a])
+                    a = []
+                    q = ""
+                q = line
+            else:
+                if q and a:
+                    a[-1] += " " + line 
+                elif q and not a:
+                    q += " " + line 
+    y = pd.DataFrame(res, columns=['doc_name', 'query', 'num_answer', 'answer'])    
+    y.to_csv('qa-doc.csv', index=False)            
+
 def postprocess():
     csvfile = '0-3.csv'
     df = pd.read_csv(csvfile)
@@ -82,4 +119,7 @@ def postprocess():
     y = y[['name', 'doc_id', 'seg_id', 'doc_name', 'query', 'answer', 'segment']]
     y.to_csv('0-3-postprocess.csv', index=False)
     print()
-postprocess()
+
+if __name__=='__main__':
+    # postprocess()
+    parse_qa_doc()

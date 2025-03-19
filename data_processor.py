@@ -54,13 +54,16 @@ def pdf_to_txt():
     for key in target_folders:
         src_dir = os.path.join(raw_data_dir, folder_names[key])
         dest_dir = os.path.join(data_dir, folder_names[key])
-        pdf_files = [file for file in os.listdir(src_dir) if file.lower().endswith('.pdf')]
-        processed_files = [file.replace('.txt', '.pdf') for file in os.listdir(dest_dir) if file.lower().endswith('.txt')]
-        processed_files +=["27. 의료제품+임상통계+상담사례집.pdf",
-                           "15. 항암제+비임상시험+가이드라인+질의응답집.pdf", #아.. 얘는 벌써 해버렸군 
-                           "30. 2021+임상시험+관련+자주묻는+질의응답.pdf"
-                           ] # 얘들은은 좋은 문서라서 따로 처리 
-        pdf_files = list(set(pdf_files) - set(processed_files))
+        # pdf_files = [file for file in os.listdir(src_dir) if file.lower().endswith('.pdf')]
+        # processed_files = [file.replace('.txt', '.pdf') for file in os.listdir(dest_dir) if file.lower().endswith('.txt')]
+        # processed_files +=["27. 의료제품+임상통계+상담사례집.pdf",
+        #                    "30. 2021+임상시험+관련+자주묻는+질의응답.pdf"
+        #                 #    "15. 항암제+비임상시험+가이드라인+질의응답집.pdf", 
+        #                    # "53-2. 의약품+허가+후+제조방법+변경관리+질의응답집(민원인안내서).pdf",
+        #                    ] # 얘들은은 좋은 문서라서 따로 처리 
+        # pdf_files = list(set(pdf_files) - set(processed_files))
+        pdf_files = ["27. 의료제품+임상통계+상담사례집.pdf",
+                           "30. 2021+임상시험+관련+자주묻는+질의응답.pdf"]
 
         # pdf_files =[ "1. 니자티딘+의약품+중+NDMA+분석법_공개.pdf",
         #              "10. 시판+후+의약품+위해성+관리계획+수립+시+약물유전체+활용+가이드라인.pdf",
