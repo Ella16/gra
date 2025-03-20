@@ -23,11 +23,14 @@ sess[Bubble.query_rephrased] = []
 sess[Bubble.response_agent] = []
 sess[Bubble.reference] = []
 
+from app_utils import load_doc_embedding, make_embedding 
+data_dir = './data/processed/250324_demo/'
+emb_path = './embedding/embedding-250324_demo.csv'
+DOC_EMB = load_doc_embedding(data_dir, emb_path)
 
-DOC_EMB = pd.DataFrame(columns=['docid', 'segid', 'embedding', 'text'])        
 GPT_MODEL = "gpt-4o-mini"
 EMBEDDING_ENGINE = "text-embedding-ada-002"
-SIMILARITY_THRESHOLD = 0.85
+SIMILARITY_THRESHOLD = 0.4
 
 def generate_response(messages):
     result = client.chat.completions.create(
@@ -35,91 +38,7 @@ def generate_response(messages):
         messages=messages,
         temperature=0.4,
         max_tokens=500)
-    # print(result.choices[0].message.content)
     return result.choices[0].message.content 
-
-
-def make_embedding(text):
-    text = text.replace("\n", " ")
-    return client.embeddings.create(input = [text], model=EMBEDDING_ENGINE).data[0].embedding
-
-def segment_by_paragraph(doc, context_length=1000, tolerance=0.1, stride_para=2):
-    paras = doc.strip().split('\n')
-    paras = [p.strip() for p in paras if len(p.strip())>0]
-    segments = []
-    current_segment = []
-    current_length = 0
-    max_len = context_length * (1 + tolerance)
-    for i, signle_para in enumerate(paras):
-        paragraph_length = len(signle_para)
-        if current_length + paragraph_length <= max_len:
-            current_segment.append(signle_para)
-            current_length += paragraph_length
-        else:
-            segments.append("\n".join(current_segment)) 
-            current_segment = current_segment[-stride_para:] + [signle_para] # get last 2 para
-            current_length = paragraph_length    
-    if current_segment: # 마지막 segment 
-        segments.append("\n".join(current_segment))
-    return segments
-
-def segment(doc, context_len=1000, window_percent=10):
-    window = context_len // window_percent # 1/10 를 윈도우로 잡는다. 
-
-    segs = []
-    doclen = len(doc)
-
-    if doclen > context_len:
-        num_seg = doclen // context_len 
-        seg_len = doclen // num_seg + 1
-        for sid in range(seg_len):
-            doc_seg = doc[max(0, sid*context_len - window) : min(doclen, (sid+1)*context_len)]
-            doc_seg = doc_seg.strip()
-            if len(doc_seg) == 0: continue
-            segs.append([sid, doc_seg])
-    else:
-        segs.append([0, doc])
-    return segs
-
-def make_doc_embedding(doc):
-    
-
-    embedding = []
-    segs = segment(doc)
-    for sid, doc_seg in enumerate(segs):
-        emb_seg = make_embedding(doc_seg) 
-        embedding.append([sid, emb_seg, doc])
-    
-    return embedding
-
-def load_doc_embedding():
-    emb_dir = './embedding'
-    emb_name = 'embedding.csv'
-    emb_path = os.path.join(emb_dir, emb_name)
-
-    if os.path.isfile(emb_path):
-        df = pd.read_csv(emb_path)
-        df['embedding'] = df['embedding'].apply(ast.literal_eval)
-    else:
-        data_dir = './data'
-        doc_names = [file for file in os.listdir(data_dir) if file.endswith('.txt')]
-
-        docs = []
-        for file in doc_names:
-            doc_path = os.path.join(data_dir, file)
-            with open(doc_path, 'r', encoding='utf-8') as f:
-                single_doc = f.read()
-                docs.append([doc_path, single_doc])
-
-        embeddings = []
-        for docid, (_, single_doc) in enumerate(docs):
-            _doc_emb = make_doc_embedding()
-            embeddings.appeend(_doc_emb)
-
-        df = pd.DataFrame(embeddings, columns=['docid', 'segid', 'embedding', 'text'])        
-        df.to_csv(emb_path, index=False, encoding='utf-8')
-    
-    return df 
 
 def cos_sim(A, B): # TODO 다른 로직? 
     return np.dot(A, B)/(np.linalg.norm(A)*np.linalg.norm(B))
@@ -176,7 +95,9 @@ def create_prompt(query, ref_docs):
     return messages
 
 def main(ONLINE=True):
+       
     query_user = None
+    # chain = create_chain()
     with st.form('form', clear_on_submit=True): # streamlit 구성 
         query_user = st.text_input('물어보세요!', '', key='input')
         submitted = st.form_submit_button('Send')
@@ -197,6 +118,8 @@ def main(ONLINE=True):
                 ref_docs = return_answer_candidate(query_re)
                 prompt = create_prompt(query_re, ref_docs)
                 response_agent = generate_response(prompt)
+                
+                # response_agent = chain.run(query_user)
 
             sess[Bubble.query_user].append(query_user)
             sess[Bubble.query_rephrased].append(query_re)
@@ -207,20 +130,20 @@ def main(ONLINE=True):
 
     if sess[Bubble.response_agent]:
         for i in reversed(range(len(sess[Bubble.response_agent]))):
-            chat.message(sess[Bubble.query_user][i], is_user=True, key=str(i) + '_user')
-            chat.message(sess[Bubble.query_rephrased][i], is_user=True, key=str(i) + '_rephrased')
-            chat.message(sess[Bubble.response_agent][i], key=str(i) + '_agent')            
+            chat.message(sess[Bubble.query_user][i], is_user=True, key=str(i) + '_user', avatar_style="croodles")
+            chat.message(sess[Bubble.query_rephrased][i], is_user=True,  key=str(i) + '_rephrased', avatar_style="croodles")
+            chat.message(sess[Bubble.response_agent][i], key=str(i) + '_agent',avatar_style="thumbs")            
             if len(sess[Bubble.reference][i]) > 0:
                 refs = ""    
                 for doc_id, doc in sess[Bubble.reference][i].iterrows():
-                    refs += f"**REF DOC #{doc_id+1}: {doc['similarity']}**\n"
+                    refs += f"**DOC #{doc['doc_id']}: {doc['similarity']:.4f} {doc['doc_path'].split('/')[-1]}**\n"
                     refs += doc["text"].replace('\n\n', '\n').replace('\n\n', '\n') +"\n\n"
-                chat.message(refs, key=str(i) + '_ref')            
-
+                    refs += '**=========================================**\n\n'
+                chat.message(refs, key=str(i) + '_ref', avatar_style="thumbs")            
+            
 
 if __name__=="__main__":
-    # vscode 실행시 lanuch.json 확인할 것. steramlit debug로 돌려야 함. 
-    DOC_EMB = load_doc_embedding()
-    # ONLINE=False
-    ONLINE=True
-    main(ONLINE)
+    main(ONLINE=False)  #여기서 돌리면 계속 main을 로딩하는 이슈 있음.. 아마 스트림릿 세팅때문에 그런가봄? run.py로 돌려야함. 
+    # main(ONLINE=True)
+    print()
+    
