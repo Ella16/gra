@@ -1,0 +1,5114 @@
+Issuance Registration No.
+11-1471057-000120-10
+2019
+Drug Approval Report
+July, 2020
+Innovative
+Convergence Product
+Support Department1. General Information on Drug Approval/Notification (Overall) in 2019 1
+1.1. General Information················································································ 3
+1.2. Approval of New Drugs·········································································16
+1.3. Approval on Orphan Drugs···································································27
+1.4. Item Approval and notification by Major Efficacy Group and
+Classification Code·················································································31
+2. Information on Approval of Drugs (Chemical Drugs) ····························37
+2.1. Information on Approval of New Drugs············································42
+2.2. Information on Approval of Orphan Drugs·······································54
+2.3. Information on Approval of Incrementally Modified Drugs···········57
+2.4. Information on Approval of Drugs Requiring Data Submission·······66
+3. Information on Approval of Biopharmaceuticals·······································86
+3.1. Information on Approval of Biologics·················································91
+3.2. Information on Approval of Recombinant Protein Products·········95
+3.3. Information on Approval of Cell Therapy Products······················103
+4. Information on Approval of Herbal Medicinal Preparations···················107
+4.1. Information on Approval of Herbal Medicinal Preparations as
+Prescription Drugs··················································································110
+4.2. Approval Status of Herbal Preparations as OTC Drugs·················115
+4.3. Information on Approval of Drug substances and Herbal substances·····116
+[Appendix] Information on departments responsible for pharmaceutical
+petitions, etc.··················································································117Contents of Tables
+Table 1. Outline of Drug Approval/ Notification Status (2017-2019))······················3
+Table 2-1. Number of Drug Approval/ Notification by Year
+(Excluding Herbal Substance)············································································5
+Table 2-2. Number of Drug Approval/ Notification by Year
+(Including Herbal Substance))···········································································5
+Table 2-3. Notification Status of Korean Herbal Substance by Year···························6
+Table 3-1. Drug Approval/ Notification Status by Institution in 2019·······················8
+Table 3-2. Outline of Drug Approval and Notification in 2019···································8
+Table 4. Details of Drug Approval and Notification by Regional Offices in 2019
+·································································································································9
+Table 5. Information on Drug Manufacture and Import in 2019···························10
+Table 6. Details of Drug Products and Drug Substances Approval/ Notification
+in 2019····················································································································10
+Table 7. Classification of Chemicals, Biopharmaceuticals and Herbal Medicine
+from Drug products in 2019············································································11
+Table 8. Classification of New Drugs, Drugs Requiring for Data Submission and
+Generic drugs in 2019························································································12
+Table 9. Items Approved by the Headquarters in 2019 (Drug products) ··········13
+Table 10. Overview of Drug Approvals in 2019···························································13
+Table 11. Number of Approvals (Notification) by Drug Type (2012-2019)
+(Including Revoked and Withdrawn Items)·················································14
+Table 12. New Drug Approvals in 2019·········································································14
+Table 13-1. Approval of Chemical, Biopharmaceuticals and Herbal Medicinal
+Products as New Drugs (2010-2019) (Including Revoked and Withdrawn
+Items)·······················································································································18
+Table 13-2. New Drug Approval Status by Year (2010-2019)
+(Including Revoked and Withdrawn Items)··················································18
+Table 14. Therapeutic Class of New Drug Approval Items by Year (2010-2019)
+(Including Revoked, Withdrawn and Released Orphan Items)················19
+Table 15. 2019 New Drug Approval List (Including New Drugs Removed fromOrphan Drug List)································································································21
+Table 16. List of New Drugs Developed in Korea (1999-2019)
+(Including Withdrawn Items)············································································26
+Table 17. Orphan Drug Approval Status in 2019···························································27
+Table 18. Approval of New Orphan Drugs by Year (2010-2019)
+(Including Revoked and Withdrawn Items)····················································27
+Table 19. Ingredients of Newly Designated Orphan Drug in 2019···························28
+Table 20. Number of Approved and Notified Items by therapeutic class in 2019
+(Including Revoked and Withdrawn Items)···················································31
+Table 21. Single Classification number of Top 5 Approval Items (2015-2019)
+(Including Revoked and Withdrawal Items)··················································33
+Table 22. Approval and Notification of Drug products by Major Therapeutic Class
+in 2019······················································································································34
+Table 23. Approval Status of Pharmaceutical Drugs (Chemical Drugs) by Review
+Type in 2019···········································································································39
+Table 24. Approval Status of Manufactured/Imported New Drugs (2014~2019)
+(Chemical Drugs)···································································································42
+Table 25. Approval Status of New Drugs by Drug Classification Code (2014~2019)
+(Chemical Drugs)···································································································43
+Table 26. Approval Status of New Drugs in 2019 (Chemical Drugs)·······················49
+Table 27. Approval Status of Orphan Drug in 2019 (Chemical Drugs)···················54
+Table 28. Type of Incrementally Modified Drugs in 2015~2019·································58
+Table 29. List of Incrementally Modified Drugs (2009~2019)······································60
+Table 30. Approval Status of Drugs Requiring Data Submission in 2019···············66
+Table 31. Approval of Drugs with New Salt or New Isomer that Require Data
+Submission in 2019·······························································································67
+Table 32. Approval Status of Drugs with New Composition that Require Data
+Submission in 2019·······························································································68
+Table 33. Approval Status of Drugs with Changes in strength of active substances
+that Require Data Submission in 2019····························································73
+Table 34. Approval Status of Drugs with New Route of Administration Requiring
+Data Submission in 2019·····················································································75Table 35. Approval Status of Drugs with New Dosage/Administration that
+Require Data Submission in 2019·····································································75
+Table 36. Approval Status of Drugs with New Dosage Form (Same Route of
+Administration) that Require Data Submission in 2019······························76
+Table 37. Approvals Status of Biopharmaceuticals by Review Type in 2019·················88
+Table 38. Approval Status of Biopharmaceuticals in 2019
+(Including Drugs for Export Only and Drug Substances)··························89
+Table 39. List of Biopharmaceuticals Approved in 2019···············································93
+Table 40. List of Approved Recombinant Protein Products in 2019·························98
+Table 41. List of Approved Biosimilars (2012~2019)····················································101
+Table 42. List of Approved Cell Therapy Products (2001~2019)······························103
+Table 43. Approval of Herbal Medicinal Preparations by Review Type in 2019 109
+Table 44. Approval Status of Herbal Medicinal Preparations 2019··························110
+Table 45. Approval Status of Herbal Medicinal Preparations as Prescription Drug
+in 2019····················································································································112
+Table 46. Approval Status of Herbal Medicinal Preparations as OTC drugs in 2019
+································································································································115
+Table 47. Approval Status of Herbal Medicinal Preparations in 2019
+(Drug Substance and Herbal Substances)······················································116
+Table 48. Information on departments responsible for pharmaceutical petitions, etc.
+(As of June, 2020)·······························································································117Contents of Figures
+Figure 1-1. Number of Drug Approval and Notification (2010-2019)
+(Excluding Herbal Substances) ·······························································6
+Figure 1-2. Number of Drug Approval and Notification (2010-2019)
+(Herbal Substances) ···················································································7
+Figure 2. Information on Approval of Drugs by Drug Type (2012~2019)····15
+Figure 3. Approval Status of New Drugs by Year (2010-2019)
+(Including Revoked, Withdrawn and Released New Drugs) ···············20
+Figure 4. Approval of New Orphan Drugs by year (2010-2019)················28
+Figure 5. Ratio of Approval Cases (Notification) Classified by Major Efficacy
+Groups in 2019 ·······················································································31
+Figure 6. Annual Approval (Notification) of Drugs by Drug Therapeutic
+Class (2011-2019)·····················································································32
+Figure 7. Approval on Incrementally Modified Drugs by Acceptance Criteria
+and by Type (2009 ~ 2019) ·······························································591
+General Information on
+Drug Approval/Notification
+(Overall) in 2019
+- 1 -1. General Information on Drug Approval/Notification (Overall) in 2019
+This 2019 Drug Approval Report is to support the systematization and
+efficiency of establishment/enforcement of related regulations and drug approval
+/notification; and product development by sharing the information on approval
+/notification of all drugs in line with the 2018 Drug Approval Report.
+1.1. General Information
+First, according to the approval/notification information on all drugs in 2019
+including chemical drugs, biopharmaceuticals and herbal medicinal products, a total
+of 6,187 items were approved and notified as shown in Table 1. The total number of
+items increased by about 2.5 times YoY (3,705 items), and especially the number of
+approved and notified items for manufacturing increased sharply by about 2.6 times
+(3,675 items).
+Table 1. Outline of Drug Approval/ Notification Status (2017～2019)
+(Unit: number of items)
+Drug Drug product
+Notifi Head Regional Drug substances Herbal
+Year Total Approval cation quarters Office Mfg. Imported products (e hxc el ru bd ai lng substances Pres OTC
+substances) cribed
+3,691 2,496 629 5,558 6,035 152 4,809 71 1,307
+(59.7%) (40.3%) (10.2%) (89.8%) (97.5%) (2.5%) (77.7%) (1.2%) (21.1%)
+excluding herbal excluding herbal excluding herbal 4,139 670
+excluding herbal
+’19 6,187 substances substances substances
+substances(%)
+(1307) (1307) (1307) (86.1%) (13.9%)
+3,684 1,196 622 4,25 4,728 152
+98.5% 1.5%
+(75.5%) (24.5%) (12.7%) (87.3%) (96.9%) (3.1%)
+1,379 1,103 397 2,085 2,360 122 2,046 75 361
+(55.6%) (44.4%) (16.0%) (84.0%) (95.1%) (4.9%) (82.4%) (3.0%) (14.6%)
+excluding herbal excluding herbal excluding herbal 1,514 532
+’18 2,482 substances substances substances excluding herbal
+(361) (361) (361) substances(%) (74.0%) (26.0%)
+1,378 743 396 1,725 1,999 122
+96.5% 3.5%
+(65.0%) (35.0%) (18.7%) (81.3%) (94.2%) (5.8%)
+1,315 1,209 361 2,163 2,360 164 2,049 55 420
+(52.1%) (47.9%) (14.3%) (85.7%) (93.5%) (6.5%) (81.2%) (2.2%) (16.6%)
+excluding herbal excluding herbal excluding herbal 1,573 476
+’17 2,524 substances substances substances excluding herbal
+(420) (420) (420) substances(%) (76.8%) (23.2%)
+1,306 798 352 1,752 1,940 164
+97.4% 2.6%
+(62.1%) (37.9%) (16.7%) (83.3%) (92.2%) (7.8%)
+* Excluding drugs for export (80 items), including revoked and withdrawn items and herbal substances
+- 3 -Among the total items (6,187 items), approved items and notified items accounted
+for 59.7% (3,691 items) and 40.3% (2,496 items), respectively while 629 items (10.2%)
+and 5,558 items (89.8%) were approved and/or notified by the headquarters and
+regional offices, respectively. This shows the number of approved and notified items
+increased sharply in 2019 compared with 2018.
+Domestic items for manufacturing/marketing accounted for 97.5% (6,035 items)
+whereas imported items, 2.5% (152 items) only. The drug products, drug substances,
+and herbal substances accounted for 77.7% (4,809 items), 1.2% (71 items), and 21.1%
+(1,307 items) respectively, which shows the number of drug products and herbal
+substances increased sharply while that of imported items and drug substances was
+similar to those in the previous year.
+Drug products (98.5%) were significantly larger than drug substances (1.5%) when
+excluding herbal substances, and the prescription drugs amounted to 86.1% (4,139
+items) and the over-the-counter (OTC) drugs to 13.9% (670 items) respectively.
+Like 2018, domestic items for manufacturing/marketing took the most among the
+items approved and notified in 2019. However, there were no significant increase in
+the number of approved and notified domestic items for manufacturing/marketing
+(excluding herbal substances in 2018 (1,999 items) compared to 2017 (1,940 items),
+but increased about 2.4 times in 2019 (4,728 items) compared to the previous year.
+This is considered to be the effect of the surge in the number of approved (notified)
+generic drug submitted with the consigned (joint) bioequivalence test data.
+In case of the notification items (excluding herbal substances), due to introduction
+of the pre-GMP of OTC drugs from July 1, 2009, the number of notification items
+(753 items) in 2011 decreased significantly to almost the half as compared to that of
+2010 (1,530 items) and later there was no significant change. However it increased
+by 1.6 times (453 items) in 2019 compared to the previous year due to the surge in
+the number of generic drugs.
+- 4 -The number of approval and notification items for herbal substances increased to
+1,307 items in 2019 by 3.6 times (946 items) compared to 361 items in 2018 because
+of an increase in the number of items coming from notification of items made by
+new drug manufacturers.
+Table 2-1. Number of Drug Approvals/ Notifications by Year (Excluding Herbal Substance)
+(Unit: number of items)
+Category 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+3,684
+Approval 614 853 831 1,423 1,811 2,110 2,030 1,306 1,378
+(75.5%)
+(increase % YoY) 38.9% -2.5% 71.2% 27.3% 16.6% -3.8% -35.7% 5.5% 167.3%
+1,196
+Notification 1,530 753 687 787 1,118 904 815 798 743
+(24.5%)
+(increase % YoY) -50.7% -8.7% 14.6% 42.1% -19.1% -9.8% -2.1% -6.9% 61.0%
+Total 2,144 1,606 1,518 2,210 2,929 3,014 2,845 2,104 2,121 4,880
+(increase % YoY) -25.0% -5.4% 45.6% 32.5% 2.9% -5.6% -26.0% 8.1% 130.1%
+* Excluding drugs for export and herbal substances, including revoked/withdrawn items
+Table 2-2 Number of Drug Approvals/ Notifications by Year (including Herbal Substance)
+(Unit: number of items)
+Category 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+3,691
+Approval 618 853 835 1,423 1,811 2,110 2,036 1,315 1,379
+(59.7%)
+(increase % YoY) 38.0% -2.1% 70.4% 47.3% 16.6% -3.5% -35.4% 4.9% 167.7%
+2,496
+Notification 3,479 7,269 3,898 973 1,296 2,813 1,792 1,209 1,103
+(40.3%)
+(increase % YoY) 107.8% -46.3% -75.0% 33.2% 117.1% -36.3% -32.5% -8.8% 126.3%
+Total 4,115 8,122 4,733 2,396 3,107 4,923 3,828 2,524 2,482 6,187
+(increase % YoY) 97.4% -41.7% -49.4% 29.7% 58.4% -22.2% -34.1% -1.7% 149.3%
+* Excluding drugs for export and herbal substances, including revoked/withdrawn items
+- 5 -Table 2-3. Notification Status of in Herbal Substances by Year
+(Unit: number of items)
+Category 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Herbal
+1,967 6,516 3,211 186 178 1,909 983 420 361 1307
+substances
+(increase % YoY) 231.3% -50.7% -94.2% -4.3% 972.5% -48.5% -57.3% -14.0% 262.0%
+All notified
+items herbal 3,497 7,269 3,898 973 1,296 2,813 1,792 1,209 1,103 2,496
+substances
+* Excluding drugs for export and herbal substances, including revoked/withdrawn items
+Figure 1-1. Number of Drug Approval and Notification (2010～2019) (Excluding Herbal Substances)
+- 6 -Figure 1-2. Number of Drug Approval and Notification (2010～2019) (Herbal Substances)
+- 7 -To analyze the approval and notification of medical products of 2019 in detail, it
+was found the items approved by regional offices was 3,062 items (83.1%) out of
+total 3,684 approved items, which is about 4.9 times more than the items approved
+by the Headquarters 622 items (16.9%) (Refer to Table 3-1).
+This means that the number of approval cases of generic drugs, which is subject to
+the approval of regional offices, is relatively higher than that of drugs requiring for
+data submission. In addition, 99.9% of 3,062 drugs approved by regional offices were the
+manufactured items (3,059 items) (Refer to Table 3-2).
+Table 3-1. Drug Approval/ Notification Status by Institution in 2019
+(Unit: number of items)
+Type Total Headquarters Regional Office
+Approval 3,684 (100%) 622 (16.9%) 3,062 (83.1%)
+Notification 1,196 - 1,196
+Herbal Substances 1,307 7 1,300
+Total 6,187 (100%) 629 (10.2%) 5,558 (89.8%)
+* Excluding drugs for export (80 items), including revoked/withdrawn items and herbal substances
+Table 3-2. Outline of Drug Approval and Notification in 2019
+(Unit: number of items)
+Domestically manufactured (4,728 items) Imported (152 items)
+Headquarters Headquarters
+(497) (79)
+Approval Approval
+Regional
+Prescribed (3,356) Prescribed (82) Regional Office
+Office
+(4,054) (85) (3)
+(3,059)
+Drug 85.7% Regional Drug 55.9%
+Notification NotificationRegional Office
+products Office products
+(498) (3) (3)
+(4,706) (498) (103)
+99.5% Headquarters 67.8% Headquarters
+Approval (34) Approval (4)
+OTC OTC
+(34) Regional Office (4) Regional Office
+(652) (18)
+(0) (0)
+13.8% 11.8%
+Notification Regional Office Notification Regional Office
+(618) (618) (14) (14)
+Approval Headquarters Approval Headquarters
+Drug substances Drug substances
+(7) (7) (1) (1)
+(22) (49)
+Notification Regional Office Notification Regional Office
+0.5% 32.2%
+(15) (15) (48) (48)
+* Excluding drugs for export (80 items) and herbal substances(1,307 items), including revoked/withdrawn items
+- 8 -According to approvals and notifications by regional offices, Gyeongin Regional
+Office handled the most items (36.0%, 2,003 items) of total items, followed by Seoul
+and Daejeon Regional Offices, accounting for 24.7% at the same level (1,374 and
+1,372 items respectively). Most of the total approvals and notifications (85.4%) were
+handled in Gyeongin, Seoul and Daejeon Regional Office and most of herbal
+substances were handled by Seoul Regional Office (69.0%, 897 items) (Refer to Table 4).
+Table 4. Details of Drug Approval and Notification in Regional Offices in 2019
+(Unit: number of items)
+Item Approval Notification Herbal substances Total
+1,312 484 207 2,003
+Gyeongin
+(42.8%) (40.5%) (15.9%) (36.1%)
+321 156 897 1,374
+Seoul
+(10.5%) (13.0%) (69.0%) (24.7%)
+913 406 53 1,372
+Daejeon
+(29.8%) (34.0%) (4.1%) (24.7%)
+Regional
+Office
+323 71 12 406
+Gwangju
+(10.5%) (5.9%) (0.9%) (7.3%)
+72 32 131 235
+Daegu
+(2.4%) (2.7%) (10.1%) (4.2%)
+121 47 0 168
+Busan
+(4.0%) (3.9%) (0%) (3.0%)
+3,062 1,196 1,300 5,558
+Total
+(100%) (100%) (100%) (100%)
+* Excluding drugs for export, including revoked/withdrawn items and herbal substances
+- 9 -When analyzing the status of manufactured and imported items of approved and
+notified items, the approval items took the higher proportion. In case of
+manufacturing items, the approval (60%) were more than the notification items (40%)
+by 20% and, in case of imported items, the approval items (57%) were more than
+the notification items (43%) by 14% (Refer to Table 5).
+Table 5. Information on Drug Manufacture and Import in 2019
+(Unit: number of items)
+Item Total Manufactured Imported
+3,604 87
+Approved 3,691
+(60%) (57%)
+2,431 65
+Declared 2,496
+(40%) (43%)
+6,035 152
+Total 6,187
+(100%) (100%)
+* Excluding drugs for export (80 items), including revoked/withdrawn items and herbal substances
+According to the analysis of drug products and drug substances of approved/
+notified items, in case of drug products, 76% (3,676 items) was approved items while,
+in case of the drug substances, (excluding herbal substance), only 11% (8 items) was
+approved items and the rest 89% (63 items) is notification items (Refer to Table 6).
+Table 6. Details of Drug Products and Drug Substances Approval/ Notification in 2019
+(Unit: number of items)
+Drug substance Drug substance
+Drug
+Item Total (including herbal (excluding herbal
+products
+substances) substances)
+3,676 15 8
+Approval 3,691
+(76%) (1%) (11%)
+1,133 1,363 63
+Notification 2,496
+(24%) (99%) (89%)
+4,809 1,378 71
+Total 6,187
+(100%) (100%) (100%)
+* Excluding drugs for export (80 items), including revoked/withdrawn items
+- 10 -When analyzing the types of drugs in the drug products (approved/notified),
+chemical drugs accounted for the most (95.0%, 4,569 items), biopharmaceuticals
+accounted for 0.6% (27 items), and herbal preparations accounted for 4.4% (213
+items) (Refer to Table 7).
+Table 7. Classification of Chemicals, Biopharmaceuticals and Herbal Medicine
+from Drug Products in 2019
+(Unit: number of items)
+Type Total1) Chemical drugs2) Biopharmaceuticals3) Herbal medicine4)
+Drug 4,569 27 213
+4,809
+products (95.0%) (0.6%) (4.4%)
+1) Excluding drugs for export only (80 items), including revoked/withdrawn items
+2) Out of 4,569 items, 572 items were approved by the Headquarters
+3) In Table 37 and Table 38, List of approved biopharmaceuticals, all 37 items (including 9 items for export only) were
+approved by the Headquarters
+4) Out of 213 items, 15 items were approved by the Headquarters. Table 44 and Table 45, 2019 approval of herbal
+medicinal products and herbal substances approval information show 56 items (including 3 drug substance items
+and 7 herbal substance item)
+From drug products, following drugs were approved and generic drugs took the
+most : new drugs including orphan new drugs (0.7%, 35 items); orphan drugs except
+new drugs (0.2%, 9 items); drugs requiring data submission (4.6%, 220 items); and
+generic drugs, etc. (94.6%, 4,545 items). Among the drugs requiring data submissions,
+13 combination drugs which were developed by changing the active substance type
+or combination ratio were approved as incrementally modified drugs because an
+improvement in their efficacy and/or usability improvement were acknowledged
+(Refer to Table 8).
+- 11 -Table 8. Classification of New Drugs, Drugs Requiring for Data Submission and
+Generic drugs in 2019
+(Unit: number of items)
+New Orphan Drugs Requiring data
+Others
+drugs drugs submission
+Herbal
+medicinal
+Item Types Incrementally Drugs
+Orphan products
+Orphan modified requiring (Head (Regional
+New new based on
+drug drugs for data quarters) Office)
+drugs Herbal
+(IMD) submission
+Medicine
+Book
+Chemical
+28 0 8 13 183 3404) 3,9975)
+4,569
+Drug Biopharmaceuticals 5 2 1 ­ 196)
+277)
+products
+Herbal medicinal
+products ­ ­ ­ ­ 5 10 ­ 198
+2138)
+4,8091) 33 23) 9 13 207 10 340 4,195
+Total
+(100%) 352) (0.7%) (0.2%) 220 (4.6%) 4,545 (94.5%)
+1) Excluding drugs for export (80 items), including revoked/withdrawn items
+2) 35 items were new drugs approved in 2019, except post-approval change in new drugs (Refer to Table 15).
+3) It is a new drug ingredients designated as both orphan drug and new drug.
+4) Special formulations, generic drugs for narcotic drugs, and items that exempt safety and efficacy review, etc.
+5) Standard manufacturing standard items, generic (excluding special formulations and drugs) drugs
+6) Cell therapy products and human placenta-derived drugs
+7) In Table 37 and Table 38, 2019 list of biopharmaceuticals approved includes 37 items (including 9 items for export
+only) approved by the Headquarters
+8) Out of 213 items, 15 items were approved by the Headquarters. In table 44 and table 45 “Information on Approval
+of Herbal Medicinal Products 2019”, there are 56 items (including 3 drug substances, 7 herbal substance).
+- 12 -In addition, from the drug products approved by the Headquarters, most of them
+were chemical drugs (572 items, 93.2%). In case of chemical drugs and herbal
+medicine, manufactured products took the most of approval, but in case of
+biopharmaceuticals (27 items), ratio of imported products (74%) was high (Refer to
+Table 9).
+Table 9. Items Approved by the Headquarters in 2019 (Drug products)
+(Unit: number of items)
+Types Total Manufactured Imported
+Approval by the Headquarters
+614 531 83
+(Drug products)
+Chemical 572 (93.2%) 509 63
+Biopharmaceuticals 27 (4.4%) 7 20
+Herbal medicine 15 (2.4%) 15 0
+* Excluding drugs for export only, including revoked/withdrawn items
+From drug products, approval of prescription drugs and OTC were as follows:
+prescription drugs were 86.1% (4,319 items), which was approved by more than 6
+times than OTC drugs (13.9%. 670 items). In addition, the number of approved drug
+products items was about 3 times higher than the number of notified items (Refer to
+Table 10).
+Table 10. Overview of Drug Approvals in 2019
+(Unit: number of items)
+Item Total Prescribed OTC
+4,809 4,139 670
+Drug products
+(100%) (86.1%) (13.9%)
+3,676 3638 38
+Approved
+(100%) (99.0%) (1.0%)
+1,133 501 632
+Declared
+(100%) (44.2%) (55.8%)
+* Excluding drugs for export only, including revoked and withdrawn items
+- 13 -According to the annual trends of item approvals and notifications as above, the
+numbers of the approved and notified items by drug type were similar in the recent
+2 years, but the numbers of approved and notified drug products and herbal
+substances increased rapidly in 2019, which was the largest number of total items
+approved and notified since 2012.
+To be specific, 4,139 items of prescription drugs were approved in 2019 and
+increased by 173.3% compared to 2018 (1,514 items). In addition, OTC drugs
+approved in 2019 were 670 items, increased by 25.9% compared to 2018 (532 items).
+However, the number of approvals and notifications of drug substances was similar
+to 2018 (Refer to Figure 2 and Table 11).
+Table 11. Number of Approvals (Notification) by Drug Type (2012-2019)
+(Including Revoked and Withdrawn Items)
+(Unit: number of items)
+Items 2012 2013 2014 2015 2016 2017 2018 2019
+Prescription drugs 1,002 1,669 2,090 2,289 2,280 1,573 1,514 4,139
+(Increase YoY, %) 66.6% 25.2% 9.5% -0.4% -31.0% -3.8% 173.4%
+OTC 406 427 726 626 481 476 532 670
+(Increase YoY, %) 5.2% 70.0% -13.8% -23.2% -1.0% 11.8% 25.9%
+Drug substance 110 114 113 99 84 55 75 71
+(Increase YoY, %) 3.6% - 0.9% -12.4% -15.2% -34.5% 36.4% -5.3%
+Herbal substance 3,215 186 178 1,909 983 420 361 1,307
+(Increase YoY, %) -94.2% - 4.3% 972.5% -48.5% -57.3% -14.0% 262.0%
+Total 4,733 2,396 3,107 4,923 3,828 2,524 2,482 6,187
+- 14 -Figure 2. Information on Approval of Drugs by Drug Type (2012～2019)
+- 15 -1.2. Approval of New Drugs
+New drugs newly approved in 2019 are 35 items in total including 28 chemical
+drugs (4 MF item and 24 imported items) and 7 biopharmaceuticals (7 imported
+items). For the number of ingredients in those new drugs, 21 new ingredients were
+approved including 15 ingredients from chemical drugs and 6 ingredients from
+biopharmaceuticals (Refer to Table 12 and, for the total list of new drugs, Refer to
+Table 15).
+It was found that 88.6% of new drugs were imported items showing imported items
+still took most of new drugs.
+Table 12. New Drug Approvals in 2019
+(unit: number of items)
+Total
+Item Chemical drugs Biopharmaceuticals Herbal medice
+[No. of Ingredients]
+351) (100.0%) 282) 7 0
+Total
+[21 (100.0%)] [15] [6] [0]
+4 (11.4%) 4 0 0
+Manufactured
+[2 (9.5%)] [2] [0] [0]
+31 (88.6%) 24 7 0
+Imported
+[19 (90.5%)] [13] [6] [0]
+1) Of the 35 items, both orphan drug and new drug were 2 items
+2) Chemical drugs newly approved in 2019 were 28 items, and the items designated as new drugs
+according to the change in approvals were 4 items (Refer to Table 15).
+To see the current status of new drug item approvals after 2010, the average
+number of new drug approvals over the past 10 years was 31 items, the approvals
+of new drugs were slow since 2016 but new drugs were approved more than the
+average in 2019 (Refer to Table 13 and Figure 3).
+According to the ratio of imported products from new drugs approved in 2019, the
+imported items and the manufactured items were 88.6% and 11.4% respectively,
+which shows the introduction of imported drugs to the domestic market still
+influences the total number of new drugs. As for the number of ingredients, the
+- 16 -imported items and the manufactured items took charge of 90.5% and 9.5%
+respectively, which shows most of new substances introduced to the domestic
+market are the imported items. New drugs developed in the country have been
+steadily approved by 1~2 items each year (5 items in 2015), but in 2019, there was
+neither approval of new drugs developed in the country nor visible development
+results.
+- 17 -Table 13-1. Approval of Chemical, Biopharmaceuticals and Herbal Medicinal
+Products as New Drugs by Year (2010-2019) (Including Revoked and Withdrawn Items)
+(Unit: number of items)
+Item 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+No. of approved items1) 49 31 17 23 49 34 25 29 15 35
+(No. of new drub ingredient) (26) (22) (14) (15) (27) (19) (10) (18) (12) (21)
+Domestically
+developed 1 2 2 1 1 5 1 1 2 0
+drugs2)
+Chemical drug
+Manufactured3) 3 8 3 3 3 6 2 1 2 4
+Imported 43 17 10 13 38 18 19 16 9 24
+Domestically
+developed 0 0 0 0 0 0 0 1 0 0
+drugs
+Biopharmaceuticals
+Manufactured 0 0 0 0 0 0 0 1 0 0
+Imported 1 6 4 6 8 10 4 11 4 7
+Manufactured 0 0 0 0 0 0 0 0 0 0
+Herbal medicine
+Imported 2 0 0 1 0 0 0 0 0 0
+1) Number of new drugs approved in the year excluding items designated as new drugs due to removal from the
+orphan drugs designations
+2) In the case of domestically developed new drugs, items with several contents were indicated as one item,
+3) The number of products manufactured and marketed include that of domestically developed drugs.
+Table 13-2. New Drug Approval Status by Year (2010～2019)
+(Including Revoked and Withdrawn Items)
+(Unit: number of items)
+Item 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Manufactured 3 8 3 3 3 6 2 2 2 4
+(11.7%) (6.1%) (25.8%) (17.6%) (13.0%) (6.1%) (17.6%) (8.0%) (6.9%) (13.3%) (11.4%)
+Imported 46 23 14 20 46 28 23 27 13 31
+(88.3%) (93.9%) (74.2%) (82.4%) (87.0%) (93.9%) (82.4%) (92.0%) (93.1%) (86.7%) (88.6%)
+No. of items 49 31 17 23 49 34 25 29 15 35
+- 18 -According to analysis of drug approvals since 2010 by drug efficacy group, 19
+items of nervous system drugs in 2010, 6 items of urinary reproductive organ drugs
+(3 ingredients), 6 items of anti-cancer drugs (4 ingredients) in 2012, 6 items of
+diabetes drugs (3 ingredients) in 2013, 16 items of nervous system drugs (5
+ingredients) in 2014, nervous system drugs (8 items) and diabetes drugs (8 items) in
+2015, 14 items of anti-cancer drugs (7 ingredients) in 2016, 11 items of anti-cancer
+drugs (5 ingredients)in 2017, 4 items of other chemotherapy drugs (2 ingredients),
+and 13 anti-cancer drugs (5 ingredients) in 2019 took the largest and the
+accumulated approvals of new drug item by classification number for the past 10
+years were in the order of anti-cancer drugs (72 items), nervous system drugs (56
+items), and diabetes drugs (32 items) (Refer to Table 14).
+Table 14. Therapeutic Class of New Drug Approvals by Year (2010～2019)
+(Including Revoked, Withdrawn and Released Orphan Items)
+(unit: number of items)
+2019
+Item 2010 2011 2012 2013 2014 2015 2016 2017 2018 Post Total
+Approval-approval
+change
+Nervous
+system 19 0 1 1 16 8 2 0 0 9 0 56
+agents
+Antineoplastic
+8 3 6 4 7 5 14 11 1 10 3 72
+agents
+Antidiabetic
+1 3 1 6 11 8 0 0 2 0 0 32
+agents
+Antiviral
+7 1 1 0 2 5 2 3 4 4 0 29
+agents
+Cardiovascula
+5 3 0 0 1 2 6 9 1 0 0 27
+r agents
+Respiratory
+3 1 0 0 4 1 2 1 0 1 0 13
+organ agents
+Urogenital
+0 6 0 2 0 0 0 0 0 0 0 8
+organ agents
+Sensory
+1 1 2 0 3 0 0 0 0 3 0 10
+organ agents
+Allergic
+0 1 2 3 1 0 0 8 2 1 0 18
+agents
+Others 5 12 4 7 4 9 6 3 5 7 1 63
+35 4
+Total 49 31 17 23 49 38 32 35 15 328
+39
+- 19 -Figure 3. Approval Status of New Drugs by Year (2010 - 2019)
+(Including Revoked, Withdrawal and Released New Drugs) (Refer to Table 15)
+- 20 -Table15. 2019 New Drug Approval List (Including New Drugs Removed from Orphan Drug List)
+Chemical Drugs, Biopharmaceuticals
+Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approval (partially omitted)
+Besponsa Inj [421] Treatment of adults with relapsed
+Pfizer
+1 Import (inotuzmab 2019-01-03 Antineoplastic or refractory B-cell precursor
+Korea Ltd.
+ozogamicin) agents acute lymphoblastic leukemia (ALL)
+Shire
+[131]
+Xiidra Eye drops Pharma
+2 Import 2019-01-09 Ophthalmic Treatment of dry eye in adults
+(lifitegrast) Korea Co.,
+agents
+Ltd.
+Routine prophylaxis to prevent
+[339]
+Hemlibra S.C Inj or reduce the frequency of
+JW Pharma Miscellaneous
+(Emicizumab, bleeding episodes in patients
+3 Import ceutical 2019-01-17 blood and
+Gene with hemophilia A (congenital
+Corp. body fluid
+recombination) factor VIII deficiency) with
+drugs
+factor VIII inhibitors
+Treatment of HIV-1 infection
+in adults without resistance
+substitution known for each
+[629] component of this drug, which
+Gilead
+Miscellaneous shows the stale virus figure
+4 Import Biktarvy Science 2019-01-18
+Chemothera inhibiting effects for more than 3
+Korea Ltd.
+-peutics months without anti-retroviral
+therapy, or failure to treat
+existing anti-retroviral therapy
+(HIV-1 RNA <50 copies/mL)
+GLANATEC Reduction of ocular pressure
+Ophthalmic Kowa in patients with open-angle
+[131]
+Solution Korea glaucoma and ocular hypertension
+5 Import 2019-02-21 Ophthalmic
+0.4%(Ripasudil Company., who are inadequate or unable
+agents
+Hydrochloride Ltd. to use beta-blockers or
+hydrate) prostaglandin analogs
+Briviact Oral
+6 Import Solution
+(brivaracetam)
+Briviact 10mg
+film-coated Adjunctive therapy for partial-
+7 Import
+tablets onset seizures with or without
+(brivaracetam) Korea UCB [113] secondary generalisation in
+2019-03-04
+Briviact 25mg Co., Ltd. Antiepileptics adult and adolescent patients
+film-coated from 16 years of age with
+8 Import
+tablets epilepsy
+(brivaracetam)
+Briviact 50mg
+9 Import film-coated
+tablets
+- 21 -Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approval (partially omitted)
+(brivaracetam)
+Briviact 100mg
+film-coated
+10 Import
+tablets
+(brivaracetam)
+[739]
+Disinfection of medical instruments
+Tristel Spori Other public
+11 Import HP&C Ltd. 2019-03-26 such as endoscopes and
+Wipes&Foam sanitary
+ultrasound probes without lumen
+cares
+Vocinty 10mg For the maintenance of
+Tablets healing of erosive esophagitis
+12 Import Takeda
+(vonoprazan in patients who repeat
+Pharmaceut [232]
+fumarate) recurrence and recrudescence
+ical 2019-03-29 Peptic ulcer
+Vocinti 20mg of the condition prevention of
+company. agents
+Tablets recurrent gastric or duodenal
+13 Import Limited
+(vonoprazan ulcer during nonsteroidal
+fumarate) anti-inflammatory drug therapy
+Verzenio ⦁ In combination with an
+14 Import 50mg/tablet aromatase inhibitor as initial
+(abemaciclib) endocrinebased therapy for
+Verzenio the treatment of postmenopausal
+15 Import 100mg/tablet women with hormone receptor
+(abemaciclib) (HR)-positive, human epidermal
+Verzenio growth factor receptor 2
+16 Import 150mg/tablet (HER2)- negative advanced
+Eli Lilly [421]
+(abemaciclib) or metastatic breast cancer.
+and 2019-05-01 Antineoplasti
+• In combination with fulvestrant
+Company c agents
+for the treatment of women
+with hormone receptor (HR)-
+Verzenio positive, human epidermal
+17 Import 200mg/tablet growth factor receptor 2
+(abemaciclib) (HER2)-negative advanced
+or metastatic breast cancer
+with disease progression
+following endocrine therapy.
+Amitiza Soft Cap. 1. Treatment of chronic
+18 Import 8μg Takeda idiopathic constipation in
+(lubiprostone) Pharmaceut [238] adults
+ical 2019-05-17 Purgatives, 2. Treatment of narcotic analgesic
+Amitiza Soft Cap.
+company. clysters (opioid) - induced constipation
+19 Import 24μg
+Limited in adult patients with
+(lubiprostone)
+chronic non-cancerous pain
+1) Treatment of osteoporosis in
+Evenity Inj. [399]
+postmenopausal women at
+Pre-filled Syringe Amgen Miscellaneo
+high risk of fracture
+20 Import (Romosozumab, Korea 2019-05-31 us
+2) Osteoporosis in men at high
+Gene Limited metabolism
+risk of fracture to increase
+recombination) agents
+bone mass
+- 22 -Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approval (partially omitted)
+[229]
+An add-on maintenance treatment
+Facenra Prefilled Astra Miscellaneo
+in adult patients with severe
+21 Import Syringe Inj. Zeneca 2019-06-05 usrespiratory
+eosinophilic asthma inadequately
+30mg(Benralizumab) Korea organ
+controlled despite current treatment
+agents
+Emgality
+120mg/mL Prefilled
+Sysringe
+22 Import
+Inj(galcanezumab, [119]
+Gene Miscellaneo
+recombination) Lilly Korea us central Prophylaxis of migraine in
+2019-09-05
+Emgality Ltd. nervous adults
+120mg/mL Prefilled system
+Pen Inj agents
+23 Import
+(galcanezumab,
+Gene
+recombination )
+2019-10-02
+(Conversio
+Long-term treatment of adult
+n to [399]
+Sanofi patients with Type 1 Gaucher
+Cerdelga cap. orphan/ Miscellaneo
+-aventis disease (GD1) as CYP2D6
+24 Import 84mg new drug ) us
+Korea Co., poor metabolizer (PM),
+(eliglustat tartrate) *Initial metabolism
+Ltd. intermediate metabolizer (IM)
+approval agents
+or extensive metabolizer (EM)
+date :
+2015-11-12
+Cabometyx 20mg 2019-10-11
+1) Treatment of advanced renal
+film coated (release
+25 Import cell carcinoma (RCC) in
+tablets(cabozantini from
+patients following prior
+b) orphan
+vascular endothelial growth
+Cabometyx 40mg and
+IPSEN [421] factor(VEGF)-targeted
+film coated conversion
+26 Import Korea Co., Antineoplasti therapy
+tablets(cabozantini to new
+Ltd. c agents 2) Treatment of patients with
+b) drug )
+liver cell carcinoma that
+Cabometyx 60mg *Initial
+has been treated with
+film coated approval
+27 Import sorafenib prior to treatment
+tablets(cabozantini date:
+of liver cell carcinoma
+b) 2017-09-26
+The treatment of patients with
+Lonsurf
+metastatic colorectal cancer
+28 Mfg. combination tablet
+who have been previously
+Cheil
+T15
+[421] treated with fluoropyrimidine-,
+Pharmaceut
+2019-10-17 Antineoplasti oxaliplatin- and irinotecan-
+ical Co.,
+c agents based chemotherapy, an
+Lonsurf
+Ltd.
+anti-VEGF biological therapy,
+29 Mfg. combination tablet
+and if RAS wild-type, an
+T20
+anti-EGFR therapy
+30 Import Lynparza(Olaparib AstraZenec 2019-10-29 [421] Ovarian cancer
+- 23 -Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approval (partially omitted)
+• Monotherapy for the maintenance
+treatment of adult patients
+with platinum-sensitive relapsed
+) 100mg capsule BRCA-mutated high grade
+serous30 ovarian cancer
+(including fallopian tube or
+primary peritoneal) who are
+in response (complete
+response or partial response)
+toplatinum- basedchemotherapy
+• Single maintenance treatment
+for adult patients with
+platinum-sensitive,
+recurrent, highly epithelial
+a ovarian cancer (including
+Pharmaceut Antineoplasti fallopian tube cancer or
+ical Co. c agents primary peritoneal cancer)
+Ltd in response to more than
+secondary platinum-based
+Lynparza
+therapy (partially or
+31 Import (olaparib), 50 mg,
+completely)
+capsules
+Breast cancer
+Treatment of adult patients
+with gBRCA mutation HER2-
+negative metastatic breast
+cancer. who have previously
+had chemotherapy treatment.
+The patient may have
+undergone adjuvant therapy
+before or atfer surgery or
+chemotherapy under metastatic
+conditions.
+This drug is used in patients
+with advanced or metastatic
+breast cancer who have hormone
+receptor (HR) positive and
+human epidermal growth
+factor receptor 2 (HER2)
+Kisqali 200mg film negative and administered in
+Novartis [421]
+coated tablets combination as follows:
+32 Import Korea Co., 2019-10-30 Antineoplasti
+(Ribociclib • Combination with aromatase
+Ltd. c agents
+succinate) inhibitors as a primary
+endocrine therapy in
+p r e m e n o p a u s a l ,
+perimenopausal, or
+postmenopausal women a
+kinase inhibitor indicated in
+combination with an
+- 24 -Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approval (partially omitted)
+aromatase inhibitor as
+initial endocrine-based
+therapy for the treatment
+of postmenopausal women
+with hormone receptor (HR)-
+positive, human epidermal
+growth factor receptor 2
+(HER2)-negative advanced
+or metastatic breast cancer
+•If the disease has progressed in
+postmenopausal woman as
+initial or endocrine therapy,
+use with fulvestrant
+Xofluza(baloxavir
+marboxil) film
+33 Import Treatment of influenza A or B
+coated Tablets [629]
+virus infection in patients
+40mg Miscellaneo
+Roche aged 12 and above(A single
+Xofluza(baloxavir 2019-11-22 us
+Korea dose of XOFLUZA should be
+marboxil) film Chemothera
+initiated within 48 hours
+34 Import coated Tablets -peutics
+of symptom onset.)
+20mg
+In combination with other
+[629]
+antiretroviral medicinal products,
+Miscellaneo
+Pipeltro Tab MSD Korea for the treatment of adults
+35 Import 2019-11-22 us
+(doravirine) Ltd infected with HIV-1 without
+Chemothera
+past or present evidence of
+-peutics
+other antiretroviral treatment
+Ongentys 25 mg Adjunctive therapy to preparations
+[119]
+36 Mfg. hard capsules of levodopa/ DOPA decarboxylase
+Miscellaneo
+(opicapone) SK inhibitors (DDCI) in adult
+us central
+Chemical 2019-11-26 patients with Parkinson’s disease
+Ongentys 50 mg nervous
+Co., Ltd. and end-of-dose motor
+37 Mfg. hard capsules system
+fluctuations who cannot be
+(opicapone) agents
+stabilised on those combinations
+Skyrizi Pre-filled Treatment of moderate to
+[142]
+Syringe Inj severe plaque psoriasis in
+AbbVie Non-specific
+38 Import (risankizumab, 2019-12-03 adults who require phototherapy
+Korea Ltd. immunogen
+Gene or systemic therapy (including
+preparations
+recombination) biological therapy)
+Eybelis Eye Santen Lowering of eye pressure in
+[131]
+drops 0.002% Pharmaceut the following diseases: open-
+39 Import 2019-12-03 Ophthalmic
+(Omidenepag ical Korea angle glaucoma and ocular
+agents
+Isopropyl) Co., Ltd. hypertension
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 25 -Table 16. List of New Drugs Developed in Korea (1999-2019) (Including Withdrawn Items)
+No. product name Company name Active ingredient Efficacy/ Effectiveness Remarks
+Anticancer drug 1999.7.15
+1 Sunpla Injection SK Chemicals Heptaplatin
+(stomach cancer) (1993.7.20)
+Easyf Solution DAEWOONG Recombinant human 2001.5.30
+2 Diabetic, foot ulcer treatment
+0.005% PHARMACEUTICAL epidermal growth factor (1997.3.4)
+2001.7.6
+3 Milican Injection DONG WHA PHARM. Holmium nitrate- 166 Anticancer drug (liver cancer)
+(1997.5.28)
+2001.12.17
+4 Q-ROXIN Tablet JW Pharmaceutical Balrofloxacin Antimicrobial agent (antibiotic)
+(1993.5.6)
+2002.12.27
+US FDA
+5 Factive Tablet LG Chemical . Gemifloxacin Mesylate Antimicrobial agent (antibiotic)
+approval
+(2003.4.4)
+2003.5.3
+6 Apitoxin Injection Guju Pharmaceutical Dry honey bee poison Arthritis treatment
+(1999.11.29)
+Pseudovaccine Pseudomonas preventive 2003.5.28
+7 CJ Healthcare Dried pseudomonas protein
+Injection vaccine (1995.1.26)
+8 Camtobell Injection Chong Kun Dang Pharm. Belotecan Anticancer drug 2003.10.22
+9 Revanex Tablet Yuhan Corporation Revaprazan HCl Anti-ulcer agent 2005.9.15
+Erectile dysfunction treatment
+10 Zydena Tablet DONG-A ST Udenafil 2005.11.29
+agent
+2006.11.13
+11 LEVOVIR Capsule Bukwang Pharm. Clevudine Hepatitis B treatment agent
+(2001.06.13)
+12 PELUBI Tablet Daewon Pharmaceutical Felubiprofen Osteoarthritis treatment agent 2007.4.20
+Erectile dysfunction treatment
+13 MVIX Tablet SK Chemicals Mirodenafil HCl 2007.7.18
+agent
+14 Noltec Tablet IL-YANG PHARM. Ilaprazole Anti-ulcer agent 2008.10.28
+Fimasartan potassium
+15 Kanarb Tablets Boryung Pharmaceutical Antihypertensive agent 2010.9.9
+trihydrate
+SHINPOONG Pyronaridine
+16 PYRAMAX Tablet Malaria treatment agent 2011.8.17
+Pharmaceutical Co. tetraphosphate, Artesunate
+Erectile dysfunction treatment
+17 ZEPEED Tablet JW Pharmaceutical Avanafil 2011.8.17
+agent
+18 Supect Capsule IL-YANG PHARM. Radotinib HCl Cancer drug (leukemia) 2012.1.5
+Gemigliptin tartrate
+19 Zemiglo Tablet LG Chemical Diabetes treatment agent 2012.6.27
+sesquihydrate
+20 Duvie Tablet Chong Kun Dang Pharm. Lobeglitazone sulfate Diabetes treatment agent 2013.7.4
+21 Riavax Injection KAEL GEMVAX Tertomoride hydrochloride Anticancer drug 2014.9.15
+22 Acelex Capsule CrystalGenomics Inc. Polmacoxib Osteoarthritis treatment agent 2015.2.5
+ZABOLANTE Zabo flocasin D-
+23 DONG WHA PHARM. Antimicrobial agent (antibiotic) 2015.3.20
+Tablets Aspartate hydrate
+24 Sivextro Tablet DONG-A ST Teddyolide phosphate Antimicrobial agent (antibiotic) 2015.4.17
+25 Sivextro Injection DONG-A ST Teddyolide phosphate Antimicrobial agent (antibiotic) 2015.4.17
+26 Suganon Tablet DONG-A ST Evogliptin tartrate Diabetes treatment agent 2015.10.2
+Olmutinib dihydrochloride
+27 Olita Tablet Hanmi Pharmaceutical Anticancer drug 2016.5.13
+monohydrate
+ILDONG
+28 BESIVO TABLET Bexifovir dipiviris Maleate Hepatitis B treatment agent 2017.5.15
+PHARMACEUTICAL CO.
+radioactive diagnostic agent
+29 Alzavue Inj. FutureChem Co., Ltd Florapronol(18F) 2018.2.2
+for AD
+30 K-CAP Tab. CJ Health Care Corp. Tegoprazan GERD treatment agent 2018.7.5
+※ Excluding Revoked items
+- 26 -1.3. Approval on orphan drugs
+Orphan drugs approved in 2019 were 11 items in total (including 2 orphan new
+drugs), which were all imported drugs and 8 chemical drug items and 3
+biopharmaceutical items were approved. For the number of ingredients, 9 ingredients
+were approved including 6 ingredients of chemical drugs, 3 ingredients of
+biopharmaceuticals (Refer to Table 17).
+Table 17. Orphan Drug Approval Status in 2019
+(Unit:: number of items)
+Total
+Item Chemical drug Biopharmaceuticals Herbal medicine
+(No. of ingredients)
+11 8 3
+Imported 0
+(9) (6) (3)
+Orphan 2 2
+0 0
+New Drug (2) (2)
+According to orphan drug approvals since 2010, the number of items approved was
+similar until 2014, but 49 items were approved in 2015, which is 1.8 times larger
+than the annual average of approved items for the recent 5 years (27 items). This
+seems to be an outcome of conducting of prior GMP program evaluation, review of
+specifications and test methods, and submission of risk management plan for orphan
+drugs since July 2015 (Refer to Table 18, Figure 4). From 2017, the approval of
+orphan drugs tends to decrease and 17 items and 11 items were approved in 2018
+and 2019 respectively.
+Table 18. Approval of New Orphan Drugs by year (2010-2019)
+(Including Revoked and Withdrawn items)
+(Unit: number of items)
+Item 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Orphan Drugs 26 26 27 28 28 49 34 18 17 11
+- 27 -Figure 4. Approval of New Orphan Drugs by year (2010-2019)
+* Total 11 items including orphan new drugs in 2019
+In addition, a total of 23 ingredients were designated as orphan drugs in 2019
+(Refer to Table 19).
+Table 19. Ingredients of Newly Designated Orphan Drugs in 2019
+No. Ingredient (General Name) Disease
+1 Mecasermin (Inj.) Growth failure in children due to severe primary IGF-1 deficiency
+Treatment of severe aplastic anemia that is refractory to
+2 Romiplostim (Inj.) immunosuppressive therapy or to which immunosuppressive therapy is
+not applied
+Treatment of relapsed or refractory acute myeloid leukemia patients with
+3 Gilteritinib (Oral)
+a FLT3 mutation
+Treatment of relapsed or refractory acute myeloid leukemia patients with
+4 Quizartinib (Oral)
+positive FLT3-ITD mutation
+5 Avelumab (Inj.) Treatment of metastatic Merkel cell carcinoma
+1. Patients up to 25years of age with B-cell precursor acute lymphocytic
+leukemia(ALL) that is refractory or in second or later relapse.
+2. Adult patients with relapsed or refractory(r/r) large B-cell lymophoma
+6 Tisagenlecleucel(Inj.)
+after two or more lines of systemic therapy including diffuse large
+B-cell lymophoma(DLBCL) not otherwise specified,, high grade B-cell
+lymphoma and DLBCL arising from follicular lymphoma.
+- 28 -No. Ingredient (General Name) Disease
+7 Galcanezumab (Inj.) Prophylaxis of migraine in adults
+8 Siponimod (Oral) Secondary advanced multiple sclerosis
+1. Locally advanced or metastatic non-small cell lung carcinoma with
+ROS1 positive
+2. The treatment of adult and pediatric patients with NTRK fusion-
+9 Entrectinib (Oral) positive locally advanced or metastatic solid tumors, who have a hihg
+potential severe morbidity during surgical resection,, and have
+progressed following prior therapies, or as initial therapy when there
+are no acceptable standard therapies.
+Neuron cell Ceroid Lipofuscinosis 2(Co., Ltd.N2) caused by tripeptidyl
+10 Cerliponase alfa(Inj.)
+peptidase 1 (TPP1) deficiency
+The treatment of adult patients with locally advanced or metastatic
+urothelial carcinoma, whose tumors have certain FGFR genetic
+11 Erdafitinib (Oral) alterations, who have disease progression during or following at least
+one line of prior chemotherapy including within 12 months of neoadjuvant
+or adjuvant chemotherapy
+Treatment of adult and pediatric patients with locally advanced or
+metastatic solid tumors
+with an NTRK gene fusion having a high likelihood of severe morbidity
+12 Larotrectinib (Oral)
+during surgical resection after
+prior standard therapy or as initial therapy when there is no adequate
+treatment option.
+13 Deutetrabenazine (Oral) Huntington's chorea
+Used as a low-intensity pre-treatment therapy in combination with
+fludarabine for hematopoietic stem cell transplantation in patients with the
+14 Treosulfan (Inj.) following diseases where standard pre-treatment therpary is not suitable:
+lymphoblastic leukemia, myelogenous leukemia, myelodysplastic
+syndrome, multiple myeloma, lymphoma
+Combination therapy with pomalidomide and dexamethasone in patients
+15 Isatuximab (Inj.) with multiple myeloma who previously received more than two kinds of
+treatments including lenalidomide and proteasome inhibitors
+Combination therapy with bendamustine and rituximab in adult patients
+with relapsed or refractory diffuse large B-cell lymphoma, who are
+16 Polatuzumab vedotin (Inj.)
+unsuitable for hematopoietic stem cell transplantation and have failed one
+kinds of previous treatments
+Combination therapy with Obinutuzumab in patients with chronic
+17 Acalbrutinib (Oral) lymphocytic leukemia who have not been previously treated over age 65
+or under 65 years of age with comorbid conditions
+Moxetumomab pasudotox Treatment of patients with hairy cell leukemia who have received two
+18
+(Inj.) or more previous treatments, including purine nucleoside analogy
+Lutetium(17LU) Treatment of gastrointestinal, pancreatic, adult neuroendocrine tumors
+19
+oxodotreotide (Inj.) with somatostatin receptor positive
+- 29 -No. Ingredient (General Name) Disease
+20 Inebilizumab (Inj.) Optic neuritis category disease
+21 Risdiplam (Oral) Spinal muscular atrophy
+Treatment of adult patients with recurrent or refractory acute myeloid
+22 Enasidenib mesylate (Oral)
+leukemia with Isocitrate dehydrogenase-2, IDH2 mutation
+23 Satralizumab (Inj.) Optic neuritis category disease
+- 30 -1.4. Item Approval and Notification by Major Efficacy Group and
+Classification Code
+Drug products approved and notified in 2019 by drug efficacy group are as
+follows: drugs for nervous systems such as dementia drugs (22.2%), drugs for
+circulatory systems such as hypertension drugs (18.8%), drugs for digestive organs
+such as stomach ulcer drugs (11.3%), metabolic drugs such as diabetes drugs, (9.1%)
+and antibiotic preparations (5.6%) in descending order (Refer to Table 20 and Figure 5).
+Table 20. Number of Approved and Notified Items by therapeutic class in 2019
+(Including Revoked and Withdrawn Items)
+(Unit: number of items)
+Class Metabolism
+no. Nervous Circulatory Digestive (390) Antibiotic Chemo Blood and Allergy
+system system system drugs therapy body fluid Others
+(220)
+(110, 120) (210) (230) Diabetes (610) (620) (330)
+Others
+Total (396)
+226 211
+1,070 902 545 (4.7%) (4.4%) 267 251 230 207 900
+4,809
+(22.2%) (18.8%) (11.3%) 437 (5.6%) (5.2%) (4.8%) (4.3%) (18.7%)
+(9.1%)
+Figure 5. Ratio of Approval Cases (Notification) Classified by Major Efficacy Groups in 2019
+- 31 -As for the approvals and notifications by therapeutic class since 2011, metabolic
+drugs, nervous system drugs, digestive system drugs and circulatory drugs take large
+part as in the previous year. In 2019, nervous system drugs which took the largest
+ratio as in the previous year increased by 2% YoY. Most of the nervous system
+drugs (67.8%) were Antipyretics, analgesic, and anti-inflammatory drugs and
+miscellaneous central nervous system agents. The drugs which took the second
+largest ratio were cardiovascular agents, most of which (98.8%) were
+antihypertensives, hyperlipidemia agents and miscellaneous cardiovascular agents
+(Refer to Figure 6 and Table 22).
+Figure 6. Annual Approval (Notification) of Drugs by Drug Therapeutic Class (2011-2019)
+According to detailed approvals and notifications by drug classification code for
+sub-therapeutic class, antihypertensives (code 214) and antipyretic, analgesic, and
+anti-inflammatory agents (code 114) took 10.0% (482 items) and 7.3% (351 items)
+respectively and they have remained top 5 for recent 5 years. Besides,
+miscellaneous central nervous system agents (7.8%, 374 items), peptic ulcer agents
+and hyperlipidemia agents (5.7%, 117 items) ranked high (Refer to Table 21).
+- 32 -Table 21. Single Classification Number of Top 5 Approval Items (2015～2019)
+(Including Revoked and Withdrawal Items)
+2015 2016 2017 2018 2019
+Efficacy Efficacy Efficacy Efficacy Efficacy
+No. of No. of No. of No. of No. of
+classification classification classification classification classification
+items items items items items
+(code number) (code number) (code number) (code number) (code number)
+Miscellaneous Antipyretics,
+Miscellaneous
+urogenital and 315 Antihypertensives 366 166 analgesics, and 152 Antihypertensives 482
+1 chemotherapeutics
+anal organ agents (10.8%) (214) (13.3%) (8.1%) anti-inflammatory (7.4%) (214) (10.0%)
+(629)
+(259) agents (114)
+Antipyretics, Antipyretics, Miscellaneous
+analgesics, and 261 Hyperlipidemia 227 analgesics, and 146 Antihypertensives 145 central nervous 374
+2
+anti-inflammatory (9.0%) agent (218) (8.2%) anti-inflammatory (7.1%) (214) (7.1%) system drugs (7.8%)
+agents (114) agents (114) (119)
+Miscellaneous Miscellaneous Antipyretics,
+Peptic ulcer 237 central nervous 177 Antihypertensives 138 central nervous 128 analgesics, and 351
+3
+agents (232) (8.1%) system drugs (6.4%) (214) (6.7%) system drugs (6.3%) anti-inflammatory (7.3%)
+(119) (119) agents (114)
+Antipyretics, Miscellaneous
+Antidiabetic agent 180 analgesics, and 173 central nervous 112 hyperlipidemia 117 Peptic ulcer 340
+4
+(396) (6.2%) anti-inflammatory (6.3%) system drugs (5.5%) agents (218) (5.7%) agents (232) (7.1%)
+agents (114) (119)
+Miscellaneous Miscellaneous
+Antihypertensives 175 Peptic ulcer 153 112 102 Hyperlipidemia 261
+5 metabolism metabolism
+(214) (6.0%) agents (232) (5.5%) (5.5%) (5.0%) agent (218) (5.4%)
+agents (399) agents (399)
+No. of drug No. of drug No. of drug No. of drug No. of drug
+products 2,915 products 2,761 products 2,049 products 2,046 products 4,809
+approved and (100%) approved and (100%) approved and (100%) approved and (100%) approved and (100%)
+notified in 2015 notified in 2016 notified in 2017 notified in 2018 notified in 2019
+- 33 -Table 22. Approval and Notification of Drug Products by Major Therapeutic Class in 2019
+Classification Drug classification code No. of items
+111 General anesthetics 2
+112 Hypnotics, sedatives, and anxiolytics 5
+113 Antiepileptics 81
+114 Antipyretics, analgesics, and anti-inflammatory agents 351
+116 Anti-vertigo agents 5
+Nervous system 117 Psychotropics 146
+drug 119 Miscellaneous central nervous system agents 374
+121 Local anesthetics 9
+122 Skeletal muscle relaxants 63
+123 Autonomic nervous system agents 15
+124 Antispasmodics 19
+Subtotal 1,070
+131 Ophthalmic agents 117
+Ophthalmology
+132 Otic and nasal agents 22
+and ENT
+Subtotal 139
+212 Antiarrhythmic agents 2
+214 Antihypertensives 482
+215 Capillary stabilizer 7
+217 Vasodilators 2
+Cardiovascular
+drugs and blood 218 Hyperlipidemia agents 261
+and body fluid 219 Miscellaneous Cardiovascular agents 148
+agents
+332 Hemostatics 1
+333 Anticoagulants 63
+339 Miscellaneous blood and body fluid agents 166
+Subtotal 1,132
+141 Antihistamines 58
+142 Non-specific immunogen preparations 8
+Respiratory 149 Miscellaneous allergic agents 141
+organs and 222 Antitussive expectorants 127
+Allergy drug
+223 Inhalation treatment preparations 10
+229 Miscellaneous respiratory organ agents 51
+Subtotal 395
+- 34 -Classification Drug classification code No. of items
+231 Dental and oral agents 8
+232 Peptic ulcer agents 340
+233 Stomachics and digestives 13
+234 Antacids 22
+Digestive tract
+235 Emetics and antiemetics 14
+drug
+237 Intestinal drugs 7
+238 Purgatives, clysters 68
+239 Miscellaneous digestive organ agents 73
+Subtotal 545
+253 Emmenagogue 1
+254 Contraceptives 11
+Urinary and Agent for urogenital organ(including venereal disease
+255 4
+reproductive prevantive medicine)
+system drug 256 Hemorrhoidal preparations 4
+259 Miscellaneous urogenital and anal organ agents 144
+Subtotal 164
+311 Vitamin A and D preparations 31
+312 Vitamin B1 preparations 4
+313 Vitamin B preparations (excluding vitamin B1) 1
+314 Vitamin C and P preparations 2
+315 Vitamin E and K preparations 1
+Multivitamins preparations (excluding multivitamin complex
+316 14
+with A and D)
+319 Miscellaneous vitamins 49
+321 Calcium preparations 8
+Metabolic drug
+322 Mineral preparations 9
+325 Protein and amino acid preparations 17
+329 Miscellaneous nourishing nutrients, tonic and alternatives 10
+391 Liver disease agents 28
+392 Antidotes 4
+394 Gout preparations 30
+395 Enzyme preparations 12
+399 Miscellaneous metabolism agents 152
+Subtotal 372
+396 Antidiabetic agents 211
+Antidiabetic drug
+Subtotal 211
+- 35 -Classification Drug classification code No. of items
+421 Antineoplastic agents 25
+Anticancer drug 429 Miscellaneous antitumors 3
+Subtotal 28
+611 Acting mainly acting on gram-positive bacteria 2
+612 Acting mainly acting on gram-negative bacteria 8
+Acting mainly acting on gram-positive germ, rickettsia,
+614 18
+and virus
+Acting mainly acting on gram-negative germ, rickettsia,
+615 6
+Antibiotics and virus
+Acting mainly acting on gram-positive and gram-negative
+618 187
+bacteria
+Miscellaneous antibiotic agents (including complex antibiotic
+619 46
+agents)
+Subtotal 267
+Chemotherapeutic 629 Miscellaneous Chemotherapeutics 251
+agent Subtotal 251
+Others (classification that does not belong to the above efficacy group) 235
+Total 4,809
+- 36 -2
+Information on Approval
+of Drugs (Chemical Drugs)
+- 37 -2. Information on Approval of Drugs (Chemical Drugs)
+The number of chemical drugs approved in 2019 by review type is as follows: new
+drugs (28), orphan drugs (8), drugs requiring data submissions (196 including 13
+incrementally modified drugs), and drug substances (4) items. The highest proportion
+of drugs requiring data submission (196 items) was taken by drugs with new
+composition accounting for 54.6% (107 items), followed by drugs with new formulation
+(same route of administration) and drugs with changes in strength of active
+ingredients, accounting for 36.2% (71 items) and 6.1% (12 items) respectively (Refer
+to Table 23).
+Table 23. Approval of Pharmaceutical Drugs (Chemical Drugs) by Review Type in 2019
+Type Review type No. of approved items
+1 New drugs New drugs 28
+2 (28) Orphan new drugs Orphan drugs 0
+3 Orphan drugs (8) 8
+4 Drugs requiring data submission 196
+Incrementally New composition 12
+4-1 13
+modified new drug Change in strength 1
+4-2 New salts or isomers 2
+4-3 New composition 95
+4-4 Drugs requiring Change in strength 11
+183
+4-5 data submission New route of administration 1
+4-6 New administration/dosage 3
+4-7 New dosage form (same route of administration) 71
+5 Drug substance 4
+- 39 -The number of new drug items approved in 2019 (excluding new drugs to which
+post approval change was made including those removed from the orphan drug list)
+was 28 items, increased by about 2.5 times than 11 items in 2018, of which 24 items
+(85.7%) were imported items (Refer to Table 24). The number of incrementally
+modified drugs increased to 13 items in 2019 compared to 6 items in 2018 (new
+formulation with the same administration route), and the development type and drug
+efficacy group also were various. In detail, following drugs were approved as
+incrementally modified drugs: combination drug with new composition (11 items) that
+proved their improved efficacy, drug of which improved usability through new
+composition and formulation improvement (liquid → tablet) was acknowledged (1
+item); and drug with changes in strength which improved the administration/dosage
+(1 item) (Refer to Table 28).
+The Ministry of Food and Drug Safety(MFDS) has been operating the “Pharm
+Navi Project” since 2014 in order to support the fast commercialization of
+domestically developed drugs and to support entry into the global market. “Pharm
+Navi Project” was introduced to provide safe and excellent medicines to patients
+promptly and to actively support new drug development research. Especially, the
+new drug pipeline, innovation and unsatisfactory medical field items may be provided
+with close consulting service through “Medical Product Commercialization
+Navigator” through which the direction of the overall approval and review process
+on real time base during the product development.
+In addition, since July 2018, the MFDS has been operating a “pharm. together,”
+a government-private sector communication channel in order to derive improvement
+measures by discussing current problems or issues arising from the drug approval
+and review process and also making efforts to resolve difficulties related to such
+process through active and all time communications with the industry.
+Furthermore, in case of inquiry into the overall approval and review process
+- 40 -during drug development, consultations with the responsible department through the
+consultation channel (MFDS website (www.mfds.go.kr) > “Reservation for One-Stop
+Consultation”) is available. In addition, process of receiving a notice of the review
+result through an application for “Prior Review” is available for those who wish to
+obtain a drug item approval (notification) intend to have criteria for preparing data
+for approval/notification reviewed in advance.
+- 41 -2.1. Information on approval of new drugs
+The number of new drugs approved in 2019 was 32 items (4 manufacturing items
+and 28 import items), increased by almost 3 times compared to 2018 and the top
+classifications codes of the approved items are in the order of anticancer drugs (12
+items), central nervous system drugs (7 items), miscellaneous chemotherapeutic
+agents (4 items), and digestive tract drugs (4 items) (See Table 24 ~ Table 26).
+Table 24. Approval Status of Manufactured/Imported New Drugs (2014-2019) (Chemical Drugs)
+(Unit: number of items)
+2014 2015 2016 2017 2018 2019
+Manufactured 3 6 2 1 2 4
+Imported 38 22 22 20 9 28
+Total 411) 282) 243) 214) 115) 326)
+YoY Growth (%) -31.7% -14.3% -12.5% -47.6% 190.9%
+1) Including 1 drug removed from the orphan drug list in 2014:
+(Removed from the orphan drug list) Symbenda Injection
+2) Including 4 drug removed from the orphan drug list in 2015:
+(Removed from the orphan drug list) Xtandi Soft Capsule 40mg, Volibris Tablet 5mg, 10mg
+and Zytiga Tablet 250mg
+3) Including 4 items designated as both new drug and orphan drug, and 3 items removed from the
+orphan drug list in 2016:
+(New orphan drugs) Tecfidera Capsule 120, 240mg and Ofev Soft Capsule 100, 150mg,
+(Removed from the orphan drug list) Jakavi Tablet 5, 15, 20mg
+4) Including 4 items removed from the orphan drug list in 2017:
+(Removed from the orphan drug list) Pomalyst capsule 1, 2, 3, 4 mg
+5) Including 3 items which were approved as both new drug and orphan drug in 2018:
+(Orphan new drug) Prevymis Inj., Prevymis Tab. 240mg, 480mg
+6) Including 4 drug removed from the orphan drug list in 2019:
+(New orphan drugs) Cerdelga cap 84mg
+(Removed from the orphan drug list) Cabometyx tab. 20, 40 and 60mg
+- 42 -Table 25. Approval Status of New Drugs by Drug Classification Code (2014-2019) (Chemical Drugs)
+(Unit: number of items)
+Blood
+Anti Anti RadiologiAnti-ho Public
+NervousCirculatoryRespiraCoagul Meta Chemo Sensory Liver OuterDigestive
+Diabetes neoplabioticAllergy cal rmone sanitaryTotal
+system system tory ation bolic therapy organ disease skin organs
+stic matter diagnosis drug cares
+inhibitor
+2014 16 1 4 0 8 0 2 5 0 1 2 1 1 0 0 0 0 41
+2015 8 2 1 3 2 0 5 4 2 0 0 0 1 0 0 0 0 28
+2016 2 6 2 0 0 0 2 9 0 0 0 0 0 3 0 0 0 24
+2017 0 3 0 0 0 0 2 9 1 4 0 1 0 0 1 0 0 21
+2018 0 1 0 0 2 0 4 0 0 0 0 0 1 0 1 2 0 11
+2019 7 0 0 0 0 1 4 12 0 0 3 0 0 0 0 4 1 32
+In 2019, 5 items of antiepileptic drugs, 2 items of drugs for miscellaneous central
+nervous system (Parkinson's syndrome adjuvant treatment), 4 items of miscellaneous
+chemotherapeutic agents, 9 items of anticancer drugs, 3 items of ophthalmic agents,
+4 items of digestive tract drugs and 1 item of other public sanitary cares used in
+disinfection of medical devices were approved.
+The product names, manufacturers, dates of approval, API, efficacy and
+effectiveness, mechanism of action for new drugs approved in 2019 in the sequential
+order of are as follows:
+‘Xiidra Eye drops (Lifitegrast)’ (Shire Pharma Korea Co., Ltd., approved on Jan.
+9, 2019) is used to treat dry eye in adults. The active ingredient, ‘Lifitegrast’
+relieves T cell mediated inflammatory responses by inhibiting the binding between
+lymphocyte function-related antigen-1 (LFA-1) which is the cell surface protein of
+lymphocytes and intercellular adhesion molecule-1 (ICAM-1).
+‘Biktarvy Tab’ (Gilead Science Korea Ltd., approved on Jan. 18, 2019) is a
+- 43 -three-drug combination pill for HIV sued in treatment of HIV-1 infection in adults
+without resistance substitution known for each ingredient of this drug, which shows
+the stable virus figure inhibiting effects for 3 months or more without experience in
+antiretroviral therapy, or failure to treat existing antiretroviral therapy (HIV-1 RNA
+<50 copies/mL).
+The active ingredients of this drug are ‘Bictegravir/ Emtricitabine/ Tenofovir
+Alafenamide’. ‘Bictegravir’ is an integrase inhibitor (INSTI), combined on the
+intergrase active area and blocks the retroviral deoxyribonucleic acid (DNA)
+integrase step, which is essential for the HIV replication cycle. ‘Emtricitabine’ is
+a nucleoside reverse transcriptase inhibitor (NRTI), which inhibit HIV replication.
+‘Tenofovir Alafenamide’ is a nucleotide reverse transcriptase inhibitor (NtRTI)
+which inhibits HIV replication.
+‘Granatec Eye Drops 0.4% (Ripasudil Hydrochloride Dihydrate)’ (Kowa Korea CL,
+approved on Feb. 2, 2019) an ophthalmic agents used in reducing intraocular
+pressure in patients with open-angle glaucoma and hypertension who are inadequate
+or unable to use topical beta-blockers or prostaglandin derivatives. The active
+ingredient, ‘Ripasudil Hydrochloride Dihydrate’ inhibits rho-associated, coiled-coil
+containing protein kinase and lowers intraocular pressure by promoting aqueous
+humor outflow to the trabecular meshwork Schlemm tube.
+‘Briviact Solution, Briviact Tab (Brivaracetam)’ (Korea UBC CL, approved on
+Mar. 4, 2019)' is an antiepileptics used for additional therapy for partial seizure
+therapy with or without secondary generalized seizures in patients with epilepsy over
+16 years old. The active ingredient, ‘Brivaracetam’ has a high selective affinity
+for synaptic vesicle protein 2A (SV2A) in the brain, and the binding to SV2A is
+considered a major mechanism related with the anticonvulsant activity of
+brivaracetam.
+- 44 -‘Tristel Spori Wipes & Form’ (HP&C Limited, approved on Mar. 26, 2019) is
+used for disinfection of medical devices such as endoscopes and ultrasound probes
+without lumen. This drug is a public sanitation drug that is not applied directly to the
+human body. It is a combination preparation of ‘sodium chlorite’ and ‘citric
+acid’ as active substance and indicates bactericidal action by lysis of chlorine
+dioxide, which occurs when sodium chlorite and citric acid are mixed.
+‘Vosinty Tab (Vonoprazan Fumarate)’ (Takeda Korea Pharmaceutical, approved
+on Mar. 29, 2019) is used for prevention of recurrence of gastric ulcer or duodenal
+ulcer in gastric ulcer, erosive gastroesophageal reflux disease and the maintenance
+therapy after treatment of gastric ulcer or administration of nonsteroidal
+anti-inflammatory drugs (NSAIDs). The active ingredient, ‘Bonoprazan’ is a
+potassium-competitive acid blocker (P-CAP), which reversibly blocks the gastric acid
+pump of gastric wall cells to show gastric acid secretion inhibitory effect.
+‘Verzenio Tab (Lifitegrast)’ (Lilly Korea Ltd., approved on May 1, 2019) is a
+breast cancer drug used in combination administration with aromatase inhibitors as a
+primary endocrine-based therapy for the treatment of postmenopausal women with
+advanced or metastatic breast cancer in hormone receptor (HR) - positive and
+human epithelial growth factor receptor 2 (HER2) - negative and in combination
+administration with Fulvestrant in treatment of women with advanced or metastatic
+breast cancer with hormonal receptor (HR) -positive and human epithelial growth
+factor receptor 2 (HER2) - negative who developed the disease with after endocrine
+therapy. The active ingredient, ‘Lifitegrast’ acts on CDK (Cyclin-dependent
+kinase, an enzyme that promotes cancer cell growth) 4 and 6 to inhibit cancer cell
+growth.
+‘Amitiza Soft Cap (Lubiprostone)’ (Takeda Korea Pharmaceutical, approved on
+May 17, 2019) is used in 1. treatment of chronic idiopathic constipation in adults and
+2 treatment of narcotic analgesic (opioid) - induced constipation in adult patients
+- 45 -with chronic non-cancerous pain. The active ingredient, ‘Lubiprostone’ activates
+chlorine-carrying proteins in the intestinal lining cells to increase intestinal fluid
+secretion, thereby increasing motility in the intestine, facilitating bowel movements
+and alleviating symptoms associated with chronic idiopathic constipation.
+‘Ceredelga Cap. 84mg (Eliglustatartartrate)' (Sanofi-aventis Korea, approved on
+Oct. 2, 2019 as new drug after post approval change was made) is an orphan drug
+used in the long-term treatment of adult patients with Type 1 Gaucher’s disease
+(GD1) as CYP2D6 poor metabolizer (PM), intermediate metabolizer (IM) or extensive
+metabolizer (EM). Once gluceramide remains continuously without breakdown in cells
+of the human body, metabolic inflammation occurs, which leads to Gaucher disease.
+The active ingredient in this drug, ‘Eliglustatartartrate’ is a substrate reduction
+treatment (SRT) that partially reduces the substrate that the glucoserebrosidase
+enzyme causing Gaucher's disease by inhibiting glucosylceramide synthase should
+break up.
+‘Cabometyx Tab (Cabozantinib)' (IPSEN Korea CL,, approved on Oct. 11, 2019 as
+new drug after post approval change was made) is an anticancer drug used to treat
+renal cell cancer and hepatocellular carcinoma. It is used in treatment of patients
+with advanced kidney cell caarinoma who had been treated with VEGF (Vascular
+endothelial growth factor) target therapy prior to treatment of kidney cell caarinoma
+and in treatment of patients with liver cell caarinoma who had been treated with
+sorafenib prior to treatment of liver cell caarinoma. The active ingredient,
+‘cabozantinib’ is a multi-receptor tyrosine kinase inhibitor, and inhibits tumor
+growth, metastasis, and angiogenesis, showing anticancer effects.
+‘Lonsurf Tab’ (Cheil Pharmaceutical Co., Ltd., approved on Oct. 17, 2019) is a
+complex formulation containing ‘Tipiracil hydrochloride’ and previously approved
+ingredient ‘Trifluridine’ used in treatment of patients with metastatic colorectal
+cancer, who have been previously been treated with anticancer chemotherapy based
+- 46 -on the fluoropyrimidine, oxaliplatin and irinotecan, and have been treated with an
+anti-VEGF drug or anti-EGFR drug (for RAS wild type) or cannot be treated. This
+drug inhibits cancer cell DNA synthesis and shows anticancer effect. ‘Tipiracil
+hydrochloride’ is a thmidine phosphorylase inhibitor that delays Trifluridine
+metabolism.
+‘Lynparza Tab (Olaparib)’ (AstraZeneca Pharmaceutical Co. Ltd, approved on
+Oct. 29, 2019) is an anticancer drug used for ovarian and breast cancer. It is used
+in the maintenance therapy in adult patients with advanced BRCA mutation in high
+grade epithelial ovarian cancers, fallopian tube cancer or primary peritoneal cancer
+newly diagnosed in response to primary platinum-based chemotherapy (partially or
+completely), in the single maintenance therapy for adult patients with
+platinum-sensitive, recurrent, highly epithelial ovarian cancer (including fallopian
+tube cancer or primary peritoneal cancer) in response to more than secondary
+platinum-based therapy (partially or completely) and the treatment of adult patients
+with gBRCA mutation HER2-negative metastatic breast cancer, who have previously
+had chemotherapy treatment. The active ingredient, ‘Olaparib’ is a poly
+(ADP-ribose) polymerase (PARP) inhibitor, which kills cancer cells through inhibitory
+action to repair DNA damage.
+‘Kisqali Tab (Ribociclib succinate)’ (Novartis Korea Co., Ltd., approved on Oct.
+30, 2019) is an anticancer drug used in patients with advanced or metastatic breast
+cancer who have hormone receptor (HR) positive and human epidermal growth
+factor receptor 2 (HER2) negative. ‘Ribociclib succinate’ is a cyclin-dependent
+kinase (CDK) 4 and 6 inhibitor that inhibits cancer cell growth through disruption of
+cell cycle progression.
+‘Pipeltro Tab (Doravirine)’ (MSD Korea Ltd, approved on Nov. 20, 2019) is an
+anti-retroviral agent used in administration with other antiretroviral agents to treat
+HIV-1 infection in adult patients without antiretroviral treatment experience. The
+- 47 -active ingredient, ‘Doravirine’ is a pyridinone non-nucleoside reverse
+transcriptase inhibitor (NNRTI) against HIV-1, which inhibits HIV-1 replication by
+non-competitively inhibiting HIV-1 reverse transcriptase (RT).
+‘Xofluza Tab (Baloxavir marboxil)' (Roche Korea, approved on Nov. 22, 2019) is
+an influenza infection drug used in treatment of A or B type virus infection in adults
+and adolescents aged 12 or older (administration begins within 48 hours after onset
+of the initial symptoms of influenza infection). ‘Baloxavir marboxil’ is a
+cap-dependent endonuclease (CEN) selective inhibitor, which is converted to
+‘Baloxavir’, which exhibits anti-influenza activity through hydrolysis.
+‘Baloxavir’ inhibits the replication of the influenza virus by inhibiting the
+transcription of the influenza virus genome.
+‘Ongentis Cap (Opicapone)’ (SK Chemical, approved on Nov. 26, 2019) is an
+anti-Parkinson's agent used for adjuvant treatment of Levodopa/dopa decarboxylase
+Inhibitor (DDCI) for patients with Parkinson's syndrome accompanying motor
+fluctuation symptom not improved by levodopa/dopa decarboxylase Inhibitor (DDCI)
+standard therapy. The active ingredient ‘Opicapone’ is reversible and selective
+COMT inhibitor. In patients taking Levodopa and dopa decarboxylase (DDCI), the
+drug increases the plasma concentration of Levodopa, thereby enhancing the
+efficacy.
+‘Eybelis Eye drops 0.002% (Omidenepag Isopropyl)’ (Santen Pharmaceutical
+Korea, approved on Dec. 3, 2019) is an ophthalmic agent used for intraocular
+depression in open-angle glaucoma and hypertension. The active ingredient,
+‘Omidenepag Isopropyl’ promotes aqueous humor outflow through the trabecular
+meshwork passage and uvea sclera passage by stimulation of selective EP2
+receptors.
+- 48 -Table 26. Approval Status of New Drugs in 2019 (Chemical Drugs)
+Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approva (partially omitted)
+Shire Pharma [131] Treatment of the signs
+Xiidra Eye drops
+1 Import Korea Co., 2019-01-09 Ophthalmic and symptoms of dry eye
+(Lifitegrast)
+Ltd. agents disease in adults.
+Treatment of HIV-1 infection
+in adults who have no
+experience with antiretroviral
+therapy, or who have stable
+virus level suppression
+[629] effect for at least 3 months
+Gilead Science Miscellaneous without treatment failure in
+2 Import Biktarvy Tab 2019-01-18
+Korea Ltd. Chemothera the existing antiretroviral
+-peutics therapy (HIV-1 RNA <50
+copies/mL) and without and
+known resistance-related
+substitutions for each
+individual component of this
+drug
+Decreased inocular pressure
+in patients with open-angle
+Granatec Eye drops
+glaucoma and ocular
+0.4% [131]
+Kowa Korea hypertension who have
+3 Import (Ripasudil 2019-02-21 Ophthalmic
+Co., Ltd. insufficient response to local
+Hydrochloride agents
+β-blocker or prostaglandin
+Dihydrate)
+derivatives or not available
+to use
+Briviact Solution
+4 Import
+(brivaracetam)
+Briviact Tab. 10mg
+5 Import Additional therapy for
+(brivaracetam)
+partial seizure therapy with
+Briviact Tab. 25mg Korea UBC [113] or without secondary
+6 Import 2019-03-04
+(brivaracetam) Co., Ltd. Antiepileptics systemic seizures in
+patients with epilepsy over
+Briviact Tab. 50mg
+7 Import 16 years old
+(brivaracetam)
+Briviact Tab. 100mg
+8 Import
+(brivaracetam)
+Disinfection of medical
+[739]
+Tristel Spori instruments such as
+9 Import HP&C Limited 2019-03-26 Other public
+Wipes&Form endoscopes and ultrasound
+sanitary cares
+probes without lumen
+Vosinty Tab. 10mg
+Prevention of recurrence of
+10 Import (vonoprazan Takeda Korea [232]
+gastric ulcer or duodenal
+fumarate) 2019-03-29 Peptic ulcer
+ulcer in gastric ulcer,
+Pharmaceutical agents
+11 Import Vosinty Tab. 20mg erosive gastroesophageal
+- 49 -Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approva (partially omitted)
+reflux disease. maintenance
+therapy after treatment of
+gastric ulcer or
+(vonoprazan
+administration of
+fumarate)
+nonsteroidal
+anti-inflammatory drugs
+(NSAIDs)
+Verzenio Tab. 50mg
+12 Import ⦁ Combination administration
+(abemaciclib)
+with aromatase inhibitors
+as a primary endocrine-
+Verzenio Tab. 100mg based therapy for the
+13 Import
+(abemaciclib) treatment of postmen
+opausal women with
+advanced or metastatic
+Verzenio Tab. 150mg breast cancer in hormone
+14 Import
+(abemaciclib) receptor (HR) - positive
+and human epithelial
+growth factor receptor 2
+[421]
+(HER2) - negative
+Lilly Korea Ltd. 2019-05-01 Antineoplastic
+⦁Combination administration
+agents
+with Fulvestrant in
+treatment of women with
+advanced or metastatic
+breast cancer with
+Verzenio Tab. 200mg
+15 Import hormonal receptor (HR)
+(abemaciclib)
+-positive and human
+epithelial growth factor
+receptor 2 (HER2) -
+negative who developed
+the disease with after
+endocrine therapy
+Amitiza Soft Cap.
+1. Treatment of chronic
+16 Import 8μg
+idiopathic constipation in
+(lubiprostone)
+adults
+Takeda Korea [238]
+2. Treatment of narcotic
+2019-05-17 Purgatives,
+Amitiza Soft Cap. analgesic (opioid) -
+Pharmaceutical clysters
+17 Import 24μg induced constipation in
+(lubiprostone) adult patients with chronic
+non-cancerous pain
+2019-10-02
+Long-term treatment of
+(Conversion [399]
+Ceredelga Cap. Sanofi-aventis adult patients with Type 1
+to orphan/ Miscellaneous
+18 Import 84mg (eliglustat Korea Co., Gaucher’s disease (GD1)
+new drug ) metabolism
+tartrate) Ltd. as CYP2D6 poor metabolizer
+*Initial agents
+(PM), ntermediate
+approval
+- 50 -Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approva (partially omitted)
+date: metabolizer (IM) or
+2015-11-12 extensive metabolizer (EM)
+Cabometyx Tab. 1) Treatment of patients with
+19 Import
+(cabozantinib) advanced kidney cell
+Cabometyx Tab. caarinoma that has been
+20 Import
+(cabozantinib) 2019-10-11 treated with VEGF
+(release from (Vascular endothelial
+orphan and growth factor) target
+conversion to [421] therapy prior to
+IPSEN Korea
+new drug) Antineoplastic treatment of kidney cell
+Co., Ltd.
+*Initial agents caarinoma
+Cabometyx Tab.
+21 Import approval 2) Treatment of patients with
+(cabozantinib)
+date: liver cell caarinoma that
+2017-09-26 has been treated with
+sorafenib prior to
+treatment of liver cell
+caarinoma
+Treatment of patients with
+metastatic colorectal
+22 Mfg. Lonsurf 15 cancer, who have
+previously been treated
+with anti-cancer
+[421] chemotherapy based on
+Jeil pharma 2019-10-17 Antineoplastic the fluoropyrimidine,
+holdings inc. agents oxaliplatin and irinotecan,
+and have been treated or
+23 Mfg. Lonsurf 20 not able to be treated
+with anti-VEGF treatment,
+anti-EGFR treatment (for
+RAS wild type)
+Lynparza Tab.
+Ovarian cancer
+24 Import 100mg
+• Maintenance therapy in
+(Olaparib)
+adult patients with
+advanced BRCA
+mutation in high grade
+epithelial ovarian
+cancers, fallopian tube
+[421] cancer or primary
+Astra Zeneca
+2019-10-29 Antineoplastic peritoneal cancer newly
+Lynparza Tab. Korea
+agents diagnosed in response
+25 Import 150mg
+to primary
+(Olaparib)
+platinum-based
+chemotherapy (partially
+or completely)
+• Single maintenance
+therapy for adult
+patients with
+- 51 -Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approva (partially omitted)
+platinum-sensitive,
+recurrent, highly
+epithelial ovarian cancer
+(including fallopian
+tube cancer or primary
+peritoneal cancer) in
+response to more than
+secondary
+platinum-based therapy
+(partially or completely)
+Breast cancer
+Treatment of adult
+patients with gBRCA
+mutation HER2-negative
+metastatic breast cancer.
+who have previously had
+chemotherapy treatment.
+The patient may have
+undergone adjuvant therapy
+before surgery, adjuvant
+therapy after surgery, or
+chemotherapy under
+metastatic conditions.
+This drug is used in
+patients with advanced or
+metastatic breast cancer
+who have hormone
+receptor (HR) positive and
+human epidermal growth
+factor receptor 2 (HER2)
+negative and administered
+in combination as follows.
+• Combination with
+[421]
+Kisqali Tab. 200mg Novartis Korea aromatase inhibitors as
+26 Import 2019-10-30 Antineoplastic
+(Ribociclib succinate) Co., Ltd. a primary endocrine
+agents
+therapy in
+premenopausal,
+perimenopausal, or
+postmenopausal women
+• If the disease has
+progressed in
+postmenopausal women
+undergoing primary or
+endocrine therapy, use
+with fulvestrant
+Xofluza Tab. 20mg [629] Treatment of influenza A or
+27 Import
+(baloxavir marboxil) Miscellaneous B virus infection in adults
+Roche Korea 2019-11-22
+Xofluza Tab. 20mg Chemothera and adolescents more than
+28 Import
+(baloxavir marboxil) -peutics 12 years (administration
+- 52 -Mfg./ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approva (partially omitted)
+begins within 48 hours
+after onset of the initial
+symptoms of influenza
+infection)
+Administered with other
+[629] antiretroviral agents to treat
+Pipeltro Tab MSD Korea Miscellaneous HIV-1 infection in adult
+29 Import 2019-11-22
+(doravirine) Ltd Chemothera patients without
+-peutics antiretroviral treatment
+experience
+Ongentis Cap. 25mg
+30 Mfg. Adjuvant drug of
+(opicapone)
+L e v o d o p a / d o p a
+[119] decarboxylase Inhibitor
+Miscellaneous (DDCI) for patients with
+central Parkinson's syndrome
+SK Chemicals 2019-11-26
+Ongentis Cap. 50mg nervous accompanying motor
+31 Mfg.
+(opicapone) system fluctuation symptom not
+agents improved by levodopa/dopa
+decarboxylase Inhibitor
+(DDCI) standard therapy
+Santen Lowering of eye pressure
+Eybelis Eye drops [131]
+Pharmaceutical in the following diseases:
+32 Import 0.002% (Omidenepag 2019-12-03 Ophthalmic
+Korea Co., open-angle glaucoma and
+Isopropyl) agents
+Ltd. ocular hypertension
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 53 -2.2. Information on Approval of orphan drugs
+As a chemical drug approved in 2019, the number of orphan drugs were 8
+items (8 imported items) were orphan new drugs (Refer to Table 27).
+The approval of orphan drugs by classification code is as follows: 5 items of
+anticancer drugs, 2 items of miscellaneous central nervous system drugs, and 1 item
+of ophthalmic agents. From 6 ingredients of orphan drugs approved in 2019, all
+except ‘Tacrolimus Hydrate’ were newly designated ingredients in 2018 as orphan
+drugs.
+Table 27. Approval Status of Orphan Drug in 2019 (Chemical Drugs)
+Mfg./ Date of
+No. Product Company Code Efficacy/Effectiveness Designation of Orphan Drugs
+Import Approval
+Serial. 229
+No. (Designated in 2018)
+1. Combination of
+Ingredient Midostaurin (Oral)
+standardized
+1. Combination of
+cytarabine and
+standardized
+daunorubicin
+cytarabine and
+induction therapy
+daunorubicin
+with high-dose
+induction therapy
+cytarabine
+with high-dose
+consolidation therapy
+cytarabine
+in newly diagnosed
+Rydapt Soft Novartis [421] consolidation therapy
+acute myeloid
+1 Import Cap. 25mg Korea Co., 2019-02-14 Antineoplastic in newly diagnosed
+leukemia patients
+(midostaurin) Ltd agents Target acute myeloid
+with positive FLT3
+Disease leukemia patients
+mutation.
+with positive FLT3
+2. Aggressive systemic
+mutation.
+mastocytosis.
+2. Aggressive systemic
+systemic
+mastocytosis.
+mastocytosis with
+systemic
+hematologic
+mastocytosis with
+neoplasm, mast cell
+hematologic
+leukemia
+neoplasm, mast cell
+leukemia
+Serial. 233
+Single maintenance
+No. (Designated in 2018)
+therapy for adult
+Ingredient Niraparib (Oral)
+patients with
+1. maintenance
+Zejula Cap. platinum-sensitive,
+Takeda treatment of adult
+100mg [421] recurrent, HSROC
+Korea patients with
+2 Import (Niraparib 2019-03-22 Antineoplastic (including fallopian tube
+Pharmaceu platinum-sensitive,
+tosylate agents cancer or primary Target
+tical recurrent ovarian,
+monohydrate) peritoneal cancer) Disease
+fallopian tube, or
+who responded to more
+primary peritoneal
+than secondary
+cancer who are in
+platinum-based
+response (complete
+- 54 -response or partial
+response) to
+platinum-based
+chemotherapy
+2. Monotherapy of 1)
+BRCA mutations
+(regardless of
+platinum sensitivity) or
+2) platinum-sensitive
+chemotherapy (partially
+homologous
+or completely)
+recombination
+Monotherapy of 1)
+deficiency (HRD)
+BRCA mutations
+positive recurrent
+(regardless of platinum
+ovarian cancers
+sensitivity) or 2)
+(including adult
+platinum-sensitive
+patients with tubal
+homologous
+cancer or primary
+recombination deficiency
+peritoneal cancer)
+(HRD) positive recurrent
+that have previously
+ovarian cancers
+been administered
+(including adult patients
+more than 3 times of
+with tubal cancer or
+chemotherapy
+primary peritoneal
+3. Single maintenance
+cancer) that have
+therapy for adult
+previously been
+patients
+administered more than
+Platinum-sensitive
+3 times of
+ovarian cancer
+chemotherapy
+(including fallopian
+tube cancer or
+primary peritoneal
+cancer) in response
+to primary
+platinum-based
+therapy (including
+partial or complete
+response)
+[119] the treatment of visual Serial. 228
+Raxone Film Miscellaneousimpairment in No. (Designated in 2018)
+DKSH adolescent and adult
+Coated Tab. central Ingredient Idebenone(Oral)
+3 Import Manageme 2019-09-10 patients with
+150mg nervous
+nt Ltd. Leber’s Hereditary Target Leber’s Hereditary Optic
+(Idebenone) system Optic Neuropathy
+Disease Neuropathy (LHON)
+agents (LHON)
+[119] Serial. 232
+Miscellaneous No. (Designated in 2018)
+Maven Clad Treatment of relapsing,
+Merck central Ingredient Cladribine (Oral)
+4 Import Tab 2019-07-09 remitting multiple
+Korea nervous Treatment of relapsing,
+(Cladribine) sclerosis Target
+system remitting multiple
+Disease
+agents sclerosis
+Serial. 227
+Vernal
+No. (Designated in 2017)
+keratoconjunctivitis with
+Allimus Eye Tacrolimus hydrate(Eye
+Taejoon [131] massive papillary Ingredient
+drops 0.1% drops)
+5 Import Pharm. 2019-07-11 Ophthalmic hyperplasia in the eyelid
+(Tacrolimus
+Co., Ltd agent conjunctiva (if the effect
+hydrate) Target Vernal
+of an anti-allergic agent
+Disease keratoconjunctivitis(if the
+is insufficient)
+- 55 -effect of an anti-allergic
+agent is insufficient)
+Venclexta Serial. 237
+6 Import Tab. 100mg No. (Designated in 2018)
+Monotherapy in patients
+(venetoclax) Ingredient venetoclax(Oral)
+with chronic lymphocytic
+Venclexta Single administration to
+[421] leukemia who are
+7 Import Tab. 50mg AbbVie chronic lymphocytic
+2019-05-29 Antineoplastic relapsed or refractory to
+(venetoclax) Korea Ltd. leukemias unsuccessful
+agents chemoimmunotherapy Target
+or unsuitable for
+Venclexta and an inhibitor of B disease
+chemoimmunotherapy
+8 Import Tab. 100mg cell receptor pathway
+and an inhibitor of B
+(venetoclax)
+cell receptor pathway
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 56 -2.3. Information on Approval of incrementally modified drugs
+‘Incrementally modified drugs’ refers to the drugs which the Minister of MFDS
+authorizes as incrementally modified or medicinally advanced for the safety,
+efficacy, and usefulness (medication compliance, convenience, etc.) compared to
+approved (notified) drugs requiring data submission under Article 2(8) of the
+Regulations for Pharmaceutical Approval, Notification and Review.
+The development types of incrementally modified drugs approved for the last 5
+years are as follows: development of combination drugs with new composition of
+active substances (drugs containing 2 or more active ingredients in one product) was
+noticeable from 2016 to 2017; and 6 SR tablet items with improved
+administration/dosage by reducing the number of intakes were accepted as
+incrementally modified drugs in 2018. In 2019, 13 items with improved efficacy (11
+items) and improved usability (2 items) were approved as incrementally modified
+drugs (Refer to Table 28).
+The detailed acceptance criteria for the incrementally modified drugs (13 items)
+approved in 2019 are as follows: 11 items of combination products with new
+composition that proved their improved efficacy (increased treatment effects) (8
+items of 2-drug combination for hyperlipidemia and 3 items of 3-drug combination
+for hypertension); 1 item of pre-treatment bowel cleansing agent for colon
+screening, of which usefulness was accepted through improvement of
+administration/dosage of the previously approved items (total dose reduction: 3L, 4L
+→ 2L); and 1 item of pre-treatment bowel cleansing agent for colon screening, of
+which usability (medication compliance and convenience) was improved through new
+composition and formulation improvement of active substance (liquid → tablet).
+- 57 -Table 28. Type of Incrementally Modified Drugs in 2015～2019
+New composition New dosage form New routes of
+Year Total
+or combination ratio (Same route of administration) administration
+2015 7 11 0 18
+2016 22 1 1 24
+2017 7 4 0 11
+2018 0 6 0 6
+2019 13 0 0 13
+In addition, the MFDS published the 「Incrementally Modified Drug Approval
+Casebook」 (Guide for Civil Petitioners) focusing on the current information and
+cases of incrementally modified drugs to ensure the domestic pharmaceutical
+industries may refer to the Guide for drug research and development. This Guide
+provides the approval status, items by type, detailed acceptance criteria by case,
+unaccepted cases, etc. of incrementally modified drugs (112 items) approved for
+about 10 years since introduction of the incrementally modified drug system (since
+Aug. 2008) including the incrementally modified drugs approved in 2019.
+Approval of incrementally modified drugs by acceptance criteria is as follows: the
+drugs with the improved efficacy (62 items, 55.4%) of which increased treatment
+effects are proved, and those with the improved usefulness (39 items, 34.8%)
+resulting from improved formulation accounted for about 90% of all incrementally
+modified drugs, followed by 7 items (6.3%) recognized for advanced pharmaceutical
+technology, and 4 items (3.5%) with improved safety (Figure 7).
+- 58 -Figure 7. Approval of Incrementally Modified Drugs by Acceptance Criteria
+and by Type (2009-2019)
+- 59 -Table 29. List of Incrementally Modified Drugs (2009～2019)
+Date of
+No. Product Company Code Remarks
+Approval
+1 Amosartan Tablet 5/50 mg
+Hanmi
+2009-03-31
+Pharmaceutical
+2 Amosartan Tablet 5/100 mg
+Change of active
+[214]
+Cozaar XQ Tablet 5/50mg substance type or
+Antihypertensives
+3 (Amlodipine camsylate compounding ratio
+/ Losartan potassium)
+MSD Korea LTD. 2009-11-20
+Cozaar XQ Tablet 5/100mg
+4 (Amlodipine camsylate
+/ Losartan potassium)
+Potastine OD Tablet [141] Sodium and formulation
+5 Hanmi Pharmaceutical 2010-02-11
+(Bepotastine calcium dihydrate) Antihistamine changes
+[114]
+Antipyretics, Change in dosage
+Korea United
+6 CLANZA CR Tablet 2010-04-14 analgesics, and form, strength and
+Pharm Inc.
+anti-inflammatory administration/dosage
+agents
+Pacific
+7 Ridrone Plus Tablet 2010-06-23
+Pharmaceuticals
+[399] Change of active
+8 RISENEX-PLUS Tablet HANLIM PHARM. 2010-06-23 Miscellaneous substance type or
+metabolism agents compounding ratio
+DAEWOONG
+9 Risenplus Tablet 2010-06-23
+PHARMACEUTICAL
+10 Amosartan Tablet 10/50 mg Hanmi Pharmaceutical 2010-10-15
+Change of active
+[214]
+Cozaar XQ Tablet 10/50mg Antihypertensives substance type or
+11 (Amlodipine camsylate MSD Korea LTD. 2010-10-15 compounding ratio
+/ Losartan potassium)
+[114]
+Antipyretics, Change in dosage
+12 Ultracet ER Tablet Janssen Korea 2010-11-22 analgesics, and form, strength and
+anti-inflammatory administration/dosage
+agents
+[114]
+Antipyretics, Change in dosage
+SHINPOONG
+13 LOXFEN CR Tablet 2011-03-18 analgesics, and form, strength and
+Pharmaceutical Co.
+anti-inflammatory administration/dosage
+agents
+[339]
+Change in dosage
+Korea Otsuka Miscellaneous
+14 Pletaal SR Capsules 2011-04-19 form, strength and
+Pharmaceutical blood and body
+administration/dosage
+fluid agents
+[421] Change in dosage
+15 Apetrol ES Oral suspension LG Life Science 2012-03-27 Antineoplastic form, strength and
+agents administration/dosage
+16 Ridonel D Tablet Hanmi Pharmaceutical 2012-04-03 [399] Change in dosage
+Miscellaneous form, strength and
+17 RISENEX-M Tablet HANLIM PHARM. 2012-04-03 metabolism agents administration/dosage
+- 60 -Date of
+No. Product Company Code Remarks
+Approval
+[232] New sodium or isomers
+18 Letopra Tablet 20mg Ahngook Pharm. 2012-06-18
+Peptic ulcer agent (first in Korea)
+19 NASAFLEX Nasal Spray HANLIM PHARM. 2012-11-16 [132] Change of substance
+Otic and nasal type or compounding
+20 Moteson Plus Nasal Spray Hanmi Pharmaceutical 2012-11-16 agents ratio
+21 KanarbPlus Tablets 120/12.5mg Change of substance
+Boryung [214]
+2013-01-04 type or compounding
+Pharmaceutical Antihypertensives
+22 KanarbPlus Tablets 60/12.5mg ratio
+OLMETAN Tablet 22.08mg JIN YANG
+23
+(Olmesartan cilexetil) PHARM. CO.
+Olmexin S Tablet
+24 SK Chemicals
+(Olmesartan medoxomil)
+[214] New sodium or isomers
+2013-01-31
+Olmos-F Tablet 22.08mg Antihypertensives (first in Korea)
+25 Ahngook Pharm.
+(Olmesartan Cilexet il)
+JEIL
+Olmexetil Tablet 22.08mg
+26 PHARMACEUTICAL
+(Olmesartan Cilexetil)
+CO.,LTD.
+[339]
+Change in dosage
+CILOSTAN CR 200 mg Tablet Korea United Miscellaneous
+27 2013-02-28 form, strength and
+(Cilostazol) Pharm Inc. blood and body
+administration/dosage
+fluids agents
+Julian Tablet 15mg
+28 Dongkook Pharm.
+(Clomipramine hydrochloride)
+Nenoma Tablet 15mg [259]
+29 HUONS CO. LTD
+(Clomipramine HCl) Miscellaneous Apparently add another
+2013-03-20
+Condencia Tablet 15mg Urogenital and efficacy
+30 CTCBIO Inc.
+(Clomipramine hydrochloride) anal organ agents
+CLOJACK Tablet 15mg JIN YANG
+31
+(Clomipramine hydrochloride) PHARM. CO.
+32 VOGMET Tablet 0.2/250mg Change of substance
+[396]
+CJ Healthcare 2013-06-17 type or compounding
+Antidiabetic agent
+33 VOGMET Tablet 0.2/500mg ratio
+[399] Change of active
+34 Bonviva Plus Tablet DreamPharma 2013-07-08 Miscellaneous substance type or
+metabolism agents compounding ratio
+35 Levacalm Tablet 20/160mg
+Change of active
+[214]
+36 Levacalm Tablet 20/160mg LG Chem. 2013-07-25 substance type or
+Antihypertensives
+compounding ratio
+37 Levacalm Tablet 10/80mg
+Change of active
+[396]
+38 Zemimet SR Tablet 25/500mg LG Chem. 2013-07-25 substance type or
+Antidiabetic agent
+compounding ratio
+[399]
+DEXID Tablet 480mg New sodium or isomers
+39 Bukwang Pharm. 2013-11-21 Miscellaneous
+(R-thioctic acid tromethamine) (first in Korea)
+metabolism agents
+- 61 -Date of
+No. Product Company Code Remarks
+Approval
+Change of active
+[396]
+40 Zemimet SR Tablet 50/1000mg LG Chem. 2014-11-07 substance type or
+Antidiabetic agent
+compounding ratio
+Sapodifil SR Tablet 300mg Alvogen Korea
+41
+(Sarpogrelate hydrochloride) Co. Ltd
+JEIL
+Anpran SR Tablet 300mg
+42 PHARMACEUTICAL
+(Sapogrelate hydrochloride)
+CO.,LTD. [339]
+Change in dosage
+Miscellaneous
+Anpla X-SR Tablet 300mg 2015-01-23 form, strength and
+43 SK Chemicals blood and body
+(Sarpogrelate hydrochloride) administration/dosage
+fluids agents
+ANPLONE SR Tablet 300mg DAEWOONG
+44
+(Sarpogrelate hydrochloride) PHARMACEUTICAL
+ANFRADE SR Tablet 300mg
+45 CJ Healthcare
+(Sarpogrelate hydrochloride)
+[114]
+Antipyretics, Change in dosage
+PELUBI CR TABLET Daewon
+46 2015-03-13 analgesics, and form, strength and
+(Pelubiprofen) Pharmaceutical
+anti-inflammatory administration/dosage
+agents
+47 Tenelia M SR tablet 10/750mg
+Change of active
+[396]
+48 Tenelia M SR tablet 20/1000mg Handok Inc. 2015-03-31 substance type or
+Antidiabetic agent
+compounding ratio
+49 Tenelia M SR tablet 10/500mg
+EXON SR TABLET
+50 AJU PHARMA CO.
+(Eperisone hydrochloride)
+Exonin CR Tablet
+51 SK Chemicals
+(Eperisone hydrochloride)
+EPESIN SR Tablet [122] Change in dosage
+52 Myungmoon Pharm.
+(Eperisone hydrochloride) 2015-03-31 Skeletal muscle form, strength and
+relaxant administration/dosage
+NEREXON SR TABLET Daewon
+53
+(Eperisone hydrochloride) Pharmaceutical
+JEIL
+Eperinal SR Tablet
+54 PHARMACEUTICAL
+(Eperisone hydrochloride)
+CO.,LTD.
+Change of active
+[396]
+55 Zemimet SR Tablet50/500mg LG Life Science 2015-10-12 substance type or
+Antidiabetic agent
+compounding ratio
+56 Sugamet XR Tablet 2.5/500mg
+Change of active
+[396]
+57 Sugamet XR Tablet 2.5/850mg DONG-A ST 2015-12-31 substance type or
+Antidiabetic agent
+compounding ratio
+58 Sugamet XR Tablet 5/1000mg
+- 62 -Date of
+No. Product Company Code Remarks
+Approval
+59 Dukarb Tablets 30/5mg
+60 Dukarb Tablets 30/10mg Change of active
+Boryung [214]
+2016-05-30 substance type or
+Pharmaceutical Antihypertensives
+61 Dukarb Tablets 60/5mg compounding ratio
+62 Dukarb Tablets 60/10mg
+63 KARBPIN Tablet 60/5 mg
+64 KARBPIN Tablet 60/10 mg Change of active
+Boryung [214]
+2016-05-31 substance type or
+Biopharma Co. Antihypertensives
+65 KARBPIN Tablet 30/5 mg compounding ratio
+66 KARBPIN Tablet 30/10 mg
+67 CANDEAMLO Tablet 16/10mg
+Change of active
+SHINPOONG [214]
+68 CANDEAMLO Tablet 16/5mg 2016-06-24 substance type or
+Pharmaceutical Co. Antihypertensives
+compounding ratio
+69 CANDEAMLO Tablet 8/5mg
+70 MACHKHAN Tablet 8/5mg
+Change of active
+[214]
+71 MACHKHAN Tablet 16/10mg CJ Healthcare 2016-06-24 substance type or
+Antihypertensives
+compounding ratio
+72 MACHKHAN Tablet 16/5mg
+73 Duvimet XR Tablet 0.25/750mg
+Change of active
+Chong Kun Dang [396]
+74 Duvimet XR Tablet 0.25/1000mg 2016-06-30 substance type or
+Pharm. Antidiabetic agent
+compounding ratio
+75 Duvimet XR Tablet 0.5/1000mg
+[239]
+Change in dosage
+GASTIIN CR Tablet Korea United Miscellaneous
+76 2016-06-30 form, strength and
+(Mosapride citrate hydrate) Pharm Inc. digestive organ
+administration/dosage
+agents
+Change of active
+[396]
+77 Zemimet SR Tablet 25/1000mg LG Chem. 2016-06-30 substance type or
+Antidiabetic agent
+compounding ratio
+Change of active
+Chong Kun Dang [396]
+78 Duvimet XR Tablet 0.25/500mg 2016-09-01 substance type or
+Pharm. Antidiabetic agent
+compounding ratio
+[421]
+Dae Hwa New routes of
+79 LIPORAXEL Solution. (Paclitaxel) 2016-09-09 Antineoplastic
+Pharmaceutical administration
+agents
+[721] Change of active
+80 Safrep solution CTCBIO INC. 2016-10-06 X-ray contrast substance type or
+media compounding ratio
+- 63 -Date of
+No. Product Company Code Remarks
+Approval
+[721] Change of active
+Alvogen Korea
+81 Duocolon Solution 300mL 2016-10-06 X-ray contrast substance type or
+Co. Ltd
+media compounding ratio
+[721] Change of active
+82 Coolipa Solution Ahngook Pharm. 2016-10-06 X-ray contrast substance type or
+media compounding ratio
+[229]
+Change in dosage
+Surfolase CR Tablet Miscellaneous
+83 Hyundai Pharm 2017-02-24 form, strength and
+(Acebrophylline) respiratory organ
+administration/dosage
+agents
+[222] Change in dosage
+LEVOTICS CR Tablet Korea United
+84 2017-04-12 Antitussive form, strength and
+(Levodropropizine) Pharm Inc.
+expectorants administration/dosage
+[222] Change in dosage
+Levocare CR Tablet KWANGDONG
+85 2017-04-12 Antitussive form, strength and
+(Levodropropizine) PHARMACEUTICAL
+expectorants administration/dosage
+[222] Change in dosage
+NEOTUSS CR Tablet
+86 JW Shinyak 2017-04-12 Antitussive form, strength and
+(Levodropropizine)
+expectorants administration/dosage
+Amosartan Plus Tablet
+87
+5/80/12.5 mg
+Change of active
+Amosartan Plus Tablet [214]
+88 Hanmi Pharmaceutical 2017-06-29 substance type or
+5/100/12.5 mg Antihypertensives
+compounding ratio
+Amosartan Plus Tablet
+89
+5/100/25 mg
+TWOTOPSPLUS TABLET
+90
+40/5/12.5mg
+TWOTOPSPLUS TABLET
+91 ILDONG Change of active
+80/5/12.5mg [214]
+PHARMACEUTICAL 2017-07-25 substance type or
+TWOTOPSPLUS TABLET Antihypertensives
+92 CO. compounding ratio
+80/10/12.5mg
+TWOTOPSPLUS TABLET
+93
+80/10/25mg
+Belion SR tablet Hanlim Pharma.
+94
+(Bepostatine salicylate) Co., Ltd
+Tari-S SR tablet Sam Chun Dang
+95
+(Bepostatine salicylate) Pharrm. Co., Ltd
+Daewon
+Beposta SR tablet
+96 Pharmaceutical Co.,
+(Bepostatine salicylate)
+Ltd. change in dosage form,
+[141]
+Kwang Dong 2018-07-30 strength and
+Bepo-Q tablet Antihistamine
+97 Pharmaceutical Co., administration/dosage
+(Bepostatine salicylate)
+Ltd
+Dongkook
+Bepotan SR tablet
+98 Pharmaceutical Co.,
+(Bepostatine salicylate)
+Ltd
+Beporine SR tablet Sama Pharm.
+99
+(Bepostatine salicylate) Co., Ltd
+[721] Change of active
+Taejoon Pharm. Co.,
+100 Cleanviewal Powder 2019-02-26 X-ray contrast substance type or
+Ltd.
+media compounding ratio
+- 64 -Date of
+No. Product Company Code Remarks
+Approval
+[218] Change of active
+Hanlim Pharma.
+101 Starfen Cap. 2019-04-03 Hyperlipidemia substance type or
+Co., Ltd
+agents compounding ratio
+[218] Change of active
+Samjin Pharm. Co.,
+102 Newstatin Duo Cap. 2019-04-03 Hyperlipidemia substance type or
+Ltd.
+agents compounding ratio
+[218] Change of active
+103 Pitaion F Cap Dongkook Pharm. 2019-04-03 Hyperlipidemia substance type or
+agents compounding ratio
+[218] Change of active
+104 Pevaro F Cap. Ahngook Pharm. 2019-04-03 Hyperlipidemia substance type or
+agents compounding ratio
+[218] Change of active
+105 Liloufen Cap. GL Pharm tech 2019-04-03 Hyperlipidemia substance type or
+agents compounding ratio
+[218] Change of active
+Daewon
+106 Uptava Cap. 2019-04-03 Hyperlipidemia substance type or
+Pharmaceutical
+agents compounding ratio
+[218] Change of active
+Korea Prime Pharm
+107 Rifestin Cap. 2019-04-03 Hyperlipidemia substance type or
+Co., Ltd.
+agents compounding ratio
+[218] Change of active
+Donggwang Pham
+108 PF Cap. 2019-04-03 Hyperlipidemia substance type or
+Co., Ltd.
+agents compounding ratio
+[721] Change of active
+109 Orafang Tab. Phambio Inc. 2019-04-11 X-ray contrast substance type or
+media compounding ratio
+110 True Set Tab. 40/5/12.5mg]
+Change of active
+[214]
+111 True Set Tab 80/5/12.5mg Yuhan Corp. 2019-08-23 substance type or
+Antihypertensives
+compounding ratio
+112 True Set Tab 80/5/25mg
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 65 -2.4. Information on Approval of Drugs Requiring Data Submission
+Drugs requiring data submission are drugs that are not new drugs, but need to be
+evaluated of safety and efficacy include ▴drugs that contain a new salts (isomer) as
+an active ingredient ▴ drugs belonging to new therapeutic class ▴ active substance
+with new composition or change in strength ▴ drugs with new administration routes
+▴ drugs of new administration/ dosage ▴ new dosage form (same administration
+route).
+Among the drugs requiring data submission (13 items excluding incrementally
+modified drugs) approved in 2019, development of drugs with new composition or
+changes in content took the largest items (57.9%, 106 items), followed by drugs with
+new dosage form (same route of administration) (38.8%, 71 items) (Refer to Table 30).
+Table 30. Approval Status of Drugs Requiring Data Submission in 2019
+Review type of drugs requiring for data submission No. of Approved Items
+New salts or isomers 2
+New composition 95
+New composition of active ingredient or
+106
+change only in contents
+Change in strength 11
+New routes of administration 1
+New administration/dosage 3
+New dosage form (same route of administration) 71
+Total 183
+* Excluding Incrementally Modified Drugs (Drugs requiring data submission)
+- 66 -1) Drugs with New salt or isomer (2 items)
+Chemical drugs approved as new salt or isomer are 2 manufacturing items which
+are as follows: 1 item which changed the salt of Sitagliptin phosphate, an approved
+diabetic drug into Sitagliptin hydrochloride monohydrate drug; and 1 item of
+radiopharmaceuticals which combined the radio marker (18F) with esther to
+Estradiol.
+Table 31. Approval of Drugs with New Salt or New Isomer
+that Require Data Submission in 2019
+Mfg/ Date of Efficacy/Effectiveness
+No. Product Company Code Remarks
+Import Approva (Partial summary)
+Supplement drug to
+Janulitin Alpha Tab.
+Daewon diet and exercise
+100mg [396] phosphate
+Pharmaceu therapy to improve
+1 Mfg. (Sitagliptin 2019-11-19 Antidiabetic →
+tical Co., blood sugar control in
+hydrochloride agents hydrochloride
+Ltd. patients with
+Hydrate)
+diabetes mellitus 2
+FES Inj ASAN [431] Used for positron
+Ester
+2 Mfg. (Fluoroestradiol Medical 2019-11-04 Agent for emission tomography
+compounds
+[18F] solution) Center radiation (PET)
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 67 -2) Drugs with new composition or changes in strength of active substances (106 items)
+In case of drugs with new composition, 95 items (83 manufactured items and 12
+imported items) were approved. Most of them were as follows: cardiovascular agents
+were 63 items (63.3%) and metabolism agents (antidiabetic agents and miscellaneous
+metabolism agents) were 19 items (20.0%). Approval of drugs with the new
+composition drugs are as follows: hypertension/hyperlipidemia drugs, all of which
+were combination drugs containing Rosuvastatin (59 items, 62.1%); and
+diabetes/hyperlipidemia drugs (18 items, 18.9%), of which 14 items (14.7%) were
+combination product containing Metformin Hydrochloride and Rosuvastatin.
+Combination product for comorbidity containing rosuvastatin calcium (hypertension/
+hyperlipidemia or diabetes/hyperlipidemia) were 73 items accounting for more than
+two-thirds (76.8%) of drugs with new composition approved in 2019 (Refer to Table 32).
+In case of drugs with new changes in contents (7 manufactured items and 4
+imported items), 11 items were approved there was no specific item with drug
+classification code taking the most of them (Refer to Table 33).
+Table 32. Approval of Drugs with New Composition that Require Data Submission in 2019
+Mfg./ Date of
+No. Product Company Code Active ingredient
+Import Approval
+[399] Bazedoxifene
+Inist Bio
+Miscellaneous acetate,
+1 Mfg. Baxebita Tab Pharmaceutical 2019-01-29
+metabolism cholecalciferol
+Co., Ltd.
+agents concentrated powder
+Duowell A Tab. [219] Telmisartan,
+2 Mfg.
+80/5/10mg Miscellaneous Amlodipine
+Yuhan Corp. 2019-02-08
+Duowell A Tab. Cardiovascular besylate,
+3 Mfg.
+40/5/10mg agents Rosuvastatin calcium
+[629] Rilpivirine
+GlaxoSmithKline Miscellaneous hydrochloride,
+4 Import Juluca Tab 2019-02-11
+Korea Chemotherape dolutegravir sodium
+utics (micronised)
+Rosuampin Tab. [219]
+5 Mfg. Rosuvastatin
+5/10mg Miscellaneous
+Yuhan Corp. 2019-02-21 calcium,
+Rosuampin Tab. Cardiovascular
+6 Mfg. Amlodipine besylate
+10/10mg agents
+7 Import Segluromet Tab. MSD Korea Ltd 2019-02-26 [396] ertugliflozin
+- 68 -Mfg./ Date of
+No. Product Company Code Active ingredient
+Import Approval
+7.5/1000mg L-Pyroglutamic
+Antidiabetic acid (micronised),
+Segluromet Tab.
+8 Import agents Metformin
+2.5/500mg
+hydrochloride
+Olomax Tab.
+9 Mfg.
+40/10/20m
+Olomax Tab. [219] olmesartan
+10 Mfg. Daewoong
+20/5/5m Miscellaneous medoxomil,
+Pharmaceutical 2019-02-27
+Olomax Tab. Cardiovascular Amlodipine besylate,
+11 Mfg. Co., Ltd.
+20/5/10m agents Rosuvastatin calcium
+Olomax Tab.
+12 Mfg.
+40/10/10m
+Segluromet ertugliflozin
+13 Import
+Tab. 2.5/1000mg [396] L-Pyroglutamic
+MSD Korea Ltd 2019-03-06 Antidiabetic acid (micronised),
+Segluromet Tab.
+14 Import agents Metformin
+7.5/500mg
+hydrochloride
+Ex-one R Tab.
+15 Mfg.
+5/80/5mg
+Ex-one R Tab. [219] Valsartan,
+16 Mfg.
+5/80/10mg CJ Healthcare Miscellaneous Amlodipine
+2019-04-15
+Ex-one R Tab. Co., Ltd Cardiovascular besylate,
+17 Mfg.
+5/160/10mg agents Rosuvastatin calcium
+Ex-one R Tab.
+18 Mfg.
+5/160/5mg
+Bikavera Glucose
+1.5% Calcium
+19 Import 1.75mmol/L
+Peritoneal
+Dialysis Solution sodium chloride,
+Bikavera Glucose glucose hydrate,
+2.3% Calcium Fresenius [349] magnesium chloride
+20 Import 1.75mmol/L Medical Care 2019-04-25 Other artificial hexahydrate,
+Peritoneal Korea perfusates Calcium chloride
+Dialysis Solution dihydrate, sodium
+Bikavera Glucose bicarbonate
+4.25% Calcium
+21 Import 1.75mmol/L
+Peritoneal
+Dialysis Solution
+Zephirus
+22 Import Inhalation Cap. [229] Budesonide,
+300/25μg Miscellaneous salmeterol
+Huons Co., Ltd. 2019-05-08
+Zephirus respiratory xinafoate
+23 Import Inhalation Cap. organ agents (micronised)
+150/25μg
+Duomet XR Tab.
+24 Mfg. [396] Metformin
+500/5mg Jeil pharma
+2019-05-24 Antidiabetic hydrochloride,
+Duomet XR Tab. holdings inc.
+25 Mfg. agents Rosuvastatin calcium
+750/5mg
+- 69 -Mfg./ Date of
+No. Product Company Code Active ingredient
+Import Approval
+Rosutanmet Tab.
+26 Mfg. Dongkook [396] Metformin
+750/5mg
+Pharm. Co., 2019-05-24 Antidiabetic hydrochloride,
+Rosutanmet Tab.
+27 Mfg. Ltd. agents Rosuvastatin calcium
+500/5mg
+Clavis Tab.
+28 Mfg. [396] Metformin
+500/5mg Kukje Pharm
+2019-05-24 Antidiabetic hydrochloride,
+Clavis Tab. Co., Ltd.
+29 Mfg. agents Rosuvastatin calcium
+750/5mg
+RM SR Tab.
+30 Mfg.
+500/5mg
+RM SR Tab.
+31 Mfg. Donggwang [396] Metformin
+750/5mg
+Pharm. Co., 2019-06-04 Antidiabetic hydrochloride,
+RM SR Tab.
+32 Mfg. Ltd. agents Rosuvastatin calcium
+500/10mg
+RM SR Tab.
+33 Mfg.
+750/10mg
+Bevespi AstraZeneca [222] Glycopyrronium
+34 Import Aerosphere Pharmaceutical 2019-06-26 Antitussives, bromide, Formoterol
+7.2/5.0μg Co. Ltd) expectorants fumarate hydrate
+Telmiwons Plus [219] Telmisartan,
+35 Mfg. Myungmoon
+Tab. 80/5/10mg Miscellaneous Amlodipine
+Pharm Co., 2019-07-03
+Telmiwons Plus Cardiovascular besylate,
+36 Mfg. Ltd..
+Tab. 40/5/10mg agents Rosuvastatin calcium
+Qsymia Cap.
+37 Mfg.
+7.5mg/46mg
+Qsymia Cap. [123]
+38 Mfg. Phentermine
+3.75mg/23mg Autonomic
+Alvogen Korea 2019-07-31 Hydrochloride,
+Qsymia Cap. nervous
+39 Mfg. topiramate
+15mg/92mg system agents
+Qsymia Cap.
+40 Mfg.
+11.25mg/69mg
+Duo Met-XR
+41 Mfg. [396] Metformin
+Tab. 1000/5mg Jeil pharma
+2019-08-09 Antidiabetic hydrochloride,
+Duo Met-XR holdings inc.
+42 Mfg. agents Rosuvastatin calcium
+Tab. 1000/10mg
+Nebirosta Tab.
+43 Mfg.
+5/20mg [219]
+Nebivolol
+Nebirosta Tab. Elyson Pharm. Miscellaneous
+44 Mfg. 2019-08-30 Hydrochloride,
+5/10mg Co., Ltd. Cardiovascular
+Rosuvastatin calcium
+Nebirosta Tab. agents
+45 Mfg.
+2.5/10mg
+Clavis
+46 Mfg. [396] Metformin
+Tab1000/5mg Jeil pharma
+2019-08-09 Antidiabetic hydrochloride,
+Clavis holdings inc.
+47 Mfg. agents Rosuvastatin calcium
+Tab1000/10mg
+Beclomethasone
+[229]
+Trimbow Inhaler Dipropionate
+48 Import Kolon Pharma 2019-09-17 Miscellaneous
+100/6/12.5 anhydrous,
+respiratory
+Formoterol fumarate
+- 70 -Mfg./ Date of
+No. Product Company Code Active ingredient
+Import Approval
+hydrate(micronised),
+organ agents Glycopyrronium
+bromide
+TR Duo
+49 Mfg.
+Tab40/5mg
+TR Duo [219]
+50 Mfg. Telmisartan,
+Tab40/10mg Miscellaneous
+BINEX Co., Ltd. 2019-09-30 Rosuvastatin
+TR Duo Cardiovascular
+51 Mfg. calcium
+Tab80/5mg agents
+TR Duo
+52 Mfg.
+Tab80/10mg
+Telmirosu
+53 Mfg.
+Tab80/5mg
+Telmirosu
+54 Mfg.
+Tab40/20mg
+Telmirosu [219]
+55 Mfg. Telmisartan,
+Tab40/10mg Yungjin Pharm Miscellaneous
+2019-09-30 Rosuvastatin
+Telmirosu Co., Ltd. Cardiovascular
+56 Mfg. calcium
+Tab40/5mg agents
+Telmirosu
+57 Mfg.
+Tab80/20mg
+Telmirosu
+58 Mfg.
+Tab80/10mg
+Telodown
+59 Mfg.
+Tab40/20mg
+Telodown
+60 Mfg.
+Tab80/5mg
+Telodown [219]
+61 Mfg. Telmisartan,
+Tab80/10mg Ilyang Pharm Miscellaneous
+2019-09-30 Rosuvastatin
+Telodown Co., Ltd. Cardiovascular
+62 Mfg. calcium
+Tab80/20mg agents
+Telodown
+63 Mfg.
+Tab40/5mg
+Telodown
+64 Mfg.
+Tab40/10mg
+Duosta
+65 Mfg.
+Tab40/5mg [219]
+Telmisartan,
+Duosta Miscellaneous
+66 Mfg. Celltrion Inc. 2019-09-30 Rosuvastatin
+Tab40/10mg Cardiovascular
+calcium
+Duosta agents
+67 Mfg.
+Tab80/10mg
+Telmiro One
+68 Mfg.
+Tab40/5mg
+Telmiro One
+69 Mfg.
+Tab40/10mg [219]
+Hana Telmisartan,
+Telmiro One Miscellaneous
+70 Mfg. Pharmaceutical 2019-10-15 Rosuvastatin
+Tab40/20mg Cardiovascular
+Ltd. calcium
+Telmiro One agents
+71 Mfg.
+Tab80/5mg
+Telmiro One
+72 Mfg.
+Tab80/10mg
+- 71 -Mfg./ Date of
+No. Product Company Code Active ingredient
+Import Approval
+Telmiro One
+73 Mfg.
+Tab80/20mg
+Telo Duo
+74 Mfg.
+Tab80/5mg
+Telo Duo
+75 Mfg.
+Tab80/20 mg
+Telo Duo [219]
+76 Mfg. Telmisartan,
+Tab80/10 mg CMG Pharm. Miscellaneous
+2019-10-15 Rosuvastatin
+Telo Duo Co., Ltd. Cardiovascular
+77 Mfg. calcium
+Tab40/5mg agents
+Telo Duo
+78 Mfg.
+Tab40/10 mg
+Telo Duo
+79 Mfg.
+Tab40/2mg
+Rosuwell
+80 Mfg.
+Tab80/20mg
+Rosuwell
+81 Mfg.
+Tab40/20mg
+Rosuwell [219]
+82 Mfg. Korea Prime Telmisartan,
+Tab40/10mg Miscellaneous
+Pharm Co., 2019-10-15 Rosuvastatin
+Rosuwell Cardiovascular
+83 Mfg. Ltd. calcium
+Tab80/10mg agents
+Rosuwell
+84 Mfg.
+Tab80/5mg
+Rosuwell
+85 Mfg.
+Tab40/5mg
+Esomeprazole
+[232]
+Eso Duo CKD Pharm. Magnesium
+86 Mfg. 2019-10-30 Peptic ulcer
+Tab40/800mg Co., Ltd. Trihydrate, sodium
+agents
+bicarbonate
+Dukaro
+87 Mfg.
+Tab30/5/5mg
+Dukaro
+88 Mfg. Fimasartan
+Tab60/5/5mg [219]
+Potassium Trihydrate
+Dukaro Boryung Co., Miscellaneous
+89 Mfg. 2019-11-13 Granule, Amlodipine
+Tab60/5/10mg Ltd Cardiovascular
+besylate,
+Dukaro agents
+90 Mfg. Rosuvastatin calcium
+Tab60/10/20mg
+Dukaro
+91 Mfg.
+Tab30/5/10mg
+Telmidipine Plus
+92 Mfg.
+Tab40/5/12.5mg
+Telmidipine Plus Telmisartan,
+93 Mfg. [214]
+Tab80/10/12.5mg Hana Pharm Amlodipine
+2019-12-05 Antihypertensiv
+Telmidipine Plus Co. Ltd. besylate,
+94 Mfg. es
+Tab80/10/25mg Hydrochlorothiazide
+Telmidipine Plus
+95 Mfg.
+Tab80/5/12.5mg
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 72 -Table 33. Approval of Drugs with Changes in strength of active substances that
+Require Data Submission in 2019
+Mfg/ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approval (Partial summary)
+Synthyroid [243]
+Tab0.112mg Bukwang Thyroid and Hypothyroidism, mucosal
+1 Mfg. (levothyroxine Pharm 2019-01-10 parathyroid edema, Cretin disease, simple
+sodium Co., Ltd. grand goiter
+hydrate) hormones
+1. Myocardial ischemia due to
+hypertension, fixation of the
+coronary arteries (stable
+angina) or vasospasm and
+vasoconstriction of the
+coronary system
+Pfizer (dysplastic angina)
+Norvasc
+Pharmac [214] 2. For patients whose coronary
+Tab2.5mg
+2 Import eutical 2019-02-08 Antihypertensi heart disease has been
+(Amlodipine
+Korea ves confirmed by angiography
+besylate)
+Ltd. recently and has no heart
+failure or a cardiac output
+not less than 40%
+- Reduction of hospitalization
+risk due to angina
+- Reduction of coronary
+angiography risk
+Prevention of gastric and
+duodenal ulcers in patients with
+Pariet Tab5mg [232]
+Kolmar a history of stomach and
+3 Mfg. (rabeprazole 2019-02-27 Peptic ulcer
+Korea duodenal ulcers by administering
+sodium) agents
+low-dose aspirin of 100 mg or
+less per day
+Arnuity 50
+Elipta GlaxoSm [222] Maintenance treatment of
+4 Import (fluticasone ithKline 2019-03-22 Antitussives, asthma in children over 5 years
+furoate Korea expectorants of age, adolescents and adults
+(microsnised))
+Yungjin 1. Depression
+Sertraline Yungjin 2. Treatment of obsessive-
+[117]
+5 Mfg. Tab25mg Pharm 2019-04-24 compulsive disorder in adults
+Psychotropics
+(Sertraline Co., Ltd. and pediatrics (hereinafter
+hydrochloride) omitted)
+Synthyroid Tab [243]
+0.0375mg Bukwang Thyroid and
+Hypothyroidism, mucosal edema,
+6 Mfg. (levothyroxine Pharm 2019-05-07 parathyroid
+Cretin disease, simple goiter
+sodium Co., Ltd. grand
+hydrate) hormones
+[316] Used in the following cases.
+Nice
+Multivitamins - Supporting treatment of
+Levocombi S Korea
+7 Mfg. 2019-05-21 preparation post-hepatitis
+Solution pharmac
+(excluding aftermath(???hepatitis
+eutical
+multivitamin sequela), deterioration of
+- 73 -Mfg/ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approval (Partial summary)
+liver function, and toxic
+infection
+- Support for the treatment of
+megaloblastic anemia or
+pregnancy, delivery, and
+complex A lactation
+and D) - Vitamin B12 or folic acid
+deficiency syndrome
+- When treating vitamin
+deficiency, antibiotics,
+chemotherapy, and
+anticancer drugs
+Treatment of primary
+hyperlipidemia:
+Fenorics EH Korea
+[218] Hypercholesterolemia (Type IIa),
+Tab United
+8 Mfg. 2019-06-28 Hyperlipidemia combination of
+(Fenofibric Pharm
+agents hypercholesterolemia and
+acid) Inc.
+hypertriglyceridemia (Type IIb)
+and hypertriglyceridemia (Type IV)
+Nice [721]
+Pre-treatment intestine washing
+Korea X-ray
+9 Import Plenvu Powder 2019-08-09 during colon (X-ray, endoscopy)
+pharmac contrast
+examination
+eutical media
+1. Treatment of adult patients
+Tasigna Cap
+with newly diagnosed
+50mg Novartis [421]
+Philadelphia chromosome
+10 Import (Nilotinib Korea 2019-08-20 Antineoplastic
+positive chronic myeloid
+Hydrochloride Co., Ltd. agents
+leukemia (Ph+ CML) in
+Monohydrate)
+chronic phase. (1.1)
+Yuhan
+[399]
+Raloxifene Tab Treatment and prevention of
+Yuhan Miscellaneous
+11 Mfg. 45mg 2019-09-24 osteoporosis in postmenopausal
+Corp. metabolism
+(Raloxifene women
+agents
+hydrochloride)
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 74 -3) Drugs with new administration route (1 items)
+The chemical drug approved with a new route of administration was 1 item of
+imported drug which was developed as psychoneural agent approved as an oral drug
+into an inhalation formulation (Refer to Table 34).
+Table 34. Approval of Drugs with New Route of Administration Requiring Data
+Submission in 2019
+New
+Mfg/ Date of Efficacy/Effectiveness
+No. Product Company Code administration
+Import Approval (Partial summary)
+route
+The rapid control of
+Adasuve [117] mild-to-moderate agitation Oral
+Kolon
+1 Import Inhalant 10mg 2019-12-05 Psycho in adult patients with →
+Pharma
+(Loxapine) -tropics schizophrenia or bipolar Inhalant
+disorder
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+4) Drugs with New administration/dosage (4 items)
+The chemical drugs approved as new administration and dosage are 3
+manufacturing items which are single-dose joint cavity injection containing BDDE
+cross-linked sodium hyaluronate gel as active ingredient. They are drugs which
+changed administration and dosage of the previously approved (notified) 3-time
+administration sodium hyaluronate intraarticular injections (Refer to Table 35).
+Table 35. Approval Status of Drugs with New Administration/Dosage that Require
+Data Submission in 2019
+Mfg/ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approval (Partially summarized)
+Humia Inj
+(1,4-butanediol diglycidyl ether Humedix
+[399]
+1 Mfg.
+bridged Sodium Hyaluronic Co., Ltd
+Miscellaneous
+Osteoarthritis of the
+Acid Gel)
+2019-03-08 blood and
+knee joint
+body fluid
+Shinpoong.
+2 Mfg. Hyal Oneshot Inj agents
+Co, Ltd
+- 75 -Mfg/ Date of Efficacy/Effectiveness
+No. Product Company Code
+Import Approval (Partially summarized)
+(1,4-butanediol diglycidyl ether
+bridged Sodium Hyaluronic
+Acid Gel)
+Hihyalonce Inj
+(1,4-butanediol diglycidyl ether Huons
+3 Mfg.
+bridged Sodium Hyaluronic Co., Ltd.
+Acid Gel)
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+5) Drugs with new dosage form (same route of administration) (71 items)
+The chemical drugs approved for the new dosage form (same route of
+administration) were 71 items (69 manufactured items and 2 imported items). The
+development types are as follows: 24 items (33.8%) which developed the existing
+capsules as other oral solid preparations (6 tablet items, 18 syrup items); 24 items
+(33.8%) which developed the suspension powder into powder; 14 items (19.7%) which
+developed IR (tablet or capsule) into ER; and 4 items (5.6%) which developed the
+liquid drug into adsorbents (drugs included in cotton swabs) (Refer to Table 36).
+Table 36. Approval Status of Drugs with New Dosage Form (Same Route of
+Administration) that Require Data Submission in 2019
+New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+Yuhan Pregabalin SR
+1 Mfg. Tab 300mg [119]
+Treatment of Peripheral. Capsule
+(pregabalin) Yuhan Miscellaneous
+2019-01-04 Neuropathic Pain in →
+Yuhan Pregabalin SR Corp. central nervous
+adults SR Tab.
+2 Mfg. Tab 150mg system agents
+(pregabalin)
+Zelief ER Tab150mg [119]
+3 Mfg. Treatment of Peripheral. Capsule
+(pregabalin) Miscellaneous
+LG Chem. 2019-01-11 Neuropathic Pain in →
+Zelief ER Tab300mg central nervous
+4 Mfg. adults SR Tab.
+(pregabalin) system agents
+GL [119] Treatment of Peripheral. Capsule
+Suprega CR Tab
+5 Mfg. Pharma 2019-01-11 Miscellaneous Neuropathic Pain in →
+300mg (pregabalin)
+Co., Ltd. central nervous adults SR Tab.
+- 76 -New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+Suprega CR Tab
+6 Mfg. system agents
+150mg (pregabalin)
+Lyicaneuro ER Tab Daewon [119]
+7 Mfg. Treatment of Peripheral. Capsule
+300mg (pregabalin) Pharmaceu Miscellaneous
+2019-01-11 Neuropathic Pain in →
+Lyicaneuro ER Tab tical Co., central nervous
+8 Mfg. adults SR Tab.
+150mg (pregabalin) Ltd. system agents
+Kabalin CR Tab [119]
+9 Mfg. Treatment of Peripheral. Capsule
+300mg (pregabalin) GL Pharm. Miscellaneous
+2019-01-11 Neuropathic Pain in →
+Kabalin CR Tab Tech central nervous
+10 Mfg. adults SR Tab.
+150mg (pregabalin) system agents
+Gabaneuro ER Tab [119]
+11 Mfg. Hanlim Treatment of Peripheral. Capsule
+300mg (pregabalin) Miscellaneous
+Pharm. 2019-01-11 Neuropathic Pain in →
+Gabaneuro ER Tab central nervous
+12 Mfg. Co., Ltd. adults SR Tab.
+150mg(pregabalin) system agents
+Complementary
+Powder
+Hidrasec Cap Abbott [237] symptomatic treatment
+13 Import 2019-01-21 →
+100mg (racecadotril) Korea Intestinal drugs of acute diarrhoea in
+Capsule
+adults
+[261] Sterilization and Liquid
+QnQ Povidone Iodine QnQ
+14 Mfg. 2019-01-22 External disinfection at the →
+prep Solution Pharm
+disinfectants surgical area Adsorbent
+The treatment of
+gastrointenstinal
+Korea [239]
+Gasmosa CR Tab symptoms caused by IR Tab.
+Biochem Miscellaneous
+15 Mfg. (Mosapride Citrate 2019-02-20 reduced →
+Pharm. digestive organ
+Hydrate) gastrointenstinal SR Tab.
+Inc. agents
+mobility(heartburn,
+nausea, vomiting)
+Dissemination when
+the demand for thioctic
+acid increases (in
+case of severe
+physical work), Leigh
+[399]
+syndrome (Subacute Ample Inj.
+I-della Injection Aju Pharm Miscellaneous
+16 Mfg. 2019-02-25 necrotizing →
+(thioctic acid)(Vial) Co., Ltd. metabolism
+encephalomyelopathy), Vial Inj.
+agents
+addictive (by
+streptomycin,
+kanamycin) and noise
+(occupational)
+labyrinthine deafness
+- Secondary symptoms
+[119]
+Korea due to Capsule
+Glias Syrup Miscellaneous
+17 Mfg. Biochem 2019-03-29 cerebrovascular →
+(choline alfoscerate) central nervous
+Pharm.INC. deficiencies and Syrup
+system agents
+metamorphic or
+- 77 -New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+degenerative
+cerebral organic
+mental syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+[119]
+Samjin deficiencies and Capsule
+Newtirine Syrup Miscellaneous
+18 Mfg. Pharm 2019-03-29 metamorphic or →
+(choline alfoscerate) central nervous
+Co., Ltd degenerative cerebral Syrup
+system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+Korea [119]
+deficiencies and Capsule
+Choliatin Syrup Arlico Miscellaneous
+19 Mfg. 2019-03-29 metamorphic or →
+(choline alfoscerate) Pharm central nervous
+degenerative cerebral Syrup
+Co., Ltd. system agents
+organic mental
+syndrome (hereinafter
+omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+[119]
+deficiencies and Capsule
+A-Colin Syrup Pharvis Miscellaneous
+20 Mfg. 2019-03-29 metamorphic or →
+(choline alfoscerate) Korea central nervous
+degenerative cerebral Syrup
+system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+[119]
+deficiencies and Capsule
+Rimenta Syrup BINEX Miscellaneous
+21 Mfg. 2019-03-29 metamorphic or →
+(choline alfoscerate) Co., Ltd. central nervous
+degenerative cerebral Syrup
+system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+[119]
+Shinpoong deficiencies and Capsule
+Alz-Choline Syrup Miscellaneous
+22 Mfg. Pharm Co, 2019-03-29 metamorphic or →
+(choline alfoscerate) central nervous
+Ltd degenerative cerebral Syrup
+system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- 78 -New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+- Secondary
+symptoms due to
+cerebrovascular
+[119]
+Hyundai deficiencies and Capsule
+Alcefin Syrup Miscellaneous
+23 Mfg. Pharm. 2019-03-29 metamorphic or →
+(choline alfoscerate) central nervous
+Co., Ltd degenerative cerebral Syrup
+system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+Kyongbo [119]
+deficiencies and Capsule
+Neurocholine Syrup Pharmaceu Miscellaneous
+24 Mfg. 2019-03-29 metamorphic or →
+(choline alfoscerate) tical Co, central nervous
+degenerative cerebral Syrup
+Ltd system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+Guju [119]
+deficiencies and Capsule
+Cereforin Syrup Pharmaceu Miscellaneous
+25 Mfg. 2019-03-29 metamorphic or →
+(choline alfoscerate) tical Co., central nervous
+degenerative cerebral Syrup
+Ltd. system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+[119]
+deficiencies and Capsule
+Memotirin Syrup Aju Pharm Miscellaneous
+26 Mfg. 2019-03-29 metamorphic or →
+(choline alfoscerate) Co., Ltd. central nervous
+degenerative cerebral Syrup
+system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+[119]
+Nice Korea deficiencies and Capsule
+Cholitirin Syrup Miscellaneous
+27 Mfg. pharmaceu 2019-03-29 metamorphic or →
+(choline alfoscerate) central nervous
+tical degenerative cerebral Syrup
+system agents
+organic mental
+syndrome
+(hereinafter omitted)
+[119] - Secondary
+Daewoong Capsule
+Gliatamin Syrup Miscellaneous symptoms due to
+28 Mfg. Bio Co., 2019-03-29 →
+(choline alfoscerate) central nervous cerebrovascular
+Ltd Syrup
+system agents deficiencies and
+- 79 -New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+metamorphic or
+degenerative cerebral
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+Korea [119]
+deficiencies and Capsule
+Gria Syrup Prime Miscellaneous
+29 Mfg. 2019-03-29 metamorphic or →
+(choline alfoscerate) Pharm central nervous
+degenerative cerebral Syrup
+Co., Ltd. system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+Samik [119]
+deficiencies and Capsule
+Memocode Syrup Pharmaceu Miscellaneous
+30 Mfg. 2019-03-29 metamorphic or →
+(choline alfoscerate) tical Co., central nervous
+degenerative cerebral Syrup
+Ltd. system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+[119]
+Yungjin deficiencies and Capsule
+Cholinal Syrup Miscellaneous
+31 Mfg. Pharm 2019-03-29 metamorphic or →
+(choline alfoscerate) central nervous
+Co., Ltd. degenerative cerebral Syrup
+system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+cerebrovascular
+[119]
+WITHUS deficiencies and Capsule
+Cholirin Syrup Miscellaneous
+32 Mfg. Pharm. 2019-03-29 metamorphic or →
+(choline alfoscerate) central nervous
+Co., Ltd. degenerative cerebral Syrup
+system agents
+organic mental
+syndrome
+(hereinafter omitted)
+- Secondary
+symptoms due to
+Korea [119]
+cerebrovascular Capsule
+Glicetil Syrup United Miscellaneous
+33 Mfg. 2019-03-29 deficiencies and →
+(choline alfoscerate) Pharm central nervous
+metamorphic or Syrup
+Inc. system agents
+degenerative cerebral
+organic mental
+- 80 -New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+syndrome
+(hereinafter omitted)
+Ramnos Powder Improvement of
+(Freeze-Dried Hanwha intestinal and diarrhea Granule
+[237]
+34 Mfg. Lactobacillus casei Pharma. 2019-03-29 symptoms by →
+Intestinal drugs
+var. Rhamnosus Co., Ltd. normalization of Powder
+Culture) intestinal microbial flora
+As an adjunct to a
+reduced-calorie diet
+and increased physical
+activity for chronic
+weight management in
+adults with an initial
+body mass index (BMI)
+Belviq XR Tab IlDong [123]
+of: • 30 kg/m2 or IR Tab.
+(Lorcaserin Pharmaceu Autonomic
+35 Import 2019-04-15 greater (obese) in the →
+Hydrochloride tical Co., nervous
+presence of at least SR Tab
+Hydrate) Ltd system agents
+one weight-related
+comorbid condition,
+(e.g., hypertension,
+dyslipidemia, type 2
+diabetes) or • 27
+kg/m2 or greater
+(overweight)
+Eso-DT ODT 20mg 1. Gastroesophageal
+36 Mfg. (esomeprazole Reflux Disease
+magnesium dihydrate) (GERD)
+- Treatment of erosive
+reflux esophagitis
+- Long-termmaintenance
+Taejoon [232] Tablet
+therapy to prevent
+Pharm. 2019-04-16 Peptic ulcer →
+Eso-DT ODT 40mg recurrence of
+Co., Ltd. agents ODT
+37 Mfg. (esomeprazole esophagitis patients
+magnesium dihydrate) - Symptomatic therapy
+for gastroesophageal
+reflux disease
+without esophagitis
+(hereinafter omitted)
+As an antibacterial
+skin cleanser, cleaning
+of wounds that are not
+Hexiwipes4%
+[261] deeper than normal Liquid
+(Chlorhexidine Huons
+38 Mfg. 2019-04-19 External skin and skin surface →
+Gluconate Co., Ltd.
+disinfectants layer, hand disinfection Adsorbent
+Solution)
+of individuals, and skin
+disinfection of surgery
+areas before surgery
+Huons Sanitation of health Liquid
+39 Mfg. Hexiwipes2% 2019-04-19 [261]
+Co., Ltd. and hygiene worker's →
+- 81 -New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+(Chlorhexidine External
+hands Adsorbent
+Gluconate Solution) disinfectants
+Secondary symptoms
+due to cerebrovascular
+Daewon [119] deficiencies and
+Capsule
+Alfocholine Syrup Pharmaceu Miscellaneous metamorphic or
+40 Mfg. 2019-04-22 →
+(choline alfoscerate) tical Co., central nervous degenerative cerebral
+Syrup
+Ltd. system agents organic mental
+syndrome (hereinafter
+omitted)
+Hyundai Pregabalin 1. Treatment of
+41 Mfg. [119]
+Tab 50mg Hyundai peripheral and Capsule
+Miscellaneous
+Pharm. 2019-07-29 central neuropathic →
+Hyundai Pregabalin central nervous
+42 Mfg. Co., Ltd pain in adults Tablet
+Tab 25mg system agents
+(hereinafter omitted)
+Gabelin Tab 50mg 1. Treatment of
+43 Mfg. [119]
+(pregabalin) peripheral and Capsule
+Samil. Co., Miscellaneous
+2019-07-29 central neuropathic →
+Gabelin Tab 25mg Ltd. central nervous
+44 Mfg. pain in adults Tablet
+(pregabalin) system agents
+(hereinafter omitted)
+Green [261] Liquid
+Salientok Swap Sol
+45 Mfg. Pharm 2019-10-24 External Acne treatment →
+(Salicylic Acid)
+Co., Ltd. disinfectants Adsorbent
+Flucle Powder 75mg 1. Influenza Aand
+46 Mfg. (Oseltamivir influenza Bvirus
+phosphate) infections in children
+and adults, including
+Flucle Powder 45mg
+newborns over 2
+47 Mfg. (Oseltamivir
+[629] weeks (not applicable Powder for
+phosphate) CJ
+Miscellaneous to fetus less than 36 Suspension
+Healthcare 2019-10-28
+Chemo weeks after conception) →
+Co., Ltd
+therapeutics (Administration should Powder
+Flucle Powder 30mg
+begin within 48
+48 Mfg. (Oseltamivir
+hours after the initial
+phosphate)
+symptoms of
+influenza infection.)
+(hereinafter omitted)
+Easy Flu Powder 1. Influenza A and
+49 Mfg. 30mg (Oseltamivir influenza B virus
+phosphate) infections in
+children and adults,
+Easy Flu Powder
+[629] including newborns Powder for
+50 Mfg. 45mg (Oseltamivir
+CTC Bio Miscellaneous over 2 weeks (not Suspension
+phosphate) 2019-10-28
+Co., Ltd. Chemo applicable to fetus →
+therapeutics less than 36 Powder
+Easy Flu Powder
+weeks after
+51 Mfg. 75mg (Oseltamivir
+conception)
+phosphate)
+(Administration
+should begin within
+- 82 -New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+48 hours after the
+initial symptoms of
+influenza infection.)
+(hereinafter omitted)
+Tami Inful Powder 1. InfluenzaAand
+52 Mfg. 75mg (Oseltamivir influenzaBvirus
+phosphate) infections inchildren
+andadults, including
+Tami Inful Powder
+newborns over 2
+53 Mfg. 45mg (Oseltamivir Hutex
+[629] weeks(not applicable Powder for
+phosphate) Korea
+Miscellaneous tofetuslessthan36 Suspension
+Pharmaceu 2019-10-28
+Chemo weeksafter conception) →
+tical Co.,
+therapeutics (Administration should Powder
+Tami Inful Powder Ltd
+begin within 48 hours
+54 Mfg. 30mg (Oseltamivir
+after the initial
+phosphate)
+symptoms of influenza
+infection.) (hereinafter
+omitted)
+Anyflu Powder 75mg 1. Influenza A and
+55 Mfg. (Oseltamivir influenza B virus
+phosphate) infections in children
+Anyflu Powder 45mg and adults, including
+56 Mfg. (Oseltamivir newborns over 2
+phosphate) weeks (not applicable
+Ahngook [629] Powder for
+to fetus less than 36
+Pharmaceu Miscellaneous Suspension
+2019-10-28 weeks after
+tical Co., Chemo →
+conception)
+Ltd therapeutics Powder
+Anyflu Powder 30mg (Administration should
+57 Mfg. (Oseltamivir begin within 48 hours
+phosphate) after the initial
+symptoms of
+influenza infection.)
+(hereinafter omitted)
+Tamiselva Powder 1. Influenza A and
+58 Mfg. 75mg (Oseltamivir influenza B virus
+phosphate) infections in children
+and adults, including
+Tamiselva Powder
+newborns over 2
+59 Mfg. 45mg (Oseltamivir
+weeks (not applicable
+phosphate) Korea [629] Powder for
+to fetus less than 36
+United Miscellaneous Suspension
+2019-10-28 weeks after
+Pharm Chemo →
+conception)
+Inc. therapeutics Powder
+Tamiselva Powder (Administration should
+60 Mfg. 30mg (Oseltamivir begin within 48 hours
+phosphate) after the initial
+symptoms of influenza
+infection.) (hereinafter
+omitted)
+61 Mfg. Boryung Tami Boryung 2019-10-28 [629] 1. Influenza A and Powder for
+- 83 -New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+Powder 75mg influenza B virus
+(Oseltamivir infections in children
+phosphate) and adults, including
+Boryung Tami newborns over 2
+Powder 45mg weeks (not
+62 Mfg.
+(Oseltamivir applicable to fetus
+phosphate) Miscellaneous less than 36 Suspension
+Co., Ltd Chemo weeks after →
+therapeutics conception) Powder
+Boryung Tami (Administration
+Powder 30mg should begin within
+63 Mfg.
+(Oseltamivir 48 hours after the
+phosphate) initial symptoms of
+influenza infection.)
+(hereinafter omitted)
+A-flu Powder 30mg 1. Influenza A and
+64 Mfg. (Oseltamivir influenza B virus
+phosphate) infections in
+A-flu Powder 45mg children and adults,
+65 Mfg. (Oseltamivir including newborns
+phosphate) over 2 weeks (not
+[629] applicable to fetus Powder for
+Boryung
+Miscellaneous less than 36 Suspension
+Biopharma 2019-10-28
+Chemo weeks after →
+Co., Ltd.
+therapeutics conception) Powder
+A-flu Powder 75mg
+(Administration
+66 Mfg. (Oseltamivir
+should begin within
+phosphate)
+48 hours after the
+initial symptoms of
+influenza infection.)
+(hereinafter omitted)
+[114]
+Alleviation of
+Antipyretics,
+Crystal symptoms or signs of Capsule
+Acelex Tab 2mg analgesics,
+67 Mfg. Genomics 2019-10-30 osteoarthritis →
+(Polmacoxib) and
+Co., Ltd. (degenerative Tablet
+anti-inflammato
+arthritis)
+ry agents
+[259]
+Hanmi Tams OD Tab
+Hanmi Miscellaneous Urinary disorders Capsule
+0.4mg
+68 Mfg. Pharm. 2019-11-29 urogenital and caused by benign →
+(Tamsulosin
+Co., Ltd. anal organ prostatic hypertrophy Tablet
+hydrochloride)
+agents
+Komiflu Powder 30mg 1. Influenza A and
+69 Mfg. (Oseltamivir influenza B virus
+[629] Powder for
+phosphate) infections in children
+Kolon Miscellaneous Suspension
+Komiflu Powder 45mg 2019-12-24 and adults, including
+Pharma Chemo →
+70 Mfg. (Oseltamivir newborns over 2
+therapeutics Powder
+phosphate) weeks (not
+71 Mfg. Komiflu Powder 75mg applicable to fetus
+- 84 -New
+Mfg/ Date of Efficacy//Effectiveness
+No. Product Company Code dosage
+Import approval (Partial summary)
+form
+less than 36 weeks
+after conception)
+(Administration
+(Oseltamivir should begin within
+phosphate) 48 hours after the
+initial symptoms of
+influenza infection.)
+(hereinafter omitted)
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 85 -3
+Information on Approval
+of Biopharmaceuticals
+- 86 -3. Information on Approval of Biopharmaceuticals
+According to the analysis of biopharmaceuticals approved in 2019 based on
+regulatory review pathways, there were 7 new drugs, 29 drugs requiring data
+submission (24 other drugs requiring data submission) and 1 orphan drugs
+(excluding 2 orphan new drugs) (Refer to Table 37), More specifically, 6
+biologics, 29 recombinant protein products, and 1 Cell therapy Products, and 1
+other products(human placenta-derived drugs) were approved (Refer to Table 38).
+37. Approvals Status of Biopharmaceuticals by Review Type in 2019
+<Including Drugs for Export Only and Drug Substances>
+No. of Approved Products
+No. Review Type
+Total Manufactured Imported
+1 New drugs 7 0 7
+1-1 New drugs 5 0 5
+1-2 Orphan new drugs 2 0 2
+2 Orphan drugs (except for Orphan new drugs) 1 0 1
+3 Drugs requiring data submission 29 17 12
+3-1 Incrementally modified drugs 0 0 0
+3-2 Biosimilar products 4 2 2
+3-3 Other drugs requiring data submission 24 14 10
+3-4 Cell therapy Products 1 1 0
+Total 37 17 20
+* Including 1 human placenta-derived drugs out of 24 other drugs requiring data submission
+<Excluding Drugs for Export Only and Drug Substances>
+No. of Approved Products
+No. Review Type
+Total Manufactured Imported
+1 New drugs 7 0 7
+1-1 New drugs 5 0 5
+1-2 Orphan new drugs 2 0 2
+2 Orphan drugs (except for Orphan new drugs) 1 0 1
+3 Drugs requiring data submission 19 7 12
+3-1 Incrementally modified drugs 0 0 0
+3-2 Biosimilar products 4 2 2
+3-3 Other drugs requiring data submission 14 4 10
+3-4 Cell therapy Products 1 1 0
+Total 27 7 20
+* Including 1 human placenta-derived drugs out of 14 other drugs requiring data submission
+- 88 -Table 38. Approval Status of Biopharmaceuticals in 2019
+<Including Drugs for Export Only and Drug Substances>
+No. of Approved Items
+Types Total Remarks
+Manufactured Imported
+Total 37 17 20
+Drugs requiring data submission
+Biologics 6 6 0
+(6, including 3 Drugs forexport only)
+New drugs (7), Orphan (1,
+excluding orphan new drug), Drugs
+Recombinant
+29 9 20 requiring data submission (21,
+Protein products
+including Drugs for export only(6)
+and Drug Substances(1))
+Cell therapy
+1 1 0 -
+products
+Gene therapy
+0 0 0 -
+products
+Others 1 1 0 Human placenta-derived drugs(1)
+The MFDS has been operating the “Biopharmaceutical Priming Project” since
+2014 in order to support the rapid commercialization of domestically developed
+biopharmaceuticals and their entry into global market. The “Biopharmaceutical
+Priming Project” was introduced to facilitate the development and product
+promotion of safe and effective domestic biopharmaceutical products of high quality.
+This project ensures differentiated consultation service considering customer
+characteristics and development stages.
+In addition, since 2017, MFDS has operated “Technical support for advanced
+convergence products” to support the development and commercialization of
+cutting-edge convergence medical products to serves as a consultation window for
+item classification of advanced convergence medical products, item classification of
+the products and item classification and planning development of the product in the
+process of development.
+- 89 -Furthermore, in case of inquiries about the overall approval and review process
+when developing biopharmaceuticals, consultations with the responsible department
+through the consultation service (MFDS website (www.mfds.go.kr) > “Reservation
+for One-Stop consultation”) is available.
+- 90 -3.1. Information on Approval of Biopharmaceuticals
+In 2019, 6 items were approved (6 manufactured items / 4 vaccines, and 2
+botulinum toxin). 11 items in 2018 (8 manufactured items, 3 imported items/ 9
+vaccines, 1 botulinum toxin and 1 blood product), 12 items in 2017 (11 manufactured
+items, 1 imported item / 8 vaccines, 2 botulinum toxins, 2 blood products), and 20
+items in 2016 (15 manufactured items, 5 imported items / 16 vaccines, 4 botulinum
+toxins) were approved, which shows the item approval of biopharmaceuticals is
+decreasing since 2016.
+Vaccines approved in 2019 include 3 influenza vaccines and 1 combined vaccine
+(Refer to Table 39).
+In case of influenza vaccines, vaccine production with strains suggested by the
+World Health Organization (WHO) every year is recommended and they are
+classified as fertilized eggs vaccines and cell culture vaccines by manufacturing
+method.
+Influenza vaccine approved in 2019 includes 1 item for domestic use (Boryung
+Pharmaceutical Co., Ltd., Bial Flutech III Tetra Vaccine Pre-filled Syringe), 2 items
+for export only (SK Biosciences Co., Ltd., SKYCellflu Quadrivalent inj. (for export),
+SKYCellflu Quadrivalent Multi inj. (for export), which are all tetravalent influenza
+vaccines.
+‘BR Flutec III Tetra Vaccine Prefilled Syringe’ is a product which Boryuong
+Pharmaceutical Co., Ltd. obtained its approval as a manufactured item and is used
+for prevention of influenza diseases caused by influenza A viruses and influenza B
+viruses contained in this vaccine in children aged 6 months or older, adolescents and
+adults.
+- 91 -SK bioscience Co., Ltd.' ‘SKYCellflu Quadrivalent inj.’ and ‘SKYCellflu
+Quadrivalent Multi inj.’ vaccines have been approved as product for export only.
+The combined vaccine licensed in 2019 is Boryeong Biopharma's ‘Boryuong
+Biopharma Co., LTD’, and is a product approved for prevention of diphtheria,
+tetanus, pertussis and polio in children aged 2 months or older.
+In case of botulinum toxin products, 4 items newly approved in 2016, 2 items in
+2017, 1 item in 2018, and 2 items in 2019 (one for domestic use and the other for
+export only) only) respectively (Refer to Table 39).
+‘Wondertox Inj 100unit’ is a product which Chong Kun Dang Pharmaceutical
+Corp. succeeded its status through transfer of the approved item from Huons. This
+product has been approved for temporary improvement in the appearance of
+moderate to severe glabellar lines assocoated with corrugator and/or procerus
+muscle activity in adult patients aged between 19 and 65.
+PharmaResearch BIO Co., Ltd.'s ‘Re N ToxTM Injection 100 Units (for export)'
+was approved for temporary improvement in the appearance of moderate to
+severe glabellar lines assocoated with corrugator and/or procerus muscle activity
+in adult patients aged between 19 and 65.
+In the case of blood products, there were no newly approved items in 2019
+compared to 2 items in 2017 and 1 item in 2018 (Refer to Table 39).
+MFDS has operated 「Global Vaccine Commercialization Support Group」 from
+2010 as part of the customized support to enhance Korea’s capacity for vaccine
+self-sufficiency. MFDS will continue to provide technical support to increase the
+nation’s self-sufficiency of essential preventive vaccines and core vaccines.
+- 92 -Table 39. List of Biopharmaceuticals Approved in 2019
+Mfg/ Name of Date of
+No. Product Company Efficacy/Effectiveness Remarks
+Import ingredient approval
+temporary improvement in
+Re N ToxTM the appearance of moderate
+Injection 100 Units Pharma to severe glabellar lines
+Clostridium Requiring
+(Clostridium Research
+1 Mfg. Botulinum toxin 2019-02-15 assocoated with corrugator data
+Botulinum toxin BIO Co.,
+type A submission
+type A) Ltd and/or procerus muscle
+(for export) activity in adult patients
+aged between 19 and 65.
+Purified Prevention of influenza
+SKYCellflu
+inactivated diseases caused by
+Quadrivalent inj.
+influenza virus influenza A viruses and
+(surface antigen, SK Requiring
+surface antigen A influenza B viruses
+2 Mfg. inactivated, Bioscience 2019-02-18 data
+and Purified contained in this vaccine
+prepared in cell Co., Ltd. submission
+inactivated in children over 3 years
+cultures)
+influenza virus old, adolescents and
+(for export)
+surface antigen B adults
+SKYCellflu
+Quadrivalent Multi Purified Prevention of influenza
+inactivated diseases caused by
+inj. (surface
+influenza virus influenza A viruses and
+SK Requiring
+antigen, surface antigen A influenza B viruses
+3 Mfg. Bioscience 2019-02-22 data
+inactivated, and Purified contained in this vaccine
+Co., Ltd. submission
+inactivated in children over 3 years
+prepared in cell
+influenza virus old, adolescents and
+cultures) surface antigen B adults
+(for export)
+Purified Prevention of influenza
+inactivated diseases caused by
+BR Flutec III Tetra
+influenza virus influenza A viruses and
+Vaccine Prefilled Requiring
+surface antigen A Boryung influenza B viruses
+4 Mfg. Syringe 2019-07-02 data
+and Purified Co., Ltd contained in this vaccine
+(Influenza split submission
+inactivated in children over 6 months
+vaccine)
+influenza virus old, adolescents and
+surface antigen B adults
+temporary improvement in
+the appearance of moderate
+Wondertox Inj. Chong
+to severe glabellar lines
+100unit Clostridium Kun Dang Requiring
+5 Mfg. (Clostridium Botulinum toxin 2019-08-12 assocoated with corrugator data
+Botulinum toxin type A Pharmaceu submission
+and/or procerus muscle
+type A) tical Corp..
+activity in adult patients
+aged between 19 and 65.
+Boryung
+Purified diphtheria
+DTaP-IPV
+toxoid, purified
+Vaccine Prefilled
+tetanus toxoid,
+Syringe
+purified pertussis Prevention of diphtheria,
+(Adsorbed Boryung Requiring
+protective tetanus, pertussis and
+6 Mfg. diphtheria, tetanus, Biopharma 2019-08-26 data
+antigen, polio in children over 2
+acellular pertussis Co., Ltd. submission
+inactivated polio months after born
+and refined
+virus type 1,
+inactivated polio
+inactivated polio
+combination
+virus type 2,
+vaccine)
+- 93 -Mfg/ Name of Date of
+No. Product Company Efficacy/Effectiveness Remarks
+Import ingredient approval
+inactivated polio
+virus type 3
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 94 -3.2. Information on Approval of Recombinant Protein Products
+29 recombinant protein products were approved in 2019 (9 manufactured items
+and 20 imported items) including 7 new drugs (including orphan new drugs), 1
+orphan drug (excluding 2 orphan new drug) and 21 drugs requiring data
+submission (including 6 items for export and 1 items of drug substance) (Refer to
+Table 40).
+In 2019, items designated as new drugs (including orphan new drugs) were a total
+of 6 ingredients and 7 items. New drugs approved in 2018 were 4 ingredients and 4
+items, and 7 items were approved in 2019 which shows an increase in the number
+of new drug approval. Like 2018, 1 orphan drugs (except orphan new drugs) was
+approved in 2019.
+‘Besponsa Inj (Inotuzumab ozogamicin)’ (Pfizer Korea. Jan. 3, 2019) is the
+antibody-drug conjugates (ADCs), a covalent bond of an IgG4 monoclonal antibody,
+which specifically recognizes human CD22, and the small molecule
+N-acetyl-gamma-calicheamicin through a linker and was approved as an orphan
+drug used in treatment of adults with relapsed or refractory B-cell precursor acute
+lymphoblastic leukemia (ALL).
+‘Hemlibra S.C Inj (Emicizumab, Gene Recombination)’ (JW Pharmaceutical
+Corp., Jan. 17, 2019) as a bispecific monoclonal antibody for coagulation factor 9 and
+10, was approved as an orphan new drug used in routine prophylaxis or to reduce
+bleeding frequency in patients with hemophilia A (congenital blood coagulation factor
+VIII deficiency) with inhibitors for factor VIII.
+‘Evenity Inj. Prefilled Syringe (Romosozumab, Gene Recombination)’ (Amgen
+Korea Ltd, May 31, 2019) is a monoclonal antibody that has a double effects on
+bones by binding sclerostin, a glycoprotein, which plays a major role in inhibiting
+osteoblast-mediated bone formation, with at high affinity by promoting bone
+- 95 -formation and causing changes in the expression of osteoclast mediators, thereby
+decreasing bone resorption. This product was approved as a new drug used in
+treatment of p1ostmenopausal women and men osteoporosis patients with high risk
+of fracture.
+‘Facenra Pre-filled Syringe Inj. 30mg (Benralizumab)’ (Astra Zeneca Korea, Jun.
+5, 2019) is a monoclonal antibody that induces apoptosis of eosinophils in the
+presence of NK cells by binding with high affinity to IL-5Rα on the surface of
+human eosinophils; and was approved as a new drug for use in the additional
+maintenance therapy for severe eosinophilic asthma treatment that is not adequately
+controlled in existing treatment of adults.
+‘Emgality 120mg/mL Prefilled Sysringe Inj(Galcanezumab, Genetic Recombination),
+Emgality 120mg/mL Prefilled Pen Inj(Galcanezumab, Genetic Recombination)’(Lilly
+Korea Ltd. Sep. 05, 2019) is a humanized Immunoglobulin (subclass) G4 (IgG4)
+monoclonal antibody designed to bind calcitonin gene-related peptide (CGRP)
+inhibiting its activity as a sensory neuropeptide in the trigeminal system –a
+fundamental mechanism was approved as a new durgs used in the prophylaxis of
+migraine in adults.
+‘Skyrizi Prefilled Syringe Inj (Risankizumab, Gene Recombination)’ (AbbVie
+Korea, Dec. 3, 2019) is a monoclonal antibody that induces apoptosis of eosinophils in
+the presence of NK cells by binding with high affinity to IL-23 on the surface of
+human eosinophils and was approved as a new drug for the treatment of moderate
+to severe adult plaque psoriasis requiring phototherapy or systemic therapy
+(including biological therapy)
+‘Bavencio Inj (Avelumab)’ (Merck Limited Korea, Mar. 22, 2019) is an
+Immuno-oncology drug that blocks the interaction of PD-L1 and PD-1 receptors
+through binding to programmed death ligand 1(PD-L1) and was approved as an
+- 96 -orphan drug used for treatment of metastatic Merkel cell cancer in adults.
+For biosimilar products, 3 type of ingredients and 4 items were approved. Since
+the approval of monoclonal antibody biosimilar drug item in 2012 for the first time
+in the world, a total of 15 types and 25 items were approved until 2019. Out of
+them, the domestically developed biosimilar products are a total of 11 types and 19
+items (Refer to Table 41).
+‘Etoloce 50mg Prefilled pen Inj (Etanercept)’ (Samsung Bioepis Aug 19, 2019.) is
+a domestically developed biosimilar product and was developed with domestic
+technologies and is a product that developed compared against the reference
+product, Enbrel 50 mg Pre-filled (Etanercept) of Pfizer Korea in addition to Etoloce
+50mg Pre-filled syringe (etanercept) approved on Sep 7, 2015.
+‘Terosa cartridge Inj (Teriparatide)’ (Daewon Pharmaceuticals, Oct. 29, 2019) is
+a biosimilar product developed compared against the reference product, Forsteo Inj.
+(Teriparatide) of Lilly Korea.
+‘Panpotin Prefilled Syringe Inj. 2000IU (Epoetin alfa)', Panpotin Prefilled Syringe
+Inj. 4000IU (Epoetin alfa)' (PanGen Biotech Inc., Nov 28, 2019) are biosimliar
+products domestically developed with domestic technologies and is a product that
+developed compared against the reference product, Eprex Injection (recombinant
+human erythropoietin) of Janssen Korea.
+In 2019, the number of general item approval cases for gene recombinant drugs
+including new drugs tended to increase slightly compared to 2018.
+- 97 -Table 40. List of Approved Recombinant Protein Products in 2019
+Mfg/ Name of Date of Efficacy/Effectiveness
+No. Product Company Remarks
+Import ingredient approval (partially summarized)
+Treatment of adults with
+Inotuzumab Pfizer relapsed or refractory B-cell Orphan
+1 Import Besponsa Inj 2019-01-03
+ozogamicin Korea Ltd. precursor acute lymphoblastic new drug
+leukemia (ALL)
+Routine prophylaxis to
+prevent or reduce the
+JW
+frequency of bleeding
+Pharma Orphan
+2 Import Hemlibra S.C Inj Emicizumab 2019-01-17 episodes in patients with
+ceutical new drug
+hemophilia A (congenital
+Corp.
+factor VIII deficiency) with
+factor VIII inhibitors
+1) Treatment of
+osteoporosis in postmenopausal
+Evenity Inj. Amgen
+women at high risk of fracture
+3 Import Pre-filled Romosozumab Korea 2019-05-31 New drug
+2) Osteoporosis in men at high
+Syringe Limited
+risk of fracture to increase
+bone mass
+An add-on maintenance
+Facenra Astra treatment in adult patients with
+4 Import Prefilled Syringe Benralizumab Zeneca 2019-06-05 severe eosinophilic asthma New drug
+Inj. 30mg Korea inadequately controlled despite
+current treatment
+Emgality
+120mg/mL
+5 Import New drug
+Prefilled
+Lilly Korea Prophylaxis of migraine in
+Sysringe Inj galcanezumab 2019-09-05
+Ltd. adults
+Emgality
+6 Import 120mg/mL New drug
+Prefilled Pen Inj
+Treatment of moderate to
+severe plaque psoriasis in
+Skyrizi Pre-filled AbbVie
+7 Import Risankizumab 2019-12-03 adults who require phototherapy New drug
+Syringe Inj Korea Ltd.
+or systemic therapy (including
+biological therapy)
+Monotherapy for the treatment
+Merck Ltd. Orphan
+8 Import Bavencio Inj Avelumab 2019-03-22 of adult patients with metastatic
+Korea drug
+Merkel cell caarinoma(MCC)
+Adults
+1) Rheumatoid arthritis
+2) Psoriatic arthritis
+Etoloce 50mg
+Samsung 3) Axial
+9 Import Pre-filled pen Etanercept 2019-08-19 Biosimilar
+Bioepis spondyloarthritis(Ankylosing
+Inj
+spondylitis, Non-radiographic
+axial spondyloarthritis)
+4) Plaque psoriasis
+1) Treatment of osteoporosis in
+Daewon
+postmenpoausal women and in
+Terrosa Pharma
+10 Import Teriparatide 2019-10-29 men at increased risk of Biosimilar
+Cartridge Inj ceutical
+fracture
+Co., Ltd.
+2) Treatment of osteoporosis
+- 98 -Mfg/ Name of Date of Efficacy/Effectiveness
+No. Product Company Remarks
+Import ingredient approval (partially summarized)
+associated with sustained
+systemic glucocorticoid therapy
+in women and men at
+increased risk for fracture
+Panpotin The following anemia in
+11 Mfg. Prefilled Syringe patients with chronic kidney Biosimilar
+Inj. 2000IU PanGen failure
+Epoetin alfa 2019-11-28
+Panpotin Biotech Inc. 1) Symptomatic anemia
+12 Mfg. Prefilled Syringe 2) Anemia requiring blood Biosimilar
+Inj. 4000IU transfusion
+(Adult) Rheumatoid arthritis, Requiring
+Humira Pen Inj.
+13 Import 80mg/0.8mL Crohn's disease in adult, data
+submission
+Psoriasis, Ulcerative colitis,
+AbbVie
+Humira Adalimumab 2019-02-14 Intestinal Behcet`s disease,
+Korea Ltd. Requiring
+Pre-filled Hidradenitis suppurativa, Uveitis
+14 Import data
+Syringe Inj. (Pediatric) Pediatric Crohn’s
+submission
+80mg/0.8mL Disease
+Melanoma, non-small cell lung
+cancer, renal cell carcinoma,
+ONO Requiring
+Opdivo Inj. classical Hodgkin lymphoma,
+15 Import Nivolumab PHARMA 2019-04-11 data
+240mg head and neck squamous cell
+KOREA submission
+carcinoma, urothelial carcinoma,
+gastric adenocarcinoma
+(Adult) Rheumatoid arthritis,
+Psoriatic arthritis, Axial
+spondyloarthritis, Psoriasis,
+Crohn's disease, Psoriasis,
+Humira
+Ulcerative colitis, Intestinal Requiring
+Pre-filled AbbVie
+16 Import Adalimumab 2019-04-25 Behcet`s disease, Hidradenitis data
+Syringe Inj. Korea Ltd.
+suppurativa, Uveitis submission
+20mg/0.2mL
+(Pediatric) Pediatric Crohn’s
+Disease, Juvenile idiopathic
+Disease, Pediatric Plaque
+Psoriasis, Uveitis
+Pergoveris Pen Requiring
+17 Import Inj. 300/150I data
+Stimulation of follicular
+300/150IU submission
+development in women with
+Requiring
+Pergoveris Pen Follitropin alfa, Merck Ltd. severe luteinizing hormone(LH)
+18 Import 2019-04-29 data
+Inj 900/450IU Iutropin alfa Korea with endogenous LH level <
+submission
+1.2 IU/L and follicle stimulating
+Requiring
+Pergoveris Pen hormone
+19 Import data
+Inj 450/225IU
+submission
+Humalog HD Requiring
+Lilly Korea Diabetes mellitus requiring
+20 Import Kwikpen Inj Insulin lispro 2019-08-12 data
+Ltd. insulin therapy
+100unit/mL submission
+Novo Co-administration with oral
+insulin Requiring
+Xultophy Nordisk hypoglycemic agents to improve
+21 Import degludec, 2019-08-23 data
+FlexTouch Inj Pharma glycaemic control in adults with
+liraglutide submission
+ceutical type 2 diabetes
+Rekovelle Follitropin Ferring Controlled ovarian stimulation Requiring
+22 Import 2019-12-27
+Prefilled Pen delta Pharma for the development of multiple data
+- 99 -Mfg/ Name of Date of Efficacy/Effectiveness
+No. Product Company Remarks
+Import ingredient approval (partially summarized)
+follicles in women undergoing
+assisted reproductive
+ceuticals
+technologies (ART) such as an
+Korea Co submission
+in vitro fertilisation (IVF) or
+Ltd
+intracytoplasmic sperm
+injection (ICSI) cycle
+Dong-A
+Recombinant
+filgrastim
+Recombinant Dong-A ST For Pharmaceutical and Drug
+23 Mfg. concentration 2019-06-25
+filgrastim Co., Ltd. manufacturing Substance
+solution Ⅱ
+(Drug
+Substance)
+Indicated for treatment of
+female
+infertility in the following clinical
+situations:
+1. Controlled ovarian
+Gonadopin NF
+Human follicle hyperstimulation to
+Injection Dong-A ST
+24 Mfg. stimulating 2019-07-08 induce the development of for export
+Solution Prefilled Co., Ltd.
+hormone multiple follicles in medically
+Syringe
+assisted reproducion program
+2. Anovulation in women
+who have not been
+responsive to treatment with
+Clomiphene citrate
+Leucostim
+25 Mfg. Injection 300 μg for export
+(for export) 1. Neutropenia in patients
+Leucostim
+receiving chemotherapy for
+26 Mfg. Injection 150 μg for export
+solid cancer
+(for export)
+Leucostim 2. Neutropenia in patients
+27 Mfg. Injection 75 μg receiving chemotherapy for for export
+(for export) blood tumor (Acute Myeloid
+Recombinant Dong-A ST
+Leucostim 2019-07-11 Leukemia)
+filgrastim Co., Ltd.
+Injection 3. Peripheral blood stem cell
+28 Mfg. Prefilled mobilization for export
+Syringe 4. Promotion of increase in
+(for export) number of
+Leucostim neutrophils in
+Injection hematopoietic stem cell
+29 Mfg. Prefilled transplantation for export
+Syringe480μg
+(for export)
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 100 -Table 41. List of Approved Biosimilars (2012∼2019)
+Reference
+Efficacy/effectiveness Date of Mfg/
+No. Product name Company Product
+(Partially summarized) approval Import
+(API)
+Remicade Rheumatoid arthritis,
+1 Remsima Injection100mg Celltrion 2012-07-20 Mfg
+(Infliximap) Ulcerative colitis, etc.
+Herceptin Breast cancer, Gastric
+2 Herzuma Injection150mg Celltrion 2014-01-15 Mfg
+(Trastuzumab) cancer
+Herceptin Breast cancer, Gastric
+3 Herzuma Injection440mg Celltrion 2014-01-15 Mfg
+(Trastuzumab) cancer
+Scitropin A cartridge Scigen Korea Genotropin
+4 Poor growth of children 2014-01-.28 Import
+Injection 5mg Ltd. (somatropin)
+Scitropin A cartridge Scigen Korea Genotropin
+5 Poor growth of children 2014-01-.28 Import
+Injection 10mg Ltd (somatropin)
+2014-11-11
+Davictrel Injection Hanwha Enbrel Rheumatoid arthritis,
+6 (Withdrawal Mfg
+25 mg Chemical (Etanercept) Psoriasis
+2019-09-25)
+Brenzys 50mg Prefilled
+Import
+Syringe→ (name change) Samsung Enbrel Rheumatoid arthritis,
+7 2015-09-07 (Domestically
+Etoloce 50mg Prefilled Bioepis (Etanercept) Psoriasis
+developed)
+Syringe
+2015-11-25
+Basaglar Cartridge Lilly Korea Lantus
+8 Diabetes (Withdrawal Import
+100Unit/mL Ltd. (Insulin glargine)
+2015-09-30)
+Basaglar Kwikpen Lilly Korea Lantus
+9 Diabetes 2015-11-25 Import
+100Unit/mL Ltd. (Insulin glargine)
+Renflexis Injection Import
+Samsung Remicade Rheumatoid arthritis,
+10 100mg→ (name change) 2015-12-04 (Domestically
+Bioepis (Infliximab) Ulcerative colitis, etc.
+Remaloce Injection 100mg developed)
+2015-07-16
+Mabthera Rheumatoid arthritis,
+11 Truxima Injection Celltrion (export only) Mfg
+(Rituximab) Lymphoma, etc.
+2016-11-16
+Hadlima Prefilled Syringe
+Import
+Injection 40mg→ (name Samsung Humira Rheumatoid arthritis,
+12 2017-09-20 (Domestically
+change) Adalloce Prefilled Bioepis (adalimumab) Psoriatic arthritis etc.
+developed)
+Syringe Injection 100mg
+Import
+Samsung Herceptin Breast cancer, Gastric
+13 Samfenet Injection 150mg 2017-11-08 (Domestically
+Bioepis (Trastuzumab) cancer
+developed)
+- 101 -Reference
+Efficacy/effectiveness Date of Mfg/
+No. Product name Company Product
+(Partially summarized) approval Import
+(API)
+Lantus
+14 Glarzia Prefilled Pen Green Cross Diabetes 2018-03-07 Import
+(Insulin glargine)
+Eucept Prefilled Enbrel Rheumatoid arthritis,
+15 LG Chem. 2018-03-16 Mfg
+Syringe Inj. (Etanercept) psoriasis, etc.
+Enbrel Rheumatoid arthritis,
+16 Eucept Auto Injector Inj. LG Chem. 2018-03-16 Mfg
+(Etanercept) psoriasis, etc.
+Nesp
+Chong Kun Anemia in patients with
+17 Nesbell PFS Inj. 20 (Darbepoetin 2018-11-29 Mfg
+Dang Pharm. chronic renal failure, etc.
+alpha)
+Nesp
+Chong Kun Anemia in patients with
+18 Nesbell PFS Inj.30 (Darbepoetin 2018-11-29 Mfg
+Dang Pharm. chronic renal failure, etc
+alpha)
+Nesp
+Chong Kun Anemia in patients with
+19 Nesbell PFS Inj.40 (Darbepoetin 2018-11-29 Mfg
+Dang Pharm. chronic renal failure, etc
+alpha)
+Nesp
+Chong Kun Anemia in patients with
+20 Nesbell PFS Inj.60 (Darbepoetin 2018-11-29 Mfg
+Dang Pharm. chronic renal failure, etc
+alpha)
+Nesp
+Chong Kun Anemia in patients with
+21 Nesbell PFS Inj.120 (Darbepoetin 2018-11-29 Mfg
+Dang Pharm. chronic renal failure, etc
+alpha)
+Samsung Import
+Etoloce 50mg Enbrel Rheumatoid arthritis,
+22 Bioepis Co., 2019-08-19 (Domestically
+Prefilled pen Inj (Etanercept) psoriasis, etc.
+Ltd. developed)
+Daewon
+Forsteo
+23 Terosa cartridge Inj Pharmaceutical Osteoporosis 2019-10-29 Import
+(Teriparatide)
+Co., Ltd.
+Eprex
+Panpotin Prefilled Syringe PanGen (Recombinant Anemia in patients with
+24 2019-11-28 Mfg
+Inj. 2000IU Biotech Inc. human chronic renal insufficiency
+erythropoietin)
+Eprex
+Panpotin Prefilled Syringe PanGen (Recombinant Anemia in patients with
+25 2019-11-28 Mfg
+Inj. 4000IU Biotech Inc. human chronic renal insufficiency
+erythropoietin)
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 102 -3.3. Information on Approval of Cell Therapy Products
+Since domestically developed ‘Chondron’ was approved as the first cell therapy
+product in Korea in 2001, 16 products have been approved to date (Refer to Table 42).
+Bio Solution's ‘Cartilife (Basol autologous cartilage-derived chondrocytere)’ (Apr.
+24, 2019) is composed of autologous cartilage-derived chondrocytes as active
+ingredient; and was approved as a chondrocyte cell therapy for the treatment of
+knee cartilage defect (ICRS grade III or IV, defect area 2 ~ 10cm2).
+Through the conditional approval system (since Jul, 2016), it is expected that the
+approval of cell therapy products for the treatment of life-threatening diseases or
+severe irreversible diseases will be increased.
+Table 42. List of Approved Cell Therapy Products (2001∼2019)
+Mfg/ Date of Efficacy/effectiveness
+No. Product Ingredients Company Remarks
+Import approval (Partially summarized)
+Treatment of focal cartilage
+defect in knee joint (defect size:
+Autologous Sewon
+1 Mfg Chondron 2001-01-30 not more than 15cm2 in single
+chondrocytes Cellontech
+lesion, not more than 20cm2 in
+multiple lesion)
+Creation of functional skin layer
+by transplanting to 1) the burn
+where second degree burn
+Autologous Tego Science, takes not less than 30% of the
+2 Mfg Holoderm 2002-12-10
+keratinocytes Inc. body surface area, 2) the burn
+where third degree burn takes
+not less than 10% of the body
+surface
+1. Promoting re-epithelization of
+2005-03-21 deep-seated second degree
+Allogeneic Tego Science,
+3 Mfg Kaloderm burn,
+keratinocytes Inc.
+2. Promoting wound healing of
+2010-06-24
+diabetic foot ulcer
+- 103 -Mfg/ Date of Efficacy/effectiveness
+No. Product Ingredients Company Remarks
+Import approval (Partially summarized)
+Creation of functional skin layer
+by transplanting to 1) the burn
+where second degree burn
+Basol
+Biosolution takes not less than 30% of the
+4 Mfg Keraheal Autologous 2006-05-03
+Co;.., Ltd body surface area, 2) the burn
+keratinocyte
+where third degree burn takes
+not less than 10% of the body
+surface
+CreaVax-R
+Autologous Metastatic renal cell carcinoma Export
+5 Mfg CC JW CreaGene 2007-05-15
+dendritic cells capable of nephrectomy only
+Injection
+Adjuvant therapy for patients
+whose tumor has been
+Immune Autologous removed after curative resection
+6 Mfg cell LC Activated T GC Cell 2007-08-06 for Hepatocellular Carcinoma
+Injection Lymphocytes (Operation, Radio Frequency
+Ablation, Percutaneous Ethanol
+Injection Therapy)
+RMS Autologous Sewon
+7 Mfg 2009-08-26 Promoting local bone formation
+Ossron Osteoblasts Cellontech
+Minimally
+manipulated Improvement of subcutaneous
+8 Mfg Queencell ANTEROGEN 2010-03-26
+autologous-adipo fat defect
+se cells
+Autologous Improvement of dented scar
+CureSkin
+9 Mfg dermal S Biomedics 2010-05-11 area came from the acne
+Injection
+fibroblasts treatment process
+Improvement of left ventricular
+Autologous bone ejection fraction in patients who
+Hearticellgra marrow-derived Pharmicell Co. had reperfused acute myocardial
+10 Mfg 2011-07-01
+m-AMI mesenchymal Ltd. infarction by coronary
+stem cells angioplasty within 72 hours
+after chest pain
+Human Umbilical Treatment of knee cartilage
+Cord defects in patients with
+Medipost Co.
+11 Mfg Cartistem Blood-derived 2012-01-18 degenerative or repetitive
+Ltd
+Mesenchymal traumatic osteoarthritis(ICRS
+Stem Cells grade IV)
+Autologous
+adipose-derived Treatment of fistula due to Orphan
+12 Mfg Cupistem ANTEROGEN 2012-01-18
+mesenchymal Crohn's disease drug
+stem cells
+Autologous bone Alleviate the disease
+Neuronata marrow-derived progression rate of amyotrophic Orphan
+13 Mfg Corestem Inc. 2014-07-30
+R Injection mesenchymal lateral sclerosis in combination drug
+stem cells with riluzole
+- 104 -Mfg/ Date of Efficacy/effectiveness
+No. Product Ingredients Company Remarks
+Import approval (Partially summarized)
+Keraheal- Bosol Allogeneic Biosolution Promoting re-epithelization of
+14 Mfg 2015-10-16
+Allo keratinocytes Co., Ltd deep second degree burn
+Autologous Tego Science, Improvement of moderate-to
+15 Mfg Rosmir 2017-12-27
+fibroblasts Inc. -severe nasojugal groove
+Basol autologous Treatment of knee cartilage
+Biosoluton Co.,
+16 Mfg Cartilife cartilage-derived 2019-04-24 defect (ICRS grade III or IV,
+Ltd.
+chondrocytes defect area 2 to 10 cm2)
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 105 -4
+Information on Approval
+of Herbal Medicinal
+Preparations
+- 107 -4. Information on Approval of Herbal Medicinal Preparations
+Herbal medicinal preparations approved in 2019 were a total of 56 items. As
+compared with 27 items in 2015, 31 items in 2016, 44 items in 2017 and 42 items in
+2018, the number was increased by 107.4%, 80.7%, 27.3% and 33.3% respectively
+(Refer to Table 43).
+The approval by review type is analyzed as follows: there were 5 drugs requiring
+data submission which were drugs with new composition (1 item), drugs with change
+in contents (2 items), and drugs with new formulation (Viscous extract, liquid) (2
+items). In addition, the highest number was taken by drugs approved base on
+equivalence data including bioequivalence test (31 items), followed by drugs
+approved for herbal health insurance medicine based on herbal medicinal
+preparations listed in the Korean traditional medicine books (10 items), herbal
+substance (7 items), and drugs substance (3 items).
+Table 43. Approval of Herbal Medicinal Preparations by Review Type in 2019
+(Unit: number of items)
+Type Review type No. of Approved Items
+Total Manufactured Imported
+Total
+56 56 0
+1 New drugs 0 0 0
+2 Orphan drugs 0 0 0
+3-1 New composition 1 1 0
+3-2 Change in contents 2 2 0
+Drug New efficacy and effectiveness and dosage 0 0 0
+requiring
+3-3 data New routes of administration 0 0 0
+submission
+New formulation 2 2 0
+When the documents are based on documents other
+3-4 0 0 0
+than Korean Medicine book
+4 Proof of equivalence 31 31 0
+Herbal medicinal preparations listed in Korean
+10 10 0
+traditional medicine books
+Other
+5
+medicines Drug Substance 3 3 0
+Herbal Substance 7 7 0
+- 109 -Moreover, the approval by drug classification type was analyzed as follows:
+prescription drugs (36 items), OTC drugs (10 items), drug substances (3 items), and
+herbal substances (7 items) (Refer to Table 44).
+Table 44. Approval of Herbal Medicinal Preparations 2019
+(Unit: number of items)
+Item Approval
+Types Item Total Drug Herbal
+Prescribed OTC
+Substance substances
+Total 56 36 10 3 7
+Herbal Medicinal Manufactured 56 36 10 3 7
+Preparations Imported 0 0 0 0 0
+4.1 Information on Approval of Herbal Medicinal Preparations as
+Prescription Drug
+From the herbal medicinal preparations approved in 2019, prescription drugs
+were 36 domestically manufactured items with 7 ingredients (Refer to Table 45).
+10 items including ‘Hutiren 2X Tab (artemisia asiatica 95% ethanol ext. (20→1))’
+are generic drugs of ‘Stillen 2X Tab (Artemisia Herb 95% Ethanol Soft
+Ext(20→1))’ approved in 2015. Their efficacy and effectiveness are ‘Improvement
+of gastric mucosal lesions (wheezing, bleeding, redness, edema) due to acute gastritis
+and chronic gastritis.’ ‘Safety and efficacy data’ of these products were
+reviewed by submitting the data on comparative dissolution test with comparator as
+per Article 3(1)(2) of the Regulation on Approval or Notification of Korean
+Traditional Medicine/Herbal Medicine Preparations.
+‘Umcamin Plus Syrup’ is a combination product containing pelargonium sidoides
+11% ethanol extract (1→8∼10) and Ivy leaf 30% ethanol extract (5∼7.5→1) and
+‘safety and efficacy data’was reviewed by submitting the data on combination
+- 110 -product of new composition as per [Attached Table 1] 2. Pharmaceutical drug of
+composition and specification of the Regulation on Approval or Notification of
+Korean Traditional Medicine/Herbal Medicine Preparations.
+‘Hansin Mesima-F Solution (Phellinus Linteus Mycelliun Ext.)’ is an item that
+has a different formulation from the previously approved item and ‘Safety and
+efficacy data’ was reviewed by submitting the data as specified in [Attached Table
+1] 9. New dosage form (same administration route) of the Regulation on Approval or
+Notification of Korean Traditional Medicine/Herbal Medicine Preparations.
+16 items including ‘Unimega Soft Cap (Omega-3-acid ethyl esters 90)’ are
+generic drug of Omacor Soft Cap. (Omega-3-sanethyl ester 90) approved in 2005
+and their efficacy and effectiveness are ‘Prevention of secondary occurrence after
+myocardinal infarction’ and ‘dietary supplements to reduce elevated triglyceride
+levels in patients with endogenous hypertriglyceridemia.’ As a generic drug of
+prescription drug/new drug, this drug submitted bioequivalence test results in
+accordance with Article 4(1)3 of the Regulation on Safety of Pharmaceuticals, etc.
+and ‘Omethyl QTlet Soft Cap. (Omega-3-acid ethyl esters90)’ and ‘Omacomini
+Soft Cap. 2g (Omega-3-acid ethyl esters90)’ were approved as drugs only with
+increase in strength related with ‘Omacor Soft Cap. (Omega-3-San ethyl ester 90)',
+4 items including ‘Uniila Tab.’ are generic drugs of ‘Layla Tab’, which was
+approved in 2012, and its efficacy and effectiveness are ‘relieving symptoms of
+osteoarthritis’. ‘Safety and efficacy data’ of these products were reviewed by
+submitting comparative dissolution test data with comparator in accordance with
+Article 3(1)2 of the Regulation on Approval or Notification of Korean Traditional
+Medicine/Herbal Medicine Preparations.
+‘Hanpoong Yeoldahansotang Ext. Tab (Dongeuisusobowon)’ is an item that
+corresponds to change in dosage form of the previously approved granule, and was
+- 111 -approved by submitting data on specification and test methods, etc.
+Table 45. Approval of Herbal Medicinal Preparations as Prescription Drug in 2019
+Mfg/ Date of Classification
+No. Product Company Efficacy/Effectiveness
+Import approval Code
+Hutiren 2X Tab Hutex Korea
+1 Mfg. (artemisia asiatica 95% harmaceutical 2019-01-11
+ethanol ext. (20→1)) Co., Ltd)
+Mucoren 2X Tab Guju
+2 Mfg. (artemisia asiatica 95% Pharmaceutical 2019-01-17
+ethanol ext. (20→1)) Co., Ltd.
+Gestaren 2X Tab
+Medica Korea
+3 Mfg. (artemisia asiatica 95% 2019-01-17
+Co., Ltd
+ethanol ext.(20→1))
+Shuren 2X Tab Aprogen
+4 Mfg. (artemisia asiatica 95% Pharmaceuticals 2019-01-17
+ethanol ext. (20→1)) Co., Ltd.
+Utaren 2X Tab 1. Improvement of
+Shinpoong
+5 Mfg. (artemisia asiatica 95% 2019-01-22 gastric mucosal
+Pharm. Co, Ltd)
+ethanol ext.(20→1)) [232] lesions (erosion
+Gastiren 2X Tab Peptic ulcer (swelling), bleeding,
+6 Mfg. (artemisia asiatica 95% Theragen ETEX 2019-01-22 agents rubefaction, edema):
+ethanol ext.(20→1)) Acute gastritis,
+chronic gastritis
+Stin 2X Tab
+PMG Pharm
+7 Mfg. (artemisia asiatica 95% 2019-01-23
+Co., Ltd.
+ethanol ext. (20→1))
+Artilren 2X Tab
+(Artemisia Herb 95% Korea Pharma
+8 Mfg. 2019-01-23
+Ethanol Soft Co., Ltd.
+Ext.(20→1))
+Ediol 2X Tab (artemisia
+Eden Pharma
+9 Mfg. asiatica 95% ethanol 2019-02-14
+Co., Ltd.
+ext.(20→1))
+S-tiren 2X Tab
+Huvist Pharm.
+10 Mfg. (artemisia asiatica 95% 2019-02-18
+Co., Ltd.
+ethanol ext.(20→1))
+[229]
+Han Hwa
+Miscellaneous
+11 Mfg. Umcamin Plus Syrup Pharma.Co., 2019-02-14 Acute bronchitis
+respiratory
+Ltd.
+organ agents
+1. Uterine bleeding and
+leukorrhea, menstrual
+Hansin Mesima-F
+[421] irregularity, intestinal
+Solution Han Kook
+12 Mfg. 2019-03-06 Antineoplastic bleeding, intestinal and
+(Phellinus Linteus Shin Yak Corp.
+agents gastrointestinal
+Mycelliun Ext.)
+function activation,
+detoxification
+- 112 -Mfg/ Date of Classification
+No. Product Company Efficacy/Effectiveness
+Import approval Code
+2. Gastrointestinal
+cancer, liver cancer,
+improvement of
+immune function
+by combined
+chemotherapy (with
+administration) after
+excision surgery
+Cough, sputum
+caused by the
+following diseases:
+[222]
+Aju Pharm acute upper
+13 Mfg. Synatura Syrup 2019-03-08 Antitussive
+Co., Ltd. respiratory tract
+expectorants
+infections, chronic
+inflammatory
+bronchitis
+Union Korea
+14 Mfg. Uniila Tab 2019-03-13
+Pharm Co., Ltd.
+Medics Pharm. [114]
+15 Mfg. Rasbone Tab Co, Ltd. 2019-04-03 Antipyretics, Easement of
+analgesics, and osteoarthritis
+Korea Prime
+16 Mfg. Rayon Tab 2019-04-03 anti-inflammator symptoms
+Pharm.Co., Ltd.
+y agents
+AUSKORA
+17 Mfg. Auslera Tab 2019-04-11
+Pharm.Co, Ltd.
+Unimega Soft Cap
+Union Korea Dietary supplements
+18 Mfg. (Omega-3-acid ethyl 2019-03-14
+Pharm Co, Ltd. to reduce elevated
+esters 90)
+triglyceride levels in
+Sumega Soft Cap Ahbkook patients with
+19 Mfg. (Omega-3-acid ethyl Newpharm Co, 2019-03-22 endogenous
+esters 90) Ltd. hypertriglycerideemia
+Boryung Omega-3 Soft 1) Single-dose
+Boryung Co.,
+20 Mfg. Cap (Omega-3-acid 2019-03-22 therapy for
+Ltd
+ethyl esters 90) hypertriglyceridemia
+(Type IV)
+Ometin Soft Cap
+Pharvis Korea 2) Combination
+21 Mfg. (Omega-3-acid ethyl 2019-03-27
+Co, Ltd. therapy with statin
+esters 90) [218]
+drugs for the
+Hyperlipidemia
+Romaco Soft Cap
+combination type of
+22 Mfg. (Omega-3-acid ethyl Intropharm Inc. 2019-03-27 agents
+hypercholesterolemia
+esters 90)
+and
+Dongkoo Omega-3 Soft hypertriglyceridemia
+DongKoo Bio &
+23 Mfg. Cap (Omega-3-acid 2019-03-27 (Type IIb)
+Pharma
+ethyl esters 90) 3) Combination
+therapy with statin
+Dalim Omega-3 Soft
+Dalim Biotech drugs in patients with
+24 Mfg. Cap (Omega-3-acid 2019-03-29
+Co, Ltd. hypercholesterolemia
+ethyl esters 90)
+and
+Omatree Soft Cap hypertriglyceridemia
+Medica Korea
+25 Mfg. (Omega-3-acid ethyl 2019-03-29 complex (Type IIb)
+Co, Ltd
+esters 90) whose triglyceride
+- 113 -Mfg/ Date of Classification
+No. Product Company Efficacy/Effectiveness
+Import approval Code
+Olmark Soft Cap Junghun
+26 Mfg. (Omega-3-acid ethyl Pharmaceutical 2019-07-11
+esters 90) Co., Ltd.
+Super Mega Soft Cap Hanpoong
+27 Mfg. (Omega-3-acid ethyl Pharm & Foods 2019-10-04
+esters 90) Co, Ltd.
+Megatigy Soft Cap
+Medics Pharm.
+28 Mfg. (Omega-3-acid ethyl 2019-10-04
+Co, Ltd.
+esters 90)
+Jeil Omega3 Soft Cap Cheil
+29 Mfg. (Omega-3-acid ethyl Pharmaceutical 2019-10-15
+esters 90) Co., Ltd.
+Rotigy Soft Cap Wooridul
+30 Mfg. (Omega-3-acid ethyl Pharmaceutical 2019-10-22
+esters 90) Ltd. levels are not
+OcrinSoft Cap controlled
+31 Mfg. (Omega-3-acid ethyl Suheung 2019-10-31
+esters 90)
+Komaco Soft Cap Hutex Korea
+32 Mfg. (Omega-3-acid ethyl Pharmaceutical 2019-12-20
+esters 90) Co, Ltd
+Omega One Soft Cap Hana
+33 Mfg. (Omega-3-acid ethyl Pharmaceutical 2019-12-31
+esters 90) Ltd.
+Omethyl QTlet Soft Cap
+Korea United
+34 Mfg. (Omega-3-acid ethyl 2019-04-15
+Pharm Inc.
+esters 90)
+Omacomini Soft Cap.
+Kunil Pharm.
+35 Mfg. 2g (Omega-3-acid ethyl 2019-07-11
+Co, Ltd.
+esters 90)
+Hanpoong
+Hanpoong [235]
+Yeoldahansotang Ext. Nausea and vomit of
+36 Mfg. Pharm & Foods 2019-08-14 Emetics and
+Tab Tae Eum type
+Co, Ltd. antiemetics
+(Dongeuisusobowon)
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 114 -4.2 Approval of Herbal Medicinal Preparations as OTC drugs
+The OTC drugs from herbal medicinal preparations approved in 2019 include 8
+items of ‘Mix extract’listed in the Korean traditional medicine books, and 2 items
+formulated with soft extracts (Refer to Table 46).
+Table 46. Approval of Herbal Medicinal Preparations as OTC drugs in 2019
+Mfg/ Date of Efficacy/
+No. Product Company Remarks
+Import Approval Effectiveness
+Kyungbang Ginseng Kyung Bang
+For oriental health
+1 Mfg. Paedoksan Viscous Pharmaceutical. 2019-01-03 OTC
+Insurance
+extract (Extract Mix) Co.Ltd.,
+Purulent diseases
+Hanpoong such as
+Hanpoong Takrisodokeum
+2 Mfg Pharm & Foods 2019-02-21 lymphadenitis, OTC
+Viscous extract
+Co, Ltd,. peri-analitis and
+mastitis
+Hanpoong Haengsotang Hanpoong
+For oriental health
+3 Mfg Viscous extract (Extract Pharm & Foods 2019-04-05 OTC
+Insurance
+Mix) Co, Ltd,.
+IWorld Doinseunkitang Tab. I-World Pharm For oriental health
+4 Mfg 2019-06-19 OTC
+(Extract Mix) Corp. Insurance
+IWorld Sosihotang Tab I-World Pharm For oriental health
+5 Mfg 2019-08-13 OTC
+(Extract Mix) Corp. Insurance
+IWorld Siihocheongkantang I-World Pharm For oriental health
+6 Mfg 2019-08-29 OTC
+Tab. (Extract Mix) Corp. Insurance
+Kyungbang
+Kyung Bang
+Hoichunyanggyeoksan For oriental health
+7 Mfg Pharmaceutical. 2019-09-06 OTC
+Viscous extract (Extract Insurance
+Co.Ltd.,
+Mix)
+IWorld Sihogyejitang Tab. I-World Pharm For oriental health
+8 Mfg 2019-09-17 OTC
+(Extract Mix) Corp. Insurance
+IWorld Sihosogantang Tab I-World Pharm For oriental health
+9 Mfg 2019-09-25 OTC
+(Extract Mix) Corp. Insurance
+Hanpoong Stamina reduction,
+Hanpoong Sogunjungtang
+10 Mfg Pharm & Foods 2019-12-09 abdominal pain, cold OTC
+Viscous extract
+Co, Ltd,. sweat, and thirsty
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 115 -4.3 Information on approval of Drug substances and Herbal substances
+For drug substance, 3 items such as ‘Bolak Cinamon Bark·Gambir·Cardamon·
+Capsicum 50% Ethnaol Viscous extract(5→1)(API)’ and ‘Hanpoong Ssanghwatang
+Viscous extract(3.13→1)(API)’ and Hansol Licorice Viscous extract(2.0~2.5→1)
+(API), and for herbal substance, 7 items including ‘Sol to B Muscovitum powder’
+were approved (Refer to Table 47).
+Table 47. Approval of Herbal Medicinal Preparations in 2019(Drug Substance and
+Herbal Substance)
+Mfg/ Date of Efficacy/
+No. Product Company Remarks
+Import Approval Effectiveness
+Bolak Cinamon
+Bark·Gambir·Cardamon·
+Other prescription Drug
+1 Mfg. Capsicum 50% Ethnaol Bolak Co., Ltd. 2019-04-16
+drugs substances
+Viscous extract(5→1)
+(API)
+Hanpoong
+Hanpoong
+Ssanghwatang Viscous Other prescription Drug
+2 Mfg Pharm & Foods 2019-06-13
+extract(3.13→1) drugs substances
+Co, Ltd,.
+(API)
+Hansol Licorice Viscous
+Hansol Pharm. Other prescription Drug
+3 Mfg extract(2.0~2.5→1) 2019-12-30
+Co., Ltd. drugs substances
+(API)
+Sol to B
+Sol to B Muscovitum Other prescription Herbal
+4 Mfg Pharmaceutial 2019-02-26
+powder drugs substance
+Company
+Saerom Pharm. Other prescription Herbal
+5 Mfg Saerom Doochongcho 2019-02-27
+Co., Ltd. drugs substance
+Human Wonji Licorice & Humanherb Co., Other prescription Herbal
+6 Mfg 2019-03-22
+Giner Formulation Ltd. drugs substance
+Saerom Pharm. Other prescription Herbal
+7 Mfg Saerom Hyunggaecho 2019-09-23
+Co., Ltd. drugs substance
+Saerom Pharm. Other prescription Herbal
+8 Mfg Saerom Euiyiincho 2019-09-30
+Co., Ltd. drugs substance
+CK Pharm Co., Other prescription Herbal
+9 Mfg CK Yeojungsiljoojeung 2019-10-31
+Ltd. drugs substance
+CK Other prescription Herbal
+10 Mfg CK Co, Ltd. 2019-11-11
+Cheonnamseongbaekbanja drugs substance
+* Detailed approval information (efficacy/effectiveness, dosage/administration, and precautions for use)
+is available at ‘Drug safety world(http://nedrug.mfds.go.kr)’.
+- 116 -Information on departments responsible for pharmaceutical
+Appendix
+petitions, etc
+Table 48. Information on departments responsible for pharmaceutical petitions, etc.
+(As of April, 2020)
+Item Department Detailed Petition Service
+· Preliminary review and management related to drug
+review and approval
+· Approval of drugs for manufacturing and import (including
+changes)
+· Registration of DMF
+· Preliminary review and management related to biopharma
+Innovative Convergence Products -ceuticals review and approval
+Support Department · Approval of biopharmaceuticals for manufacturing and
+import (including changes)
+· Preliminary review and management related to herbal
+medicines, etc. review and approval
+· Approval of herbal medicines, etc. for manufacturing
+and import (including changes)
+· Approval of quasi-drugs for manufacturing and import
+Pharmaceutical Policy Division · Designation of orphan drug
+Pharmaceutical Management · Drug marking and labeling
+Division · Renewal of drugs
+Pharmaceutical Safety Evaluation · Reevaluation and re-review of drugs
+Division · Risk management plan
+· GMP evaluation and guidance of drugs
+Pharmaceutical Quality Division
+· Inspection of drug substance (DMF)
+· Approval of clinical protocols
+Pharmaceutical
+Clinical Trials Management Division · Inspection of clinical trials
+Safety Bureau
+· Control of clinical trial and non-clinical (GLP) institutionals
+· Listing and management of the patent lists
+Pharmaceutical Approval and
+· Management of patents linked to medical products (approval
+Patent Management Division
+for priority sales items, etc.)
+· Approval of drug mfg., import/ export and items
+Narcotics Policy Division · Quality control of narcotic drugs
+· Designation of temporary narcotics
+Narcotics Management Division · Follow-up management of narcotics
+Drug Review
+Management · Notification of pre-review
+Division
+710 Drugs for prescription
+731 Preservative
+Drug Evaluation 741 Capsules
+NIFDS
+Department Pharmaceutical 799 Drugs not classified separately and not primarily used for
+Standardization treatment (those not containing safety and efficacy review)
+Division · Review of registration data for drug substances (excluding
+ingredients of new drugs)
+· Quality control of drug substances
+· Review of generic drug specification and test methods
+- 117 -110 Drugs for central nervous system
+120 Drugs for peripheral nervous system
+130 Drugs for sensory organs
+190 Other drugs for the nervous system out of drugs for
+other nervous systems and sensory organs
+210 Drugs for circulatory systems
+264 Drugs for pain-relieving, antipruritic, convergence, anti
+Cardiovascular
+-inflammatory
+and Neurology
+300 Metabolic drugs (excluding other metabolic drugs(390))
+Products Division
+800 Narcotics
+· Safety/efficacy review
+· Review of clinical trial protocols
+· Preliminary review
+· General management of re-evaluation; review of
+re-review, RMP periodic report and result; and
+PSUR review
+140 Allergy drugs
+220 Drugs for respiratory organ
+230 Drugs for digestive organ
+240 Hormone drugs (including anti-hormonal agents)
+250 Drugs for urogenital and anal organ
+260 Dermatologic drugs (excluding 264)
+Oncology and 290 Other drugs for individual organs
+Antimicrobial 400 Drugs for functional activation of tissue cells
+Products Division 600 Anti-pathogenic biological drugs
+720 Drugs for diagnosis
+730 Drugs for public sanitary cares
+· Safety/efficacy review
+· Review of clinical trial protocols
+· Preliminary review
+· Review of re-evaluation of re-review result report
+New drug, drugs requiring data submission, etc.
+· Review of registration data for drug substances
+Gastroenterology
+· Quality control of drug substances
+and Metabolism
+· Review of drug product specification and test methods
+Products Division
+· Review of clinical trial protocols (Quality part)
+· Preliminary review
+· Review of biological equivalence test plan
+· Review of biological equivalence test result report review
+· Review of reliability assessment of biological equivalence test
+· Review of biological equivalence examination re-evaluation
+Bioequivalence · Review of drug equivalency test result report review
+Evaluation Division (including manufacturing (import) item approval/notification)
+· Review of report of drug equivalence test result
+(approval/report)
+· Safety/efficacy review and review of clinical trial protocols
+of other metabolic drugs (390)
+Biopharma · Biological preparations, manufacturing and import/export
+-ceuticals and Biopharmaceutical Quality items, GMP evaluation and guidance
+Herbal Medicine Management Division · Inspection of drug substance of human placenta-derived
+Bureau drugs (DMF)
+- 118 -· Re-review and re-evaluation of biopharmaceuticals
+· Risk Management Plan
+Herbal Medicine Policy Division · Preliminary GMP evaluation for herbal medicine
+Cosmetics Policy Division · GMP evaluation such as cosmetics
+Quasi-Drug Policy Division · Quasi-drug GMP evaluation
+Biopharma
+-ceuticals Review
+· Notification of pre-review
+Management
+Division
+Biologics and human placenta-derived drugs
+· Quality and safety/efficacy review
+Biologics Division · Review of clinical trial plan
+· Preliminary review
+· Review of re-evaluation of re-review result report
+Recombinant Protein Products
+Recombinant · Quality and safety/efficacy review
+Protein Products · Review of clinical trial plan
+Biopharma Division · Preliminary review
+-ceuticals and · Review of re-evaluation and re-review result report
+NIFDS Herbal Medicine Cell therapy, gene therapy, etc.
+Evaluation Cell and Gene · Quality and safety/efficacy review
+Department Therapy Products · Review of clinical trial protocols
+Division · Preliminary review
+· Review of re-evaluation/re-review result report
+· Quality and safety/ efficacy review
+· Review of drug equivalence (including bioequivalence test)
+Herbal Medicinal
+· Review of clinical trial protocol
+Products Division
+· Pre-review
+· Review of re-evaluation/re-review result report
+· Review of functional cosmetics
+· Quasi-drugs
+Cosmetics
+· Safety/efficacy review
+Evaluation Division
+· Quality data review
+· Pre-review
+- 119 -2019 Drug Approval Report
+Date of July, 2020
+Publication
+Publisher Lee Eui-kyung
+Editor in Kim Young-ok, Kim Sang-bong
+Chief
+Editor Kim Myeong-ho, Oh Joung-weon, Chae Joo-young, Kim
+Youn-su, Kim Soo-Ji, Jeong Hee-jeong, Kim Jung-shin,
+Do Won-im, Kim Won-il, Park Hyang, Eom Suk-hyeon,
+Bak In-hye, Hwang Su-jeong, Park Sun-young, Lee Ji-na,
+Ju Jung-hun, Kim Won-hee, Park Min-gyeong, Kim Jee-su,
+Nam Jusun, Kim Mi-ae, Kim Ji-ye, Choi Seon-lim,
+Hwang Yun-mi, Yu Hue-sun, Park Ji-hye, Lee Ji-yeong,
+Yeo sung-gu, Kang Jeun-geun, Lee Jeong-hwa Lee Ji-hye
+National Institute of Food and Drug Safety Evaluation
+Contributor Drug Evaluation Department, Biopharmaceuticals&Herbal
+Medicine
+Innovative Convergence Products Support Department,
+Organization
+Ministry of Food Drug Safety (MFDS)

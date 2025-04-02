@@ -1,0 +1,2695 @@
+발 간 등 록 번 호
+11-1471057-000661-01
+합성펩타이드 의약품
+품질평가 정보집
+2024. 3.
+의료제품연구부 의약품연구과본 정보집은 식품의약품안전처에서 수행한 연구사업을 통해 관련 산업계
+활용을 위해 제공할 목적으로 마련되었습니다. 본 자료집에 정리된
+분석법을 적용할 때는 적합한 방법으로 유효성 확인 또는 검증한 후에
+사용하시기 바랍니다. 또한, 여기에 제시된 정보는 앞으로 관련 분야의
+과학기술 발전에 따라 변경될 수 있으며, 식약처의 정책이나 심사
+방향과는 다를 수 있음을 알려드립니다.합성펩타이드 의약품 품질평가 정보집
+목 차
+1. 서론 ···································································································································1
+2. 펩타이드 정의 및 특성 ·································································································2
+2.1 정의 ·····························································································································2
+2.2 제조 ·····························································································································2
+2.3 특성 ·····························································································································3
+2.4 펩타이드 의약품 연구개발 동향 ···········································································4
+3. 합성펩타이드 의약품의 핵심품질특성 ·······································································7
+4. 합성펩타이드 의약품의 품질 평가시 고려사항 ·····················································12
+4.1 제조방법 ···················································································································12
+4.2 원료 ···························································································································13
+4.3 색상과 외관 ·············································································································13
+4.4 확인시험 ···················································································································14
+4.5 생물학적 활성 시험(Bioassays) ············································································14
+4.6 함량시험 ···················································································································14
+4.7 불순물 ·······················································································································15
+5. 시험법별 고려사항 ·······································································································21
+5.1 질량분석법 ···············································································································21
+5.2 아미노산분석법(Amino acid analysis) ·································································28
+5.3 펩타이드 지도작성법(Peptide mapping) ·····························································365.4 핵자기공명스펙트럼측정법 (Nuclear magnetic resonance spectroscopy) ···43
+5.5 원편광이색성을 이용한 이차구조 분석법 ·························································50
+5.6 생물학적 활성 평가법 ···························································································54
+5.7 크기배제 크로마토그래피를 이용한 올리고머 분석법 ···································58
+5.8 함량시험 및 펩타이드 유연물질 분석법 ···························································62
+5.9 약물동태평가를 위한 LC-MS/MS 분석법 (Liraglutide의 예) ··························69
+6. 참고문헌 ·························································································································75
+부록 - 펩타이드 의약품 시험 사례
+1. Leuprolide acetate ······························································································· 77
+2. Semaglutide ··········································································································· 961. 서론
+합성펩타이드(synthetic peptides)는 화학적 합성반응을 통해 만들어진 아미노산
+중합체이며, 크기로 단백질과 구분하면 펩타이드는 분자량이 대략 5,000 Da 이하인
+것을 말한다. 펩타이드는 유전자재조합 기술을 통해 만들어지는 분자량 5,000 Da
+이상의 단백질과 같이 다차원의 구조적 복잡성을 가지는 약물들이 많기 때문에 첨단
+분석기술을 이용한 규격 연구가 요구되며, 최근 특허가 만료되는 오리지날 의약품이
+생겨나면서 후속의약품에 대한 개발 수요가 높아지고 있는 상황이다.
+유전자재조합기술로 생산된 펩타이드를 주성분으로 하는 생물의약품에 대한
+후속의약품으로써 개발되고 있는 ‘합성펩타이드를 주성분으로 한 화학합성의약품’에
+대한 평가 기준을 제시하고자, 식품의약품안전처에서는 2019년에 “생물의약품을
+화학의약품으로 개발한 저분자 합성펩타이드염 제제 허가 방안”(2021.9. 개정)을
+발표하였고, 2022년에 “저분자 합성펩타이드 의약품 품질평가 가이드라인”을
+제정하여 제공하고 있다.1)
+합성펩타이드 개발 역량을 갖춘 국내 제약바이오업체들의 제품 개발에 대한
+관심이 커져가고 있는 상황이다. 본 정보집은 이러한 고조된 관심에 따라
+합성펩타이드 의약품의 품질평가를 위한 주요평가항목과 시험법 고려사항 등에 관한
+정보를 제공함으로써 국내 제약바이오업체의 원활한 제품 개발을 지원하기 위해
+제작되었다.
+- 1 -2. 펩타이드 정의 및 특성
+2.1 정의
+펩타이드는 아미노산 40개 이하로 구성된 아미노산 중합체로 정의되며, 크기에
+의해 단백질과 구분된다.2) 즉, 40개보다 많은 아미노산으로 구성된 것을 단백질이라
+하고, 펩타이드는 아미노산 40개 이하로 구성되어 단백질보다 작은 크기를 가지는
+상대적인 저분자 물질을 의미한다.3) 예를 들어, 아미노산 39개로 구성된 exenatide
+(CAS No. 141758-74-9, 분자량 4,187 Da)는 펩타이드에 해당하고, 아미노산 51개로
+구성된 human insulin (CAS No. 11061-68-0, 분자량 5,808 Da)은 단백질에 속한다고 볼
+수 있다.
+2.2 제조
+펩타이드는 유전자재조합 기술(recombinant DNA technology), 생물로부터의
+추출 또는 화학적인 합성에 의해 만들어진다. 유전자재조합 기술을 이용하거나
+생물체로부터의 추출을 통해 제조되는 펩타이드를 유효성분으로 하는 것은
+생물의약품에 해당하며,4) 화학적인 합성법에 의해 제조되는 합성펩타이드를
+유효성분으로 하여 제조된 의약품은 화학의약품에 해당한다. 화학적인 방법으로
+만들어지는 합성펩타이드는 액상펩타이드합성법(Liquid-Phase Peptide Synthesis,
+LPPS)이나 고체상펩타이드합성법(Solid-Phase Peptide Synthesis, SPPS)에 의해
+제조된다.5) LPPS는 아미노산 개수가 보통 8개 이하의 비교적 작은 분자의 펩타이드에
+적합한 방법으로 과거에 주로 사용하던 합성법이다. 최근에는 자동화의 효율성과 비교적
+큰 분자의 펩타이드 합성 수요에 따라 SPPS 방법이 주로 사용되고 있다 (그림 1).6)
+SPPS와 LPPS 방법을 혼합하여 사용하는 hybrid SPPS/LPPS 방법이 사용되기도 한다.
+- 2 -그림 1 고체상펩타이드 합성법 (SPPS)의 기본 원리
+(출처: Signal Transduction and Targeted Therapy 2022, 7, 48)
+2.3 특성
+펩타이드 의약품은 저분자화합물 의약품과 고분자의 생물의약품 사이의
+중간적인 성격을 가진다.7) 펩타이드 의약품은 생물의약품에 비해 면역원성이 낮고,
+생체막 투과성이 좋으며, 생산비용이 저렴하다는 장점을 가지고, 저분자화합물
+의약품과 비교하면 높은 선택성으로 인하여 효능과 안전성이 우수하고 임상 단계에서
+성공률이 더 높은 것으로 알려져 있다. 하지만, 펩타이드는 저분자화합물과 비교하면
+분자량이 크고 친수성이 강하므로 세포막 투과도가 낮고, 체내에 존재하는 효소들에
+의하여 쉽게 분해되는 안정성과 생체 내 짧은 반감기의 문제점을 가지고 있다 (그림 2).
+- 3 -그림 2 펩타이드 의약품의 특성 및 장점
+(출처: Signal Transduction and Targeted Therapy 2022, 7, 48)
+따라서 최근 연구는 세포막 투과도를 높이고 체내 단백분해효소에 대한
+안정성을 향상시키며 생체내 반감기를 연장시키기 위한 구조변형 및 제제화 연구가
+활발히 진행되고 있다. 그리고, 펩타이드 의약품 대부분이 주사제라는 점에서 환자들의
+복약순응도가 낮았는데, 이를 극복하기 위해 경구투여 제제를 개발하는 연구도 크게
+주목받고 있다.
+2.4 펩타이드 의약품 연구개발 동향
+펩타이드가 처음 화학적으로 합성된 것은 1954년의 일로 Vincent Du Vigneaud
+연구팀이 oxytocin을 합성하여 ‘Journal of the American Chemical Society’에
+발표하였으며, 이 성과로 1955년 노벨화학상 수상자가 되었다.8) 펩타이드의 합성은
+1963년 Bruce Merrifield가 개발한 solid-phase peptide synthesis (SPPS) 방법에 의해
+생산의 고도화가 이루어졌으며, 이 방법은 지금 합성펩타이드 제조의 표준방법이
+되었다.9) 이후 펩타이드 의약품의 개발이 가속화되어 1970년대 Calcitonin,
+Desmopressin을 시작으로 하여 1980년대 Leuprolide, Octreotide 등, 1990년대
+Glatiramer 등, 2000년대 이후 Teriparatide, Exenatide, Liraglutide, Semaglutide 등이
+개발되어왔다. 특히, 2000년대 들어 펩타이드 의약품 개발이 가속화되고 있는데, 2000년
+- 4 -이후 허가된 펩타이드 의약품은 33개에 해당한다. 펩타이드 의약품 개발 초기에는
+천연형 아미노산만으로 구성된 펩타이드 의약품이 주로 개발되었으나, 이후 다양한
+구조변형 및 제제화 기술 발전으로 기존의 펩타이드가 가지는 치료학적 문제점들을
+극복한 의약품 개발이 활발하게 진행되고 있는데, 비천연형 아미노산 삽입, 지방산
+접합, PEG와 같은 생체적합성 폴리머 접합, 생분해성 폴리머를 이용한 서방성 방출
+제형 기술 등이 있다.
+그림 3 펩타이드 의약품 시장 및 개발 동향
+(출처: Nature Reviews Drug Discovery, 2021, 20, 309-325).
+펩타이드 의약품은 저분자화합물 의약품과 생물의약품의 사이에서 뚜렷한
+시장을 차지하고 있는데, 전체의약품 시장의 약 5%에 해당하는 비중 (약 6천억 달러
+규모)을 차지한다 (그림 3a). 최초 화학 합성 이후 약 40년간 펩타이드 의약품 허가
+품목수가 34개에서 최근 20년간 52개로 두 배 가까이 늘어나고 있는 점을 비추어 봤을
+때 앞으로 의약품 시장에서 차지하는 비중이 더욱 늘어날 것으로 전망된다 (그림 3b).
+- 5 -의약품 개발 유형으로는 Agonist 형태로 개발되는 비중이 80%로 가장 높았으며,
+Inhibitor 9%, Antagonist 8% 수준이었다 (그림 3c). 치료를 위한 적응증으로는 내분비계,
+대사질환 및 항암 분야가 각각 17%로 높은 비중을 차지하는 것으로 나타났고, 그 밖에
+심혈관 질환 11%, 생식 질환 8%, 위장관련 질환 6%를 비롯해 기타 중추신경계 질환,
+통증, 감염질환 등 다양한 질환에 대한 적응증을 가진 의약품들이 개발되고 있는
+것으로 나타났다 (그림 3d).
+2021년 기준으로 1천만 달러 이상 매출을 기록한 펩타이드 의약품은 11개로
+나타났으며, Dulaglutide, Semaglutide, Liraglutide와 같은 당뇨 및 비만 치료 약물이
+상위권을 차지하여 펩타이드 시장을 선도하고 있으며, Leuprolide, Octreotide와 같은
+항암제가 그 다음으로 큰 비중을 차지하고 있는 것으로 나타났다.10)
+- 6 -3. 합성펩타이드 의약품의 핵심품질특성
+합성펩타이드 원료의약품의 목표 제품 품질을 보장하기 위해서 필요로 하는
+핵심품질특성(critical quality attribute, CQA)과 시험법을 표 1에 정리하였다.
+표 1 합성펩타이드 원료의약품의 핵심품질특성 및 시험법
+핵심 품질 특성 시험법 설명
+성상이 보관 중에 변한다면 이를
+성상 펩타이드의 상태(예: 고체 또는 액체)
+과학적 근거를 바탕으로 조사하고
+(Description) 및 정성적 색상 설명
+적절한 조치를 취해야 함.
+질량분석법(Mass spectrometry) Monoisotopic mass가 확인되어야 함.
+아미노산분석법 가수분해와 유도체화 방법들이
+(Amino acid analysis) 정해져야 함.
+일차구조를 확인할 수 있는
+충분한 수의 펩타이드 절단
+펩타이드 지도작성법
+조각이 얻어져야 함. 보통
+(Peptide mapping)
+확인 아미노산 20개 이상으로 구성된
+(Identification) 펩타이드의 확인시험에 요구됨.
+크로마토그래피의 유지시간에
+액체크로마토그래피에서의
+의해서만 확인하는 것은
+주성분과 표준품의 유지시간의 특이적이지 않으므로 다른
+동일성 확인 시험과의 조합을 통한 확인이
+필요함.
+(HPLC comparison with standard
+정량법 또는 유연물질 시험에
+[co-elution])
+사용된 방법이 사용될 수 있음.
+정확성, 정밀성 및 특이성이
+함량
+액체크로마토그래피(HPLC) 검증되어야 함. 주로
+(Assay)
+역상분배크로마토그래피가 사용됨.
+물리화학적 특성 측정은 일반적인
+물리화학적 특성 의약품에서 사용되는 방법을
+(Physicochemical pH, 선광도 등 이용할 수 있으며, 약물의 용도와
+properties) 관련된 경우 중요한 의미를 가질
+수 있음.
+- 7 -핵심 품질 특성 시험법 설명
+유기불순물(Organic impurities)
+공정 유래 불순물과 안정성 관련
+펩타이드 유연물질 불순물 모두 측정가능하도록
+액체크로마토그래피
+(Peptide-related 밸리데이션되어야 함. 불순물 개개
+(역상분배, 이온교환 등)
+impurities) 및 총 불순물 허용 기준이
+제시되어야 함.
+올리고머 또는 크기배제크로마토그래피 올리고머 및 응집물는 면역원성의
+응집물aggregates (Size-exclusion chromatography), 주요 원인이 되므로 적절한
+(Oligomers or 동적광산란측정법 방법으로 시험을 실시하고 허용
+aggregates) (Dynamic light scattering) 기준이 제시되어야 함.
+생산 후기 단계에서 사용되는
+기체크로마토그래피
+잔류용매 용매로 사용이 제한될 수 있음.
+(Gas chromatography),
+(Residual solvents) (예: 분취용 HPLC 정제에
+잔류용매시험법
+사용되는 아세토니트릴)
+액체크로마토그래피(역상분배),
+잔류 trifluoroacetic acid 생산공정에 사용되었을 경우
+이온크로마토그래피
+(Residual TFA) 실시함.
+(Ion chromatography)
+무기불순물(Inorganic Impurities)
+기타 음이온 이온크로마토그래피 생산공정에 사용되었을 경우
+(Other anions) (Ion chromatography) 실시함. (예: phosphate)
+이온선택성 전극
+플루오르화물 (Ion selective electrode), 생산공정에 사용되었을 경우
+(Fluoride) 이온크로마토그래피 실시함.
+(Ion chromatography)
+금속촉매(metal catalysts)가
+금속(원소)불순물 유도결합 플라즈마 질량 분석법
+생산공정에 사용되었을 경우
+(Elemental impurities) (ICP-MS)
+요구됨.
+기타 시험(Other Specific Tests)
+수분함량 수분측정법 흡습성이 있거나 수분에 의해서
+(Water content) (Karl Fischer titration) 분해되는 경우 실시함.
+원료의약품의 특성, 제조 방법
+미생물학적 평가 등에 근거하여 미생물한도시험,
+미생물한도시험, 무균시험 등
+(Microbiological quality) 무균시험 등 유형과 허용기준
+설정.
+약전 일반시험법에 따른 엔도톡신
+엔도톡신시험 또는
+엔도톡신/발열물질 시험 또는 발열성물질시험과
+발열성물질시험
+허용기준을 명시함.
+- 8 -합성펩타이드 원료의약품의 핵심품질특성 이외에 필요에 따라 이를 보충하는
+품질특성과 시험법을 표 2에 정리하였다.
+표 2 합성펩타이드 원료의약품의 보충적인 시험법
+품질 특성 시험법 설명
+핵자기공명스펙트럼측정법 펩타이드 1차 구조 및 고차 구조
+(NMR spectroscopy) 확인시험에 활용될 수 있음.
+적외부스펙트럼측정법
+펩타이드에서는 매우 제한적으로 활용됨.
+(Infrared spectroscopy)
+고차구조분석법
+확인
+구조가 복잡하여 2차 구조 이상의 구조
+(Higher order structure by
+(Identification)
+분석이 필요한 경우 적용함.
+CD, NMR, FTIR)
+구조적 복잡성으로 인해 물리화학적
+생물학적 활성시험 분석으로 규명이 어려운 구조적
+(Bioidentity/Bioassay) 확인시험이 필요한 경우에 적용함. 주로
+완제의약품에서 사용됨.
+생산공정으로부터 발생하는
+불순물 허용 기준이 제시되어야 함.
+불순물 저분자 불순물
+잠재적인 유전독성 불순물은 검증이
+(Impurities) (Small molecule impurities
+요구됨.
+from manufacturing process)
+특이시험 선광도시험법
+광학활성 순도 측정
+(Specific Tests) (Optical rotation)
+합성펩타이드 의약품은 대부분 주사제로 개발되어 사용되고 있는 가운데, 최근
+들어 Semaglutide와 Octreotide가 경구투여 의약품으로 성공적으로 개발되어 허가를
+받으면서 경구투여 의약품 개발에 대한 관심이 커지고 있다. 이에 따라 합성펩타이드
+완제의약품의 주사제와 정제에 대한 제형별 핵심품질특성을 표 3에 정리하였다.
+표 3 합성펩타이드 완제의약품 주요 제형의 핵심품질특성
+제 형 핵심 품질 특성 핵심품질특성 평가 방법 및 설명
+[대한민국약전 일반시험법]
+주사제
+제제균일성 제제균일성시험법. 투여량 단위에 따른
+(Parenteral
+(Uniformity of dosage units) 원료의약품의 함량을 근거로 설정하고
+Drug Products)
+허용범위를 설정함.
+- 9 -제 형 핵심 품질 특성 핵심품질특성 평가 방법 및 설명
+[대한민국약전 일반시험법] pH측정법.
+pH 과학적 타당성에 근거한 허용 기준을
+설정함.
+[대한민국약전 일반시험법] 무균시험법.
+무균(Sterility) 무균성 평가를 위한 시험방법과 허용기준을
+설정함.
+[대한민국약전 일반시험법]
+엔도톡신/발열성물질 엔도톡신시험법/발열성물질시험법. 엔도톡신
+(Endotoxins/Pyrogens) 시험 또는 발열성물질시험을 선정하고
+허용기준을 설정함.
+[대한민국약전 일반시험법]
+미립자이물 불용성이물시험법/주사제의
+(Particulate matter) 불용성미립자시험법. 불용성이물 및
+미립자에 대한 허용기준을 설정함.
+[대한민국약전 일반시험법]
+수분 함량(Water content) 수분측정법(칼피셔법). 분말 또는 동결건조
+주사제의 경우 수분함량 기준을 설정함.
+보존제 함량 허용 기준은 예정 사용 기간
+보존제 함량 및 유효기간 동안 모든 단계에서 제품의
+(Preservative content) 미생물학적 품질을 유지하는데 필요한
+보존제 수준에 근거하여 설정함.
+용기·마개 시스템의 추출물이 적합하고
+추출물(Extractables)
+안전함을 증명함.
+삼투압(Osmolality) [대한민국약전 일반시험법] 삼투압측정법
+서방성제제의 경우 유효성분의 방출속도 및
+약물방출(Drug release) 방출기간을 측정할 수 있는 평가 방법이
+확보되어야 함.
+입자크기분포 현탁액인 경우 입자 크기 분포 시험과
+(Particle size distribution) 정량적 허용기준이 필요함.
+보관 중에 침전이 생기는 현탁액인 경우
+재분산성(Redispersibility)
+재분산성 허용기준이 필요함.
+건조분말과 같이 재구성시켜 투약하는 경우
+재구조화시간
+희석액의 선정 이유 등을 타당성 있게
+(Reconstitution time)
+증명해야함.
+액체크로마토그래피(HPLC). 정확성, 정밀성
+함량(Assay) 및 특이성이 검증되어야 함. 주로
+역상분배크로마토그래피가 사용됨.
+- 10 -제 형 핵심 품질 특성 핵심품질특성 평가 방법 및 설명
+[대한민국약전 일반시험법] 용출시험법.
+용출 속도의 변화가 생체이용률에 유의미한
+용출(Dissolution) 영향을 주는 경우 부적합한 생체이용률의
+배치를 식별할 수 있는 시험 조건을
+개발하는 것이 필요함.
+[대한민국약전 일반시험법] 붕해시험법.
+붕해(Disintegration) 용출과의 관계가 설정되고 붕해가 용출보다
+더 변별력이 있는 경우 활용됨.
+정제
+(코팅 및 나정) 경도/마손도 경도와 마손도가 품질에 매우 중요한 경우
+및 경질 캡슐 (Hardness/Friability) 허용 기준을 설정함.
+(Coated
+tablets,
+[대한민국약전 일반시험법]
+uncoated
+제제균일성 제제균일성시험법. 투여량 단위에 따른
+tablets, and
+(Uniformity of dosage units) 원료의약품의 함량을 근거로 설정하고
+hard-shell
+허용범위를 설정함.
+capsules)
+[대한민국약전 일반시험법]
+수분측정법(칼피셔법). 수분이 의약품에
+수분 함량(Water content)
+미치는 영향에 관한 과학적 근거를 통해
+허용 기준을 설정함.
+[대한민국약전 일반시험법]
+미생물 한도 미생물한도시험법.내용 고형제의 미생물
+(Microbial limits) 한도시험은 과학적 타당성이 있는 경우
+실시하지 않을 수 있음.
+- 11 -4. 합성펩타이드 의약품의 품질 평가시 고려사항
+4.1 제조방법
+합성펩타이드는 액상펩타이드합성법(LPPS)이나 고체상펩타이드합성법(SPPS)에
+의해 제조된다.11) LPPS는 보통 8개 이하의 아미노산으로 구성된 비교적 작은 분자의
+펩타이드에 적합한 방법으로 과거에 주로 사용하던 합성법이다. 최근에는 자동화의
+효율성과 비교적 큰 분자의 펩타이드 합성 수요에 따라 SPPS 방법이 주로 사용되고
+있다.12) SPPS와 LPPS 방법을 혼합하여 사용하는 hybrid SPPS/LPPS 방법이 사용되기도
+한다. SPPS와 LPPS 방법 간의 특성을 표 4에 비교하였다.
+표 4 펩타이드 제조방법 간의 특성 비교
+합성법 특 성
+저분자 펩타이드(아미노산 8개 이하)의 대량생산에 적합
+스케일업이 쉽고 비용이 적게 듬
+정제가 어려움
+액상펩타이드합성법
+고도로 자동화되지 않음
+(LPPS)
+생산주기가 짧지 않음
+부반응을 쉽게 감지할 수 있음
+Ligation 기술에 적합
+소량의 고분자 펩타이드 제조에 적합
+스케일업에 비용이 많이 듬
+고체상펩타이드합성법
+정제가 용이함
+(SPPS)
+고도화된 자동화 시스템 구축 가능
+생산주기가 짧음
+SPPS와 LPPS 두 제조공정 간에는 불순물 프로파일에서도 차이를 보인다.
+LPPS의 경우는 반응 기전을 기초로 하여 잠재적 불순물 예측이 가능하고, 각 반응
+단계별 불순물에 대한 확인 및 제어가 가능하다. SPPS의 경우는 펩타이드 합성에
+사용되는 시약과 반응 원료인 아미노산 유도체 등이 펩타이드 합성 과정 중에 쉽게
+제거되기 때문에 비펩타이드성 불순물은 큰 문제가 되지 않으나, 공정과정에서
+발생하는 펩타이드성 유연물질들이 최종 타겟 펩타이드와 구조적으로 유사해 불순물
+프로파일이 복잡할 수 있다.
+- 12 -4.2 원료
+원료(Raw materials)란 용어는 펩타이드 원료의약품 (peptide drug substance)의
+제조에 사용되는 출발물질(starting material), 용매 및 시약을 말한다. 각 원료의 불순물
+등의 품질은 원료의약품의 품질에 중요한 영향 인자이기 때문에 적절한 품질관리가
+수행되어야 하며, 각 업체에서 적절한 기준을 설정하여 관리되어야 한다. 펩타이드
+합성에 사용되는 출발물질에서 발견될 수 있는 공통적인 불순물은 표 5에서와 같다.
+표 5 출발물질에서의 잠재불순물
+불순물 기원
+잘못된 거울상 이성질체 (예: L-아미노산 대신
+D-아미노산 또는 D-아미노산에 존재하는 출발물질의 낮은 키랄 순도
+L-아미노산)
+플루오레닐메틸옥시카르보닐 보호기(Fmoc)
+아미노산 유도체의 dipeptides 합성 불순물
+(예: Fmoc-Leu-OH 대신 Fmoc-Leu-Leu-OH)
+β-알라닌 함유 불순물 (예: Fmoc-β-Ala-OH 9-fluorenylmethyl N-succinimidyl
+및 Fmoc-β-Ala-AA-OH[AA=아미노산 또는 carbonate를 사용할 때 아미노산의
+아미노산 유도체]) Fmoc-보호 반응과정에서 생성
+유리 아미노산(아민 보호되지 않음); N-말단 α-아미노 보호기의 상실 또는
+부분적으로 보호된 아미노산 불완전한 보호
+이성질체 오염 물질
+출발물질의 순도 불량
+(예: Leu 유도체의 잔류 이소류신[Ile])
+아미노산 유도체 합성 시 사용되는 잔류
+잔류 아세트산 (예: 에틸아세테이트)
+용매
+4.3 색상과 외관
+육안 검사에 의한 색상 및 외관 시험은 색상 및 물리적 상태를 정성적으로
+설명하기 때문에 원료의약품 규격에 포함된다. 시험은 배치별 외관의 일관성을
+보증한다.
+- 13 -4.4 확인시험
+합성 펩타이드에 대해 가장 일반적으로 사용되는 확인시험은 역상분배
+액체크로마토그래피(reversed-phase-HPLC) 및 질량 분석(mass spectrometry)이다.
+아미노산 분석법(amino acid analysis), 펩타이드 지도작성법(peptide mapping) 또는
+핵자기공명(NMR) 분광법과 같은 시험도 사용할 수 있다. 분자량이 2 kDa보다 큰
+펩타이드의 경우 탠덤 질량 분석기(MS–MS) 또는 고분리능 질량분석기(High-resolution
+MS)가 필요할 수 있다. 과거엔 아미노산분석법이 가장 일반적인 시험방법이었으나,
+최근에는 HPLC, 질량분석과 같은 분석법들이 더 자주 사용된다.
+4.5 생물학적 활성 시험(Bioassays)
+생물학적 활성은 의약품의 치료 표적에 대한 약물의 작용기전을 이용하여
+평가할 수 있다. 과거에는 동물모델을 이용한 생물학적 활성 시험이 많이 시행되었으나
+최근에는 세포 실험이나 리간드 또는 수용체 기반 결합 방법이 주로 사용된다. 의약품
+개발 과정에서 생물학적 검정은 일반적으로 특정 표적치료의 작용제(Agonist) 또는
+길항제(Antagonist)가 될 수 있는 새로운 화학적, 생물학적 물질을 발견하는 데
+사용된다. 작은 펩타이드의 경우 정확한 물리화학적 방법이 검증되고 나면 의약품
+품질관리를 위해 생물학적 활성 시험이 더 이상 필요하지 않을 수 있다. 단, 구조가
+복잡하거나 크기가 큰 펩타이드의 경우 역가를 측정하거나 활성이 제조 공정 동안
+유지되는지 확인하기 위해 생물학적 활성 시험이 필요할 수 있다.
+4.6 함량시험
+펩타이드 원료 및 완제의 함량 분석은 주로 액체크로마토그래피로 수행되는데,
+역상분배 액체크로마토그래피(reversed-phase HPLC) 또는 크기배제 크로마토그래피
+(size-exclusion chromatography) 방법이 많이 이용된다. 펩타이드는 흡습성과 표준품 배치간
+변동성으로 인한 시료전처리의 어려움이 있어 허용가능범위를 신중하게 결정하여야
+한다. 특이성을 비롯하여 정확성과 정밀성 등 분석법 밸리데이션 파라미터가 적절하게
+확보되어야 하고, 시스템적합성 시험이 요구된다.
+- 14 -4.7 불순물
+펩타이드 불순물 프로파일은 제조 방법에 따라 크게 다를 수 있기 때문에
+불순물 종류를 일반화하는 것이 어렵다. 또한, 펩타이드 생산을 위한 제조 기술은
+저분자화합물에 비해 다양하고 복잡하기 때문에 일반적으로 저분자화합물에 적용하는
+불순물 가이드라인을 펩타이드에 적용하기 어렵다.
+의약품의 불순물은 유기 불순물(organic impurities), 무기 불순물(inorganic
+impurities) 및 잔류 용매(residual solvents)의 세 가지 범주로 분류된다.13) 그러나,
+실제적인 관점에서 펩타이드 의약품의 불순물은 펩타이드 유연물질과 비펩타이드성
+불순물로 분류될 수 있다.
+4.7.1 펩타이드 유연물질 (Peptide-related impurities)
+펩타이드 유연물질은 주성분의 구조와 관련된 모든 불순물로 이루어진다. 이는
+출발물질 불순물 또는 합성 중 부반응이나 보관 중 분해에 의해 파생된 부산물들로,
+제조과정과 관련이 있거나 약물 자체와 관련이 있다. 표 6은 펩타이드 유연물질의
+유형과 그 발생 기원 및 관련성, 그리고 추천되는 분석방법에 대해 정리한 것이다.
+표 6 펩타이드 유연물질의 유형, 기원 및 분석 기술
+유형 설명 기원 분석기술
+Deletion
+합성(불완전한 커플링 또는
+(clipped
+하나 이상의 아미노산 탈보호) 또는 보관(N- 또는 LC-MS 또는
+forms,
+손실 C-말단 아미노산 또는 LC-MS/MS
+fragments,
+fragments의 가수분해)
+truncations)
+원료 물질 (각각의 보호된
+dipeptide를 함유하는
+출발물질) 또는
+하나 이상의 추가 LC-MS 또는
+Insertion 합성(커플링 중
+아미노산의 존재 LC-MS/MS
+N-보호기의 손실, 출발
+물질에 보호되지 않은
+아미노산의 존재)
+- 15 -유형 설명 기원 분석기술
+HPLC/UHPLC spiking
+with synthesized
+펩타이드-수지 합성 시
+하나 이상의 다른 analogs or
+Substitution 출발물질 오염 또는 세척
+아미노산의 존재 isolation/Amino Acid
+부족
+Analysis/LC-MS or
+LC-MS/MS
+원료(잔류 아세트산 함유
+물질), 합성(steric
+N-말단 deletions를 LC-MS 또는
+Truncation hindrance, 불완전 커플링
+포함하는 서열 LC-MS/MS
+반응의 의도적 아세틸화)
+또는 보관
+HPLC/UHPLC spiking
+Stereoisomers Epimer화 아미노산을 with synthesized
+출발물질, 합성 또는 분해
+(diastereomers) 포함하는 서열 diastereomers or
+chiral analysis
+Asp 또는 Asn의 측쇄에서
+Aspartimide/succinimi 각각 물 또는 암모니아의 HPLC, LC-MS,
+de 함유 서열 손실을 통한 기본 LC-MS/MS
+골격으로의 cyclization
+가공 또는 보관 중 HPLC/UHPLC spiking
+β-Asp 함유 서열 aspartimide/succinimide with synthesized
+Asp/Asn 관련 중간체의 가수분해 개환 analogs or isolation
+불순물
+Aspartimide/succinimide HPLC/UHPLC spiking
+Asp stereoisomers
+중간체의 epimer화 후 with synthesized
+(diastereomers)
+가공 또는 보관 중 개환 analogs or isolation
+가공 또는 보관 중 HPLC/UHPLC spiking
+Chain cleavage
+aspartimide/succinimide with synthesized
+products
+중간체의 총 가수분해 analogs or isolation
+β-Alanine β-알라닌을 함유한 LC-MS 또는
+출발물질의 오염
+insertion 서열 LC-MS/MS
+N-말단 글루타민
+Pyroglutamic
+또는 글루타민산을 합성 HPLC 또는 LC-MS
+acid
+함유한 서열
+- 16 -유형 설명 기원 분석기술
+Polymers 또는 Conformational changes SEC 또는 SEC–다각도
+Oligomers
+aggregates 또는 펩타이드 중합 광 산란(SEC–MALS)
+Disulfide 이황화물을 함유한 LC-MS 또는
+합성 또는 보관
+reduction 서열 LC-MS/MS
+글루타민, 아스파라긴
+LC-MS 또는
+또는 C-말단의 합성 또는 보관
+LC-MS/MS
+탈아미드화
+아미노 작용기의 LC-MS 또는
+합성 또는 보관
+아세틸화 LC-MS/MS
+기타
+특정 잔기의 산화,
+LC-MS 또는
+예: 방향족 또는 황 합성, 보관, 분석시료 제조
+LC-MS/MS
+함유 사이드체인
+아미노산의 알킬화, LC-MS 또는
+Deprotection (cleavage)
+아실화 LC-MS/MS
+합성펩타이드의 제조에 주로 사용되는 고체상펩타이드 합성법(SPPS)은 공정과정
+중간에 발생하는 펩타이드 유연물질이 타겟으로하는 최종 펩타이드와 구조적으로
+유사해 복잡한 불순물 프로파일로 이어질 수 있다 (그림 4). SPPS 공정 중에 발생하는
+대표적인 불순물 생성 기전은 아미노산 결손 (amino acid deletion), 아미노산
+삽입(amino acid insertion), 보호그룹의 불완전 제거(incomplete removal of protection
+group) 등이 있다. 아미노산 결손은 세 가지 원인으로 인해 발생할 수 있다. 첫 번째는
+Fmoc으로 보호된 아민그룹이 다음 반응을 위해 piperidine 처리를 통해 deprotection이
+되어 활성화되어야하는데, 이 deprotection이 불완전하게 이루어져 아미노산 간의
+반응이 이루어지지 못함에 따라 발생하는 것이다(Incomplete transient deprotection). 두
+번째로는 아미노산이 반응을 위해 leaving group이 활성화되어야 하는데, 이 활성화가
+불완전하게 일어나서 반응이 제대로 이루어지지 않아서 발생하는 것이다(Inefficient
+activation). 세 번째는 protecting group의 resin에 첫 번째 아미노산이 불완전하게
+결합되어 발생하는 아미노산 결손이 있다(Incomplete coupling to the resin of
+protecting group). 아미노산 삽입(amino acid insertion)은 불필요하게 아미노산이
+결합되는 것인데, 작용기 이외의 부위와 결합되어 불특정 아미노산이 삽입되는
+경우이다. 또한 펩타이드 반응이 완성된 후 마지막 단계에서 반응을 위해 사용되었던
+- 17 -Fmoc과 같은 보호그룹(protecting group)을 제거해야 하는데, 보호그룹의 제거가
+완벽하게 이루어지지 않을 경우 불순물이 발생할 수 있다(Incomplete removal of
+protecting group).14)
+그림 4 고체상펩타이드 합성법의 반응 프로세스와 불순물 생성 포인트
+(출처: D'Hondt et al. J Pharm Biomed Anal. 2014, 101, 2-30).
+- 18 -4.7.2 비펩타이드성 불순물 (Non-peptide impurities)
+비펩타이드성 불순물은 생산 과정에서 생성되나 주성분의 구조와 관련성이
+없는 불순물이다. 이들 불순물은 출발물질과 시약을 비롯하여 촉매와 용매들 같은
+보조물질의 잔류물들로 이루어진다. 펩타이드 원료는 보통 아세테이트나 염산염과
+같은 염 이온들로 구성되는데, 이러한 염 이온들은 불순물에 해당하지 않고 구성성분에
+해당한다. 원료의약품의 제조공정에 사용되는 시약으로 원료의약품에 잔류할 위험
+때문에 주로 원료의약품 규격에 포함되는 대표적인 비펩타이드성 불순물은
+트리플루오로아세트산(Trifluoroacetic acid)이다. 표 7은 비펩타이드성 불순물의 유형과
+그 발생 기원 및 추천되는 분석방법에 대해 정리한 것이다.
+표 7 비펩타이드성 불순물, 기원 및 분석 기술
+유형 기원 분석기술 및 참조 지침
+출발물질, 중간체, 시약
+및 각각의 반응 또는 출발물질 또는 시약 HPLC 또는 GC
+분해 산물
+생산 후기 단계에서
+대한민국약전 일반시험법
+사용되는 용매 (예: 분취용
+잔류용매 잔류용매시험법, ICH Q3C
+HPLC 정제에 사용되는
+(R7)
+아세토니트릴)
+반대 이온 또는 완충액
+USP – Acetic Acid in
+성분으로 존재하는 잔류
+Peptides <503>, USP –
+음이온 또는 양이온 (예:
+무기불순물, 유기산의 Trifluoroacetic Acid (TFA)
+TFA 또는 트리에틸암모늄
+잔류 음이온, 염기의 in Peptides <503.1>,
+포스페이트 (TEAP) 또는
+잔류 양이온 ICH Q3C (R7) (예: for
+Boc-SPPS와 함께 사용되는
+acetic acid and
+불화수소에서 유래하는
+triethylamine)
+불화물)
+대한민국약전 일반시험법
+금속(원소)불순물시험법,
+USP – Elemental
+출발물질, 합성 중 촉매,
+금속불순물 Impurities-Limits <232>,
+장비
+USP – Elemental
+Impurities-Procedures
+<233>, ICH Q3D (R1)
+- 19 -유형 기원 분석기술 및 참조 지침
+대한민국약전 일반시험법
+미생물한도시험법,
+무균시험법,
+USP – Microbial
+Enumeration <61>, Tests
+for Specified
+중성 pH의 수용액 또는
+Bioburden Microorganisms <62>,
+완충액
+Microbiological Examination
+of Nonsterile Products:
+Acceptance Criteria for
+Pharmaceutical Preparations
+and Substances for
+Pharmaceutical Use <1111>
+생산 후기 단계에서 대한민국약전 일반시험법
+엔도톡신
+사용되는 물질 엔도톡신시험법
+4.7.3 합성펩타이드의 불순물 시험
+펩타이드의 순도는 일반적으로 HPLC 분석과 같은 기기분석에 의해 결정된다.15)
+순도시험으로서의 HPLC 분석법은 출발물질, 공정 관련 불순물 및 분해산물 불순물을
+분리할 수 있어야 한다. 펩타이드 관련 모든 불순물의 정량을 위해서는 하나 이상의
+분석 과정이 요구되기도 한다. 여러 방법이 사용되는 경우에는 서로 분리기전이 다른
+기술(orthogonal separation techniques)의 사용이 추천된다. 소수성 펩타이드의 분석을
+위해서는 reversed-phase HPLC가 적절하고, 친수성 펩타이드 분석을 위해서는
+hydrophilic interaction chromatography가 적절할 수 있다. 경우에 따라서는 양이온
+또는 음이온 교환수지 크로마토그래피가 유용할 때도 있다. 불순물의 확인을 위해서는
+질량분석기를 검출기로 하는 LC-mass spectrometry (LC-MS)가 필요할 수 있다. 순도
+분석법 중 적어도 하나는 stability-indicating method이어야 한다.
+UV 검출기능을 가진 HPLC 분석법이 불순물 분석을 위해 자주 사용되나,
+펩타이드 유연물질들과 주성분 간에 구조적 유사성으로 인해 HPLC에서 분리가 쉽지
+않은 경우가 많아 고분리능의 방법이 필요할 수 있다. 이러한 경우 고분리능
+질량분석기를 이용하는 LC-high resolution mass spectrometry (LC-HRMS)의 사용이
+추천된다.
+- 20 -5. 시험법별 고려사항
+합성펩타이드 의약품의 품질평가를 위해 사용되는 주요 시험법의 기본원리 및
+사용목적과 시험방법 및 결과예시를 정리하였다. 본 시험법별 고려사항에 제시된
+시험방법과 결과는 대표적인 예시를 제시한 것으로, 분석하고자 하는 합성펩타이드
+의약품의 특성에 따라 적절한 분석법과 그에 따른 결과 해석이 필요하다.
+5.1 질량분석법
+5.1.1 기본 원리 및 목적
+질량분석법(mass spectrometry, MS)은 이온화법에 따라 생성된 이온들을
+질량대전하비(mass-to-charge ratio, m/z)에 따라 분리하여 검출하는 방법이다.
+질량대전하비(m/z) 값은 이온의 질량(m)을 이온의 전하수(z)로 나누어 얻어지는 값으로
+무차원수(dimensionless number)이다. 측정 결과는 각 이온들의 m/z 값을 x축으로 하고
+각 이온에 해당하는 신호들의 상대적인 강도를 y축으로 한 질량스펙트럼(mass
+spectrum)으로 나타난다.
+질량분석법을 이용한 확인시험은 대상 펩타이드의 질량 확인에 의해
+이루어진다. 사용 기기의 질량 분해능(mass resolving power)과 측정 분자의 질량에
+따라 질량분석법을 통해 얻어지는 피검성분의 질량은 monoisotopic mass 또는 average
+mass로 조정될 수 있다. 일반적으로 질량은 monoisotopic peak으로부터 구하지만,
+분자량이 크거나 기기의 질량분해능이 충분하지 않아서 monoisotopic peak이 확인될 수
+없는 경우 average mass가 피크의 가중평균으로부터 계산되어 사용될 수 있다.
+ESI-MS에 의해 고분자량의 펩타이드를 분석하는 경우, ESI 질량스펙트럼이 서로 다른
+전하상태를 가진 다가이온(multiply-charged ions) 시리즈를 나타내는데, 얻어진
+다중전하를 가진 스펙트럼을 변환하는 과정(deconvolution)을 거쳐 정확한 분자량
+확인이 가능하다. 펩타이드의 질량분석에는 고성능 액체크로마토그래피와
+질량분석기(mass spectrometry, MS)를 결합한 HPLC-MS 방법이 주로 사용된다.
+분자량이 2 kDa 이상인 비교적 큰 펩타이드는 고분리능 질량분석(high-resolution mass
+spectrometry, HRMS)의 사용이 필요할 수 있다.
+- 21 -5.1.2 시험 방법
+(1) 검액 제조
+Liraglutide 원료 및 완제를 각각 취하여 50 mM phosphate buffer(pH 7.8)에 녹여
+0.1 mg/mL이 되도록 한 다음, 이를 0.45 μm cellulose acetate 시린지 필터로 여과하여
+검액으로 하였다.
+(2) LC-MS 분석
+LC-MS는 아래 조건으로 수행되었다.
+1) LC-MS: UPLC-ESI-TOF-MS
+2) Column: UPLC Peptide BEH C , 130 Å, 1.7 μm, 2.1 × 100 mm
+18
+3) Mobile phase: (A) 0.1% formic acid in water (B) 0.1% formic acid in ACN
+4) LC gradient
+Time (min) Mobile phase B (%)
+0 5
+0.13 5
+4.00 50
+4.67 50
+4.80 5
+6.00 5
+5) LC flow rate: 0.5 mL/min
+6) Injection volume: 2 μL
+7) Sample temperature: 7 ℃
+8) Column temperature: 65 ℃
+9) MS conditions
+Mass range: Low (50-2000 m/z)
+Polarity: Positive
+Scan rate: 5 Hz
+Capillary voltage: 1.50 kV
+Desolation temperature: 550 ℃
+Cone voltage: 30 V
+Fragmentation cone voltage: 50 ­100 V
+- 22 -5.1.3 결과 예시
+5.1.3.1 Liraglutide 원료
+(1) 질량 분석을 통해 얻어진 TIC(total ion chromatogram) 예시
+그림 5 Liraglutide 원료를 LC-MS로 분석하여 얻은 total ion chromatogram
+(2) 질량분석을 통해 얻어진 질량스펙트럼 예시
+그림 6 Liraglutide 원료를 LC-MS로 분석하여 얻은 질량스펙트럼. 서로 다른 전하
+상태를 가진 다가이온들로 m/z 1876.50270 (+2가 이온) m/z 1251.32842 (+3가 이
+온), m/z 938.74826 (+4가 이온), m/z 751.19947 (+5가 이온)이 관찰됨.
+- 23 -그림 7 Liraglutide 원료의 +4가 이온의 isotope peak pattern. 동위원소의 분포에
+따라 monoisotopic peak (m/z 938.24547)부터 m/z 약 0.25 차이를 갖는 isotope
+peak가 나타남.
+그림 8 Liraglutide 원료를 LC-MS로 분석하여 얻어진 다가이온들을 deconvolution 하
+여 얻어진 질량스펙트럼
+- 24 -<Liraglutide 원료의 질량 분석 결과>
+유지시간(분) Expected mass (Da) Observed mass (Da) Mass error (ppm)
+4.32 3749.95374 3749.9627 2.4
+고분자량의 단백질의 경우 monoisotopic peak의 세기가 너무 작아 확인이
+어려우나, 펩타이드는 아미노산 개수가 비교적 적어 다가이온들의 monoisotopic peak가
+검출된다. 따라서 다가이온들의 monoisotopic peak의 m/z를 가지고 deconvolution을 한
+observed mass가 펩타이드 +1가 이온의 monoisotopic mass이다.
+- 25 -5.1.3.2 Liraglutide 완제
+(1) 질량 분석을 통해 얻어진 TIC(total ion chromatogram) 예시
+그림 9 Liraglutide 완제를 LC-MS로 분석하여 얻은 total ion chromatogram
+(2) 질량분석을 통해 얻어진 질량스펙트럼 예시
+그림 10 Liraglutide 완제를 LC-MS로 분석하여 얻은 질량스펙트럼. 다가이온 m/z
+1876.49821 (+2가 이온) m/z 1251.32657 (+3가 이온), m/z 938.74642 (+4가 이온),
+m/z 751.19832 (+5가 이온)이 관찰됨.
+- 26 -그림 11 Liraglutide 완제의 +4가 이온의 isotope pattern. 동위원소의 분포에 따라
+monoisotopic peak (m/z 938.24297)부터 m/z 약 0.25 차이를 갖는 isotope peak가
+나타남.
+그림 12 Liraglutide 완제를 LC-MS로 분석하여 얻어진 다가이온들을 deconvolution 하
+여 얻어진 질량스펙트럼
+<Liraglutide 완제의 질량 분석 결과>
+유지시간(분) Expected mass (Da) Observed mass (Da) Mass error (ppm)
+4.32 3749.95374 3749.9540 0.1
+- 27 -5.2 아미노산분석법(Amino acid analysis)
+5.2.1 기본 원리 및 목적
+펩타이드의 아미노산 조성(amino acid composition)은 아미노산분석법(amino
+acid analysis)을 이용하여 분석할 수 있다. 아미노산분석법은 펩타이드를 가수분해한 후
+각 아미노산의 적절한 유도체화 과정을 거쳐 검체를 제조하고 크로마토그래피로
+분석하는 과정으로 이루어진다.
+□ 참고
+대한민국약전 일반시험법 단백질의 아미노산 분석에서는 유도체화 방법과 검출법에 따라
+방법을 규정하고 있다.16) 방법 1과 방법 2는 아미노산들을 후라벨(postlabeling)법에 따라
+유도체화여 UV 흡광 또는 형광을 측정하는 방법으로 이온교환 액체크로마토그래피로
+아미노산을 분리한다. 방법 1은 닌히드린(ninhydrin)으로 유도체화한 후 가시광선 흡광을
+검출(UV 440 nm와 570 nm)하는 방법이고, 방법 2는 o-프탈알데히드(OPA)로 유도체화한 후
+형광을 검출(Excitation 348 nm, Emission 450 nm)하는 방법이다. 제3법부터 제8법은
+전라벨(prelabeling)법으로 유도체화한 후 역상분배 액체크로마토그래피로 분리하여
+유도체화된 아미노산을 UV 흡광 또는 형광으로 검출하는 방식이다. 유도체화 시약으로는
+PITC(방법 3), AQC(방법 4), OPA(방법 5), DABS-Cl(방법 6), FMOC-Cl(방법 7), NBD-F(방법
+8)가 사용된다.
+<단백질의 아미노산 분석방법과 분리 및 검출 조건>
+Methods Chromatography Detection
+Postcolumn
+Method 1 Ion-exchange UV 440 nm and 570 nm
+Ninhydrin Detection
+Postcolumn Fluorescence Excitation 348 nm,
+Method 2 Ion-exchange
+OPA Fluorometric Detection Emission 450 nm
+Precolumn
+Method 3 Reversed-phase UV 254 nm
+PITC Derivatization
+Precolumn Fluorescence Excitation 250 nm,
+Method 4 Reversed-phase
+AQC Derivatization Emission 395 nm
+Precolumn Fluorescence Excitation 348 nm,
+Method 5 Reversed-phase
+OPA Derivatization Emission 450 nm
+Precolumn
+Method 6 Reversed-phase UV 436 nm
+DABS-Cl Derivatization
+Precolumn Fluorescence Excitation 260 nm,
+Method 7 Reversed-phase
+FMOC-Cl Derivatization Emission 313 nm
+Precolumn Fluorescence Excitation 480 nm,
+Method 8 Reversed-phase
+NBD-F Derivatization Emission 530 nm
+- 28 -아미노산분석법은 asparagine (Asn)과 aspartic acid (Asp)를 구별하지 못하고,
+glutamine (Gln) 또는 pyroglutamic acid (Pyr)으로부터 glutamic acid (Glu)를 구별하지
+못하는 문제를 가지고 있는 것으로 알려져 있다.17) 하지만, leucine (Leu)과 isoleucine
+(Ile)의 구별이 요구될 때는 아미노산분석법이 여전히 유용한 분석 방법으로 사용된다.
+아미노산분석법은 아미노산 조성 분석을 위해 전통적으로 많이 사용되어온 방법이나,
+갈수록 그 사용 빈도가 줄어들고 있으며, HPLC나 질량분석법으로 대체되고 있다.
+□ 참고
+미국 USP에 수재된 Exenatide(아미노산 39개)의 경우 확인시험으로 아미노산분석법을
+채택하고 있으며, 각 구성 아미노산의 허용 기준(Acceptance criteria)을 다음과 같이
+정하고 있다.18)
+<USP에 수재된 Exenatide의 Amino Acid Analysis 확인시험의 허용기준>
+Amino acid number in Acceptance Criteria
+Amino acids
+peptide (amino acid ratio)
+Aspartic acid, Threonine,
+Phenylalanine, Lysine, each 2 1.5 – 2.5
+Alanine
+Serine 5 4.2 – 5.5
+Glutamic acid 5 5.2 – 6.8*
+Proline 4 3.5 – 4.5
+Glycine 5 4.5 – 5.5
+Valine 1 0.5 – 1.5
+Methionine, Isoleucine,
+each 1 0.5 – 1.5
+Histidine, Arginine
+Leucine 3 2.5 – 3.5
+Tryptophan 1 0.5 – 1.5
+* Exenatide는 5개의 glutamic acid와 1개의 glutamine을 가지고 있음. 아미노산 분석법은
+glutamine (Gln)과 glutamic acid (Glu)를 구별하지 못하는 문제를 가지고 있으므로 기준이 두
+아미노산의 총갯수에 해당하는 6개를 기준으로 하여 설정되어 있음.
+- 29 -5.2.2 시험 방법
+(1) Ninhydrin postcolumn reaction 아미노산 시험법
+Leuprolide acetate 및 Goserelin acetate 약 200 mg을 각각의 분해관에 넣고, 6
+M 염산 10 mL를 가하고 질소가스 주입 후 110℃에서 24시간 가수분해시킨다. 여액을
+감압농축기로 농축 후 0.2 M 시트르산 나트륨 완충액 50 mL 넣고 0.2 μm cellulose
+acetate syringe filter로 여과한 액을 검액으로 한다.
+<Protein Hydrolyzates (PH) assay 분석 조건>
+기기 Amino acid 전용 분석기
+칼럼 Ion-exchange column (PH column) 4.6 mm × 60 mm
+Mobile phase Buffer set (PH-SET)
+Photometer Wavelength; 570 nm, 440 nm
+Flow rate Ninhydrin: 0.3 mL/min, Buffer: 0.35 mL/min
+Injection Vol 20 μL
+<Protein Hydrolyzates (PH) assay용 완충액 조성>
+Reagents PH-1 PH-2 PH-3 PH-4 RH-RG
+Vessel (buffer) B1 B2 B3 B4 B6
+Sodium Conc (M) 0.16 0.2 0.2 1.2 0.2
+Density 1.02 1.02 1.02 1.06 1.00
+1. Water 700 mL 700 mL 700 mL 700 mL 700 mL
+2. Sodium citrate (2HO) 6.19 g 7.74 g 13.31 g 26.67 g -
+2
+3. Sodium hydroxide - - - - 8.00 g
+4. Sodium chloride 5.66 g 7.70 g 3.74 g 54.35 g -
+5. Citric acid 19.80 g 22.0 g 12.00 g 6.10 g -
+6. Ethanol 130.0 mL 20.0 mL 4.0 mL - 100 mL
+7. Benzyl alcohol - - - 5.0 mL -
+8. Thiodiglycol 5.0 mL 5.0 mL 5.0 mL - -
+9. Brij-35* 4.0 mL 4.0 mL 4.0 mL 4.0 mL 4.0 mL
+10. pH 3.3 3.2 4.0 4.9 -
+11. Total 1.0 L 1.0 L 1.0 L 1.0 L 1.0 L
+12. Caprylic acid 0.1 mL 0.1 mL 0.1 mL 0.1 mL 0.1 mL
+* Dissolve 25g into 100mL of distilled water
+- 30 -<Ninhydrin 시약 조성>
+Vessel Step Reagent Measurement
+1 Propylene glycol monomethyl ether 979 mL
+2 Ninhydrin 39 g
+R1(ninhydrin) 3 Nitrogen bubbling dissolution 5 min minimum
+4 Sodium borohydride 81 mg
+5 Nitrogen bubbling 30 min minimum
+1 Distilled water 336 mL
+2 Lithium acetate dihydrate 204 g
+R2 for ninhydrin 3 Glacial acetic acid 123 mL
+buffer solution 4 Propylene glycol monomethyl ether 401 mL
+5 Total 1000 mL
+6 Nitrogen bubbling 10 min minimum
+(2) 알칼리 가수분해 트립토판 분석법
+물을 이용하여 약 0.1 mg/mL 농도로 희석한 트립토판 표준액을 사용한다.
+Leuprolide acetate 및 Goserelin acetate 100 mg을 칭량하여 각각의 마이크로
+킬달플라스크에 넣고, 석유 에테르 10 mL를 넣는다. 부드럽게 흔들어 섞은 후 20분
+동안 초음파 처리한 후 질소가스를 주입하여 에테르를 증발시킨다. 질소가스를
+이용하여 4.2 M 수산화나트륨의 기포를 제거한 후 플라스크에 4.2 M 수산화나트륨을
+넣고, 1-옥탄 용액을 3방울 떨어뜨린다. 처리한 용액을 즉시 드라이아이스/에틸알코올
+수조에 넣고 냉동시킨 후 진공시켜 밀봉한다. 시험 시 플라스크를 물이 담긴 비커에
+넣고 녹인 후 110℃오븐에서 20시간 동안 넣고 상온에서 식힌다. pH 4.25 구연산
+나트륨 완충액을 이용하여 50 mL 비커로 정량 검액을 옮긴 후 3.5 mL의 염산으로
+중화하고 pH를 4.25±0.05로 맞춘다. 혼합한 검액을 25 mL 용량 플라스크에 정량
+옮기고 물로 희석한다. 이 용액을 원심분리 튜브에 넣고 1,150 g에서 20분 동안
+원심분리한 후 유리 필터 종이(Whatman GF/A)로 상층액을 여과한다. 여과액을
+원심분리 튜브에 넣고 23,000 g에서 10분 동안 원심분리한 액을 검액으로 한다.
+- 31 -<Tryptophan 분석 조건>
+Instrument HPLC UV/Vis detector
+Column C18 (4.6 mm ID×250 mm, 5 ㎛)
+Mobile phase 0.0085 M Sodium acetate/methanol (95/5)
+Detector UV 280 nm
+Flow rate 1.0 mL/min
+Injection Vol 20 μL
+5.2.3 결과 예시
+(1) Liraglutide 구성 아미노산 HPLC chromatogram 예시
+Leuprolide acetate는 ‘피로글루탐산–히스티딘–트립토판–세린–티로신–D-루신–
+루신–아르기닌–프롤린’의 아미노산으로 이루어진 펩타이드이며, Goserelin acetate는
+Leuprolide의 D-루신 대신 t-부틸 D-세린으로 구성된 펩타이드이다. 본 시험에서는
+Leuprolide acetate 원료의 아미노산 구성을 확인하고, 이와 유사한 아미노산으로
+이루어진 Goserelin acetate 원료의 구성도 확인하고자 하였다. 시험결과 Leuprolide
+acetate 및 Goserelin acetate 원료 모두 동일한 종류의 아미노산이 확인되었다 (표 8,
+그림 13-14). 또한 Leuprolide acetate와 Goserelin acetate 시험결과를 상호 비교하였을
+때 Leuprolide acetate에서는 루신, Goserelin acetate에서는 세린의 양이 많음을 확인할
+수 있었다. 이는 해당 아미노산이 각각의 펩타이드 구조에서 두 번 결합되어 있기
+때문인 것으로 해석할 수 있다.
+- 32 -표 8 Leuprolide acetate와 goserelin acetate의 아미노산 분석 결과
+구성 아미노산 Leuprolide acetate (%) Goserelin acetate (%)
+아스파르트산 0 0
+트레오닌 0 0
+세린 6.71 8.56
+글루탐산 10.09 6.43
+프롤린 7.90 5.03
+글리신 0 0
+알라닌 0 0
+발린 0 0
+이소루신 0 0
+루신 19.02 6.02
+티로신 13.01 8.17
+페닐알라닌 0 0
+히스티딘 10.79 6.85
+라이신 0 0
+아르기닌 12.78 7.70
+트립토판 13.00 11.77
+- 33 -Leuprolide acetate의 Ninhydrin postcolumn reaction 크로마토그램
+Leuprolide acetate의 트립토판 크로마토그램
+그림 13 Leuprolide acetate의 아미노산 분석 크로마토그램
+- 34 -Goserelin acetate의 Ninhydrin postcolumn reaction 크로마토그램
+Goserelin acetate의 트립토판 크로마토그램
+그림 14 Goserelin acetate의 아미노산 분석 크로마토그램
+- 35 -5.3 펩타이드 지도작성법(Peptide mapping)19)
+5.3.1 기본 원리 및 목적
+펩타이드 지도작성법(peptide mapping)은 대상이 되는 펩타이드 약물에
+단백분해효소를 처리하거나 화학적인 방법으로 펩타이드를 절단하여 만들어진 펩타이드
+조각(peptide fragments)을 분리하여 확인하는 방법이다. 펩타이드를 구성하는 아미노산
+서열에 변화가 생길 경우 펩타이드 지도작성법에 의해 만들어지는 펩타이드 조각 구성에
+변화가 생길 수 있다. 따라서 펩타이드 지도작성법은 펩타이드의 일차구조 상의 변화를
+반영하는 일종의 지문과 같은 정보를 제공한다. 이러한 특성 때문에 펩타이드
+지도작성법은 제조공정의 일관성을 입증하는 분석법으로도 활용될 수 있다.
+펩타이드 지도작성법의 조작은 펩타이드 결합의 선택적 절단, 크로마토그래피
+등의 분리분석법을 이용한 분리 및 펩타이드 조각의 검출로 구성된다. 조작 과정 중
+정확한 분석을 위해서는 적절한 절단 반응이 일어나는 것이 중요한데, 보통
+화학절단제보다는 트립신과 같은 단백분해효소를 사용할 때 절단이 더 잘 이루어진다.
+시험할 펩타이드 약물의 구조적 특성에 따라 적절한 절단 방식(효소적 또는 화학적 절단)
+및 절단제가 선택되어야 한다 (표 9).
+표 9 펩타이드 지도작성용 절단제
+형태 절단제 특이성
+트립신 (EC 3.4.21.4) 아르기닌과 리신 C-말단
+소수성 부위의 C-말단 (예, 리신,
+알파키모트립신 (EC 3.4.21.1)
+메티오닌, 알라닌, 방향족)
+펩신 (EC 3.4.23.1 및 EC 3.4.23.2) 비특이적 분해
+효소 리신엔도펩티다제 (EC 3.4.21.50) 리신의 C-말단
+절단제
+글루타민산엔도펩티다제 (EC L-글루타민산과 아스파라긴산의
+3.4.21.19) C-말단
+펩티딜-아스파라긴산-메탈로엔도펩
+아스파라긴산의 N-말단
+티다제 (EC 3.4.24.33)
+클로스트리페인 (EC 3.4.22.8) 아르기닌의 C-말단
+- 36 -형태 절단제 특이성
+시안화브롬 메티오닌의 C-말단
+2-니트로-5-티오시아노벤조산 시스틴의 N-말단
+화학
+o-요오드벤조산 트립토판과 티로신의 C-말단
+절단제
+묽은 산 아스파라긴산과 프롤린
+BNPS-스케톨 트립토판
+펩타이드 조각 피크의 특성분석에는 N-말단 서열분석법(Edman degradation)이나
+질량분석법(LC-MS 또는 LS-MS/MS)이 사용될 수 있다. 특성분석 목적으로 N-말단
+서열분석법을 사용할 때는 분리분석 규모를 확대하게 되는데 이 경우 펩타이드 조각
+피크들의 분리도가 영향을 받을 수 있기 때문에 분리분석 규모 확대가 피크 분리도에
+영향을 주지 않았음을 입증해야 할 필요가 있다. N-말단 서열분석을 위한 시료는 각
+펩타이드 피크의 유출액을 모아서 진공농축을 하여 제조하는데, 필요에 따라서는 이를
+다시 크로마토그래피로 분리하기도 한다. 경우에 따라서는 카르복시펩티다제 처리 후
+매트릭스 보조 레이저 탈착/이온화 비행시간형 질량분석기(matrix-assisted laser
+desorption/ionization time-of-flight mass spectrometry)로 분석하는 C-말단 서열분석법이
+사용될 수 있다. 질량분석기를 사용한 펩타이드 조각의 특성분석에서는 분리된 펩타이드
+시료가 직접 또는 크로마토그래피 장치와 기계적으로 연계되어 질량분석기로 주입된다.
+펩타이드의 서열을 분석하기 위해 탠덤 질량분석법(MS/MS sequencing)이 사용될 수
+있다.
+- 37 -5.3.2 시험 방법
+(1) Liraglutide의 구조적 특성에 따른 펩타이드 지도작성 전략
+Liraglutide는 31개의 아미노산으로 구성된 펩타이드이다. Liraglutide는
+트립신이나 리신엔도펩티다제의 절단 부위인 lysine (K)이 한 개만 있고 그 부위에
+지방산이 결합된 상태인 반면, 글루타민산엔도펩티다제 (Glu-C)의 절단 부위인 glutamic
+acid (E)가 3개 있고 (3번, 15번, 21번 아미노산), aspartic acid (D)가 1개가 있어서 4개
+부위의 절단에 따른 5개의 분절이 생성될 수 있다 (그림 15). 따라서 Liraglutide의
+펩타이드 지도작성을 위해서는 Glu-C를 효소 처리한 후 생성된 분절을 측정하는 것이
+효과적이다.
+그림 15 Liraglutide의 서열과 Glu-C 절단 부위 및 생성 가능한 분절
+(2) Glu-C 처리 및 분석
+Liraglutide를 50 mM phosphate buffer (pH 7.8)에 1 mg/mL이 되도록 녹였고,
+Glu-C 10 μg을 50 mM phosphate buffer (pH 7.8)에 1 mg/mL이 되도록 녹였다. Glu-C
+용액 10 μL와 Liraglutide 용액 200 μL을 혼합한 다음 37 ℃에서 18시간 동안
+반응시켰다(Glu-C:Liraglutide = 1:20, w/w). Formic acid 4 μL를 첨가하여 반응을
+종결시켰다. Liraglutide 완제를 50 mM phosphate buffer (pH 7.8)에 Liraglutide의 농도가
+1 mg/mL이 되도록 녹인 다음 원료와 동일하게 반응시켰다. Glu-C 처리된 검체를
+정제수로 10배 희석한 다음 0.45 μm cellulose acetate 시린지 필터로 여과하고 아래의
+조건으로 LC-MS로 분석하였다.
+- 38 -1) LC: UPLC
+2) MS: ESI-TOF
+3) Column: UPLC Peptide BEH C , 130 Å, 1.7 μm, 2.1 × 100 mm
+18
+4) Mobile phase: (A) 0.1% Formic acid in water (B) 0.1% Formic acid in
+acetonitrile
+5) LC gradient
+Time (min) Mobile phase B (%)
+0 5
+0.13 5
+4.00 50
+4.67 50
+4.80 5
+6.00 5
+6) LC flow rate: 0.5 mL/min
+7) Injection volume: 10 μL
+8) Sample temperature: 7 ℃
+9) Column temperature: 65 ℃
+10) UV wavelength: 220 nm and 280 nm
+11) MS conditions
+Mode: Full scan with fragmentation
+Mass range: Low (50-2000 m/z)
+Polarity: Positive
+Scan rate: 5 Hz
+Capillary voltage: 1.50 kV
+Desolation temperature: 550 ℃
+Cone voltage: 30 V
+Fragmentation cone voltage: 50 ­100 V
+Lockmass correction mode: Standard
+- 39 -5.3.3 결과 예시
+5.3.3.1 Liraglutide 원료의 펩타이드 지도작성 분석 예시
+그림 16 Glu-C처리된 Liraglutide 원료를 LC-MS로 분석하여 얻은 total ion
+chromatogram. V2 (1.26 min), V3 (1.67 min), V5 (2.18 min), V2-3 (2.37 min), V4-5
+(4.33 min), V2-5 (4.53 min), V4 (4.73 min)의 피크가 검출됨.
+Glu-C 절단 Liraglutide 원료를 LC-ESI-MS 분석한 결과, Total ion chromatogram
+(TIC)에서 7개의 분절(fragment) 피크가 관찰되었다 (그림 18). 각 피크의 m/z를
+deconvolution하여 observed mass를 계산하고 이를 매칭한 결과 각 피크가 V2, V3, V5,
+V2-3, V4-5, V2-5, V4 fragment에 해당하는 것으로 확인되었다 (표 10). 약 0.5분
+부근에서 나타난 피크의 경우, 용매 피크와 같이 검출되는 것으로 보여 정성적인 확인이
+어려우며, 부분적으로 절단된 V2-3 fragment는 aspartic acid가 glutamic acid에 비해
+효소에 의한 분해속도가 느리기 때문에 나타나는 것으로 보이고, V4-5 fragment가
+관찰되는 이유는 21번 자리 glutamic acid의 옆의 lysine에 결합한 palmitic acid with
+glutamic acid linker (GPA) 때문에 Glu-C의 효소 활성이 방해받았기 때문으로 보인다.
+- 40 -표 10 Liraglutide 원료의 펩타이드 지도작성 분석 결과
+Mass
+Fragment 유지시간 Observed Expected
+Peptide error
+label (min) mass (Da) mass (Da)
+(ppm)
+V2 [4-9] 1.26 GTFTSD 627.2633 627.26205 2.0
+V3 [10-15] 1.67 VSSYLE 697.3426 697.34030 3.3
+V5 [22-31] 2.18 FIAWLVRGRG 1174.6870 1174.68438 2.2
+V2-3 [4-15] 2.37 GTFTSDVSSYLE 1305.5936 1305.58451 7.0
+V4-5
+4.33 GQAAK*EFIAWLVRGRG 2126.2564 2126.24846 3.7
+[16-31]
+GTFTSDVSSYLEGQAAK*
+V2-5 [4-31] 4.53 3412.8293 3412.81512 4.1
+EFIAWLVRGRG
+V4 [16-21] 4.73 GQAAK*E 970.5874 970.58193 5.6
+K*: 20번 Lysine의 -NH 에 glutamic acid를 linker로 하여 palmitic acid (C16)이 결합되어 있음.
+2
+- 41 -5.3.3.2 Liraglutide 원료와 완제 간의 펩타이드 지도작성 비교 예시
+Liraglutide 완제를 원료와 동일하게 Glu-C 처리한 다음 LC-MS로 분석하여 두
+검체의 TIC를 비교하였다 (그림 19). Liraglutide 완제를 Glu-C 처리한 검체에서도
+원료에서 검출된 것과 동일한 분절 피크들이 확인되었고, 원료와 완제의 분절 질량
+피크간의 observed mass 차이는 약 0.001 Da 수준으로 동일한 수준으로 나타났다.
+그림 17 Liraglutide 원료와 완제를 각각 Glu-C 처리한 다음 LC-MS로 분석하여 얻은
+거울형 total ion chromatogram
+- 42 -5.4 핵자기공명스펙트럼측정법 (Nuclear magnetic resonance spectroscopy)20)
+5.4.1 기본 원리 및 목적
+핵자기공명스펙트럼측정법(NMR)은 정자장 안에 놓여진 물질의 구성원자핵이 그 핵
+고유 주파수의 라디오파에 공명하여 저에너지의 핵스핀상태로부터 고에너지의
+핵스핀상태로 천이함에 따라 라디오파를 흡수하는 현상을 이용한 스펙트럼측정법이다.
+측정대상으로 하는 핵은 주로 1H, 13C, 15N, 19F 및 31P 등이다.
+NMR은 크로마토그래피나 질량분석과는 다른 차원에서 아미노산 배열 및
+고차구조(higher order structure, HOS)21) 정보 제공을 통해 확인시험에 활용될 수 있다.
+보통 1H-NMR의 경우 다음의 방법으로 확인시험을 한다.
+① 화학적이동, 다중도 및 면적강도비로 하는 확인 - 확인하려고 하는 물질의
+화학적 이동(chemical shift, δ, ppm), 다중도(multiplicity), 각 신호의 면적
+강도비(integral)가 규정되어 있거나 문헌에 보고되어 있을 경우, 모든 신호의 화학적
+이동, 다중도 및 각 신호의 면적강도비가 적합할 때 검체와 확인하려고 하는 물질이 같은
+것으로 확인한다. 다만, 분자 내에 교환가능한 수소핵(exchangeable proton)이 존재하는
+경우 화학적 이동, 다중도, 면적 강도비가 실험마다 차이가 있을 수 있으므로 각 신호에
+해당되는 부분구조의 특성을 충분히 파악하여 지정(assignment) 할 필요가 있다.
+② 표준품으로 하는 확인 - 같은 측정조건에서 검체 스펙트럼과 표준품
+스펙트럼을 비교하고 양자의 스펙트럼이 같은 화학적 이동에서 같은 다중도의 신호가
+있고 같은 각 신호의 면적강도비일 때 검체와 표준품은 같은 것으로 확인한다. 특히
+교환가능한 수소핵이 다수 존재하는 펩타이드 시료의 경우, 저자장 영역(down-field,
+low-field) 신호가 실험마다 차이가 있을 수 있으므로 검체와 표준품을 함께 분석하는
+것이 권장된다.
+5.4.2 시험 방법
+검체를 용매에 녹이고 소량의 기준물질을 넣어 그 용액을 NMR검체관에 주입하는
+내부기준법 또는 기준물질의 용액을 봉입한 세관을 검액과 함께 NMR검체관에 넣는
+외부기준법 중 어느 한 방법으로 준비한 검체관을 NMR프로브에 설치하여 측정한다.
+측정용매로는 보통 NMR측정용 중수소화용매를 사용한다. 용매 종류는 검체의
+신호와 겹치는 신호를 나타내지 않고 검체를 잘 녹이며 검체와 반응하지 않는 것을
+- 43 -선택한다. 특히, 펩타이드 시료의 경우 아마이드 결합(amide bond) 유래 교환가능한
+수소핵이 다수 존재하므로 시험 목적에 적합한 용매 선정이 필요하다. 또한 용매 종류,
+용액 농도, 중수소이온의 농도 등에 따라 화학적 이동이 변화하는 경우가 있으며 검액의
+점도가 높은 경우에는 분해능이 떨어지므로 주의한다. 검액은 완전히 균일한 용액으로
+한다. 특히 고형의 이물이 혼입하면 좋은 스펙트럼을 얻을 수 없다.
+기준물질로는 NMR측정용 시약을 쓴다. 보통 1H, 13C는 측정용매로 유기용매를
+쓰는 경우는 테트라메틸실란(tetramethylsilane, TMS)을, 중수(deuterium oxide, D O)를
+2
+쓰는 경우는 3-트리메틸실릴프로판설폰산나트륨(sodium trimethylsilylpropanesulfonate,
+DSS) 또는 3-트리메틸실릴프로피온산-d(trimethylsilylpropionic acid-d, TSP-d)를 쓴다.
+4 4 4
+또는 기준물질을 넣지 않고 중수소화용매 중의 잔류프로톤이나 측정용매의 13C 화학적
+이동을 쓸 수도 있다.
+(1) 장치 및 측정조건의 기재
+측정조건이 다르면 스펙트럼은 달라지므로 스펙트럼의 비교를 적절하게 하기 위하여
+측정에 쓴 장치명, 장치의 주파수, 측정용매 종류 및 제조법(예를 들어, 완충용액
+제조에 필요한 시약 및 pH 조정법 등), 측정온도, 검액농도, 기준물질, 측정방법 등의
+측정조건을 기재한다.
+(2) 1차원 NMR 측정법
+① 1차원 1H-NMR에서는 커플링의 상관을 귀속시킬 수 있는 스핀디커플링 및
+공간적으로 근접하는 1H 간의 상관이 관측되고 입체배치나 입체배좌를 해설할
+수 있는 NOE(Nuclear Overhauser Effect)가 있다.
+② 1차원 13C-NMR에서는 스펙트럼을 단순화하면서 NOE로 감도향상을 얻을 수
+있는 광대역 디커플링, 관측핵에 직접 결합하고 있는 자기모멘트가 큰
+1H로부터의 분극이동을 이용하여 감도를 향상시키는 DEPT(Distortionless
+Enhancement by Polarization Transfer, 분극이동에 의한 무왜가도증대법) 등이
+사용되며 1급, 2급, 3급 및 4급 탄소의 결정에 이용된다.
+- 44 -(3) 2차원 NMR 측정법
+① COSY (COrrelation SpectroscopY, 상관분광법), TOCSY (TOtal Correlation
+SpectroscopY, 전상관분광법): 스핀결합한 1H 간의 상관을 얻어서 분자내의
+수소의 화학결합관계를 알 수 있다.
+② NOESY (Nuclear Overhauser Effect SpectroscopY, 화학교환분광법): NOE
+효과를 2차원으로 측정하고 공간적으로 가까운 거리에 있는 수소원자간의
+거리를 얻어서 입체구조 정보를 얻을 수 있다.
+③ HMQC (Heteronuclear Multiple Quantum Coherence, 이핵종간다양자
+코히렌스분광법): 직접 스핀결합한 1H와 13C 간의 상관을 검출하여 수소와
+탄소의 직접적인 화학결합을 알 수 있다. 펩타이드 시료의 경우, HMQC
+신호가 관측되지 않은 저자장 영역의 1H 신호들은 아마이드 결합, 아미노산
+곁사슬(side chain) 및 페놀성 수산기(phenolic OH) 그룹 등을 구성하는
+수소핵임을 예상할 수 있다.
+④ HMBC (Heteronuclear Multiple Bond Correlation, 이핵종간원격상관분광법):
+원격 스핀결합한 1H와 13C 간의 상관을 검출하여 수소와 탄소의
+화학결합관계를 알 수 있다. 특히, 펩타이드 1H- 및 13C-NMR 스펙트럼의
+저자장 영역에서 관측되는 아마이드 결합 유래 수소 및 카보닐 탄소(carbonyl
+carbon) 신호로써 각 아미노산 기본골격(backbone)을 지정할 수 있다.
+5.4.3 결과 예시
+그림 18 Goserelin acetate의 구조
+- 45 -(1) 시험 방법
+Goserelin acetate 3.75 mg (1H-NMR) 또는 38 mg (13C-NMR)을 750 ㎕ DMSO-d에
+6
+용해시킨 다음 NMR tube (OD 5 mm)에 첨가하였다.
+- NMR 분석 조건
+1) 측정장비: 600 MHz 핵자기공명기
+▪ Probe: 5.0 mm probe
+2) 측정조건
+▪ 1H-NMR: 주파수, 600 MHz. 스캔 수, 8.
+▪ 13C-NMR: 주파수, 150 MHz. 스캔 수, 1024.
+(2) 1H-NMR 결과의 예시
+Goserelin acetate의 1H-NMR 전체 스펙트럼은 그림 19과 같다.
+그림 19 Goserelin acetate의 1H-NMR 전체 스펙트럼(용매, DMSO-d)
+6
+용매 DMSO-d는 화학적 이동 2.52 ppm에서 관측되었다. 1H-NMR 데이터는
+6
+문헌22)에 나타난 leuprolide acetate의 1H-NMR 결과를 참고하여 각 아미노산의 특징적인
+부분구조를 동정하였다 (표 11).
+- 46 -표 11 Goserelin acetate의 1H-NMR 화학적 이동(δ, ppm)
+No. Residue Amide† Hα Hβ others
+2.17
+1 pGlu 7.79 3.99 2.09 (Hγ1, Hγ2)
+1.78
+2.89 7.51 (Hζ)
+2 His 8.03 4.45
+2.79 6.77 (Hδ)
+10.83 (NH)
+3.18 7.57 (Hη2), 7.31 (Hη1)
+3 Trp 8.17 4.58
+2.97 7.14 (Hδ)
+7.05 (Hθ1), 6.94 (1H, Hθ2)
+3.59
+4 Ser 8.44 4.33 -
+3.52
+2.88 7.03 (Hδ1, Hδ2)
+5 Tyr 7.94 4.55
+2.74 6.62 (Hε1, Hε2)
+6 D-Ser(But) 8.07 4.38 3.27 1.09 (Hε1, Hε2, Hε3)
+1.46
+7 Leu 8.11 4.39 0.86 (Hδ1), 0.83 (Hδ2)
+1.37
+8.77 (NH)
+8 Arg 8.27 4.43 - 3.05 (Hδ1, Hδ2)
+1.52 (Hγ1, Hγ2)
+3.71 (Hδ1), 3.57 (Hδ2)
+9 Pro - 4.21 2.03
+1.77 (Hγ1, Hγ2)
+9.83 (NH )
+a
+10 Azgly - - - 7.81 (NH )
+b
+5.93 (NH )
+2
+Frequency, 600 MHz; Solvent, DMSO-d; Concentration, 5 mg/mL
+6
+†, N-말단.
+- 47 -(3) 13C-NMR 결과의 예시
+Goserelin acetate의 13C-NMR 전체 스펙트럼은 그림 20과 같다.
+그림 20 Goserelin acetate의 13C-NMR 전체 스펙트럼(용매, DMSO-d)
+6
+용매 DMSO-d는 화학적 이동 39.79 ppm에서 관측되었다. 각 아미노산의
+6
+특징적인 부분구조를 표 12와 같이 동정하였다.
+- 48 -표 12 Goserelin acetate의 13C-NMR 화학적 이동(δ, ppm)
+No. Residue Amide† Cα Cβ others
+1 pGlu 172.52 55.79 - 177.82 (Cδ)
+2 His 171.14 53.19 - 135.10 (Cζ)
+136.30 (Cζ1), 127.67 (Cζ2)
+123.95 (Cδ)
+3 Trp 172.26 53.76 - 121.06 (Cθ1), 118.46 (Cθ2)
+118.74 (Cη2), 111.48 (Cη1)
+110.24 (Cγ)
+4 Ser 170.52 55.53 61.87 -
+156.18 (Cζ)
+130.53 (Cδ1, Cδ2)
+5 Tyr 170.96 54.46 -
+127.67 (Cγ)
+115.10 (Cε1, Cε2)
+72.96 (Cδ)
+6 D-Ser(But) 169.54 50.97 62.08
+27.34 (Cε1, Cε2, Cε3)
+7 Leu 172.52 53.19 - 23.58 (Cδ1), 21.65 (Cδ2)
+8 Arg 171.83 50.53 - 157.61 (Cζ)
+9 Pro 177.82 58.81 - 47.23 (Cδ)
+10 Azgly 170.01 - - -
+Frequency, 150 MHz; Solvent, DMSO-d; Concentration, 50.7 mg/mL
+6
+†, C-말단.
+- 49 -5.5 원편광이색성을 이용한 이차구조 분석법
+5.5.1 기본 원리 및 목적
+2차구조 결정 방법으로는 원편광 이색성(circular dichroism, CD)과
+fourier-transform infrared spectroscopy(FTIR)이 주로 사용된다. Far-UV CD(170~250
+nm)는 α-helix 구조를 분석하는데 이용되고, Near-UV CD(250~320 nm)는 방향족을 가진
+아미노산들 주변의 환경 변화에 민감하게 반응하므로 이들의 관측에 사용된다 (그림
+21).23) FT-IR은 β-sheet 형성을 측정하는데 이용되고, 응집물(aggregates)이나 parallel
+form과 antiparallel form을 구별하는데 이용될 수 있다.
+그림 21 펩타이드 2차 구조 측정에 가장 많이 사용되는 Circular
+Dichroism (CD)의 측정 원리 (A), 대표적인 Far-UV CD 스펙트럼: random
+coil (green), α-helix (red), β-sheet (black), Polyproline II (blue) (B), Near
+–UV CD 스펙트럼: Trp과 Tyr을 함유한 펩타이드 (red), Tyr만을 함유한
+펩타이드 (black) (C). (출처: Pignataro et al. Molecules, 2020, 25, 4854.)
+CD는 광학 활성이 있는 물질이 우원편광과 좌원편광의 몰 흡광 계수가 서로 다를
+때 나타나는 현상으로 물질의 고유한 원편광 이색성을 이용하여 물질의 분자구조를
+유추할 수 있다. 이는 원편광 빛을 광원으로 하는 분광편광계로 측정되며 주로
+- 50 -광학이성질체, 단백질이나 핵산의 이차구조 분석에 사용된다.
+단백질은 고유한 아미노산의 조성 및 배열을 가지며, 펩타이드 단위는 수소결합,
+이온 간의 상호작용 등의 영향으로 α-helix, β-sheet, β-turn, random coil 등과 같은
+이차 구조를 형성한다.24) 이러한 이차 구조의 정보는 far UV (180-260 nm) 범위에서의
+분석을 통해 확인할 수 있다. CD 측정 결과는 설정한 범위의 UV 파장 (nm) 값을 x축으로
+하고, 각 파장에서 우원편광과 좌원편광에 따른 값의 차이인 CD 값을 y축으로 하여
+나타낸다. α-helix는 208 nm와 222 nm에서 골이 위치하고, 190 nm 근처에서 정점이
+위치한 CD band를 나타낸다. β-sheet는 217-223 nm에서 골이 넓은 범위로 위치하고,
+195 nm에서 정점이 위치한 CD band를 나타낸다.25)
+5.5.2 시험 방법
+(1) 시료 제조
+① Liraglutide 10 mg을 칭량하여 인산염 완충용액 (pH 7.4)에 100 ㎍/mL의 농도가
+되도록 시료를 녹인다.
+② 시료는 육안으로 입자가 확인되지 않을 정도까지 녹인 후, 시린지 필터와 같은
+여과장치를 이용하여 시료에서 입자를 제거하여 준비한다.
+(2) CD 분석 방법 및 조건
+- 분석 장비: 원편광 이색성 분광계(Circular dichroism spectrometer)
+- 분석 방법
+① 질소가스 밸브를 열어 15분 이상 장비 내에 질소가스가 충진되도록 한다.
+② Circulator를 켠 다음 기기의 전원을 켜고 장비를 안정화시킨다.
+③ 소프트웨어를 실행시키고, 분석 조건을 설정한다.
+④ 쿼츠 셀에 용매(blank)를 일정량을 담아 준비한다. 이때 내부의 기포는
+피펫팅을 통해 제거한다.
+⑤ 측정부에 쿼츠 셀을 넣고 뚜껑을 닫은 다음, baseline 측정을 시작한다. 이때,
+시료를 측정하는 조건과 동일하게 진행해야 한다 (반복측정 횟수도 포함된다).
+⑥ 쿼츠 셀에 시료 일정량을 담아 준비한다. 이때 내부의 기포는 피펫팅을 통해
+제거한다.
+- 51 -⑦ 측정부에 쿼츠 셀을 넣고 뚜껑을 닫은 다음, 시료 측정을 시작한다.
+⑧ 측정 결과를 얻는다.
+- 분석 조건 예시
+Photometric mode: CD
+Path length of cell: 3 mm
+Measure range: 400-190 nm
+Data pitch: 0.5 nm
+CD scale: 200 mdeg/0.1 dOD
+FL scale: 200 mdeg/0.1 dOD
+D.I.T. (data integration time): 2 sec
+Bandwidth: 1.0 nm
+Scanning speed: 50 nm/min
+Temperature of chamber: 25℃
+Accumulations: 4
+Start mode: Immediately
+Scanning mode: Continuous
+5.5.3 결과 예시
+Liraglutide 원료를 가지고 시험방법에 따라 시험한 결과 208 nm와 222 nm에서
+골이 위치한 far-UV 스펙트럼이 얻어졌으며 (그림 22), 주로 α-helix, β-turn 및 random
+구조로 이루어져 있는 것으로 나타났고 β-sheet 구조는 확인되지 않았다 (표 13).
+- 52 -그림 22 Liraglutide CD spectrum 예시
+표 13 Liraglutide의 CD 분석으로부터 이차구조를 분석한 결과 예시
+이차구조 비율 (%)
+α-helix 28.6
+β-sheet 0.0
+β-turn 33.2
+Random 38.2
+CD는 고유한 형태를 가지는 펩타이드의 구조에 대한 정보를 제공하며, 광학적
+활성이 변화하는 반응인 변성, 형태 전위, 효소와 기질의 상호작용 또는 금속이온과의
+결합 등에 대한 분석에 응용될 수 있다. 시료를 녹이기 위한 용매에는 염화나트륨과 같은
+염이 포함되지 않아야 한다. 염에 의해 흡광도가 증가하면서 빛의 산란이 발생하여 신호
+대비 잡음비가 감소하기 때문이다. 시료에 포함된 침전물이나 불순물에 의해서도 빛의
+산란이 일어날 수 있으므로, 반드시 시료의 여과를 진행하여야 한다.
+이차구조를 분석하기 위해서는 시료의 농도를 정확히 알아야 한다. 쿼츠 셀의
+path length가 길수록 시료의 농도는 낮아져야 하며, 쿼츠 셀의 path length가 0.1
+mm이면 시료의 농도는 1 mg/mL (0.1%, w/v)로, path length가 1 mm 이상이면 시료의
+농도는 100 ㎍/mL (0.1%, w/v)로 하여야 한다. 예를 들어, 본 시험에서는 3 mm의 쿼츠
+셀을 사용하였고 시료의 농도는 100 ㎍/mL로 하여 분석을 진행하였다. 또한, 분석 결과
+해석 시 HV [V]가 600 이상인 경우에는 신호 대 잡음비가 작아 신뢰할 수 없는
+결과이므로 해석에 유의하여야 한다.
+- 53 -5.6 생물학적 활성 평가법
+5.6.1 기본 원리 및 목적
+생물학적 활성은 목표하는 생물학적 효과를 달성하기 위한 의약품의 특이적 능력
+또는 역량을 의미한다. 생물학적 활성 시험은 약물의 작용기전을 고려하여 수행한다.
+Glucagon-like peptide-1 receptor agonist인 Semaglutide의 경우 G Protein Coupled
+Receptor (GPCR)인 GLP-1 수용체가 리간드와 결합하여 생성된 세포 내 신호전달을
+매개하는 세포 내 cAMP의 level을 측정하여 in vitro 생물학적 활성을 측정할 수 있다
+(그림 23).
+그림 23 Semaglutide의 생물학적 활성 시험 원리
+(출처: cAMP Hunter Bioassay Kit, Eurofins)26)
+생물학적 활성 시험은 시험물질이 작용기전에 기초하여 수용체에 결합하여
+작용하는 물질인지를 확인하는 것과 시험물질의 생물학적 역가를 확인하는 것을 목표로
+한다.
+- 54 -5.6.2 시험방법
+(1) 시약 및 기기
+1) CHO-K1 GLP-1R
+2) 3-Isobutyl-1-methylxanthine(IBMX)
+3) PBS 1X
+4) cAMP Assay for Small Molecules
+5) Cell Detachment Reagent
+6) Cell Plating 2 Reagent
+7) White 96-well plate
+8) 75T-flask
+9) Reservoir
+10) Microplate reader
+(2) 방법
+1) CHO-K1 GLP-1R 세포를 96 well plate에 각 well 당 7 x 103개로 분주하고
+37℃로 세팅된 CO incubator에서 24시간 배양한다.
+2
+2) 각 well의 배양액 제거 후 IBMX 0.5 mM in PBS 30 μL씩을 37℃로 세팅된
+CO incubator에서 15분간 처리한다.
+2
+3) 각 약물을 시험에 처리할 농도별로 IBMX 0.5 mM in PBS로 희석한 후 37℃로
+세팅된 CO incubator에서 30분간 처리한다.
+2
+4) 각 well에 cAMP antibody solution 15 μL와 working cAMP detection solution
+60 μL를 처리하여 차광을 유지한 상태로 실온에서 1시간 동안 반응시킨다.
+5) 각 well에 cAMP solution A 60 μL를 처리하여 차광을 유지한 상태로
+실온에서 3시간 동안 반응시킨다.
+6) Microplate reader 기기에 96 well plate를 삽입한 후 luminescence를 측정하여
+cAMP의 생성량을 측정한다.
+7) 통계분석이 가능한 소프트웨어를 사용하여 데이터를 분석한다.
+8) 통계분석에는 시험물질의 농도와 cAMP 생성량 결과를 4-parameter logistic
+모델을 이용하여 분석하여 EC 를 계산한다.
+50
+- 55 -9) 시험 진행 모식도는 아래와 같다 (그림 24).
+그림 24 cAMP 생성량 측정 시험법의 모식도
+5.6.3 결과 예시
+본 시험법은 GLP-1 수용체 작용제에 널리 인정되고 사용되는 in vitro 시험
+방법이다. 인체 및 동물시험을 통하여 Semaglutide의 생물학적 활성을 확인하는 것은
+비용 및 윤리적인 이유로 활용이 제한될 수 있다.
+본 시험법을 이용하여 합성펩타이드로 제조된 Semaglutide와 유전자재조합
+펩타이드로 제조된 Semaglutide를 주성분으로 하는 완제를 분석하였으며, 시험을 통하여
+얻은 결과는 그림 27과 같았다. 합성 Semaglutide 원료 및 완제의 용량-반응 곡선
+그래프에서 두 물질은 용량 의존적인 cAMP 생성의 증가를 나타내었으며, 이를 통하여
+두 시험물질 모두 GLP-1 수용체와 결합하여 생물학적 활성을 나타냄을 확인할 수
+있었다. 그리고, 용량-반응 곡선 그래프의 통계적인 계산을 통하여 EC 을 얻을 수
+50
+있었으며, 이를 통하여 시험물질의 생물학적 역가를 확인할 수 있었다.
+- 56 -그림 25 Semaglutide 원료 및 완제에 대한 cAMP 분석을 통해 얻은
+용량-반응 곡선 그래프 예시
+위의 cAMP 시험에서 고려사항은 시험물질에 대한 용량-반응 곡선의 그래프가
+시그모이드 형태를 갖춰야 한다는 것이며, 이를 위하여 물질의 최대 및 최소반응을
+나타내는 시험물질의 최적의 농도 구간을 설정하는 것이 중요하다는 점이다.
+시험에 사용되는 세포는 GLP-1 수용체가 과발현되어있는 세포를 직접
+제조하거나 상업적으로 구매할 수 있는 세포를 이용하는 방법이 있으며, 제조 또는
+구매한 세포의 특성에 따라 일부 구체적인 시험방법은 상이할 수 있다.
+- 57 -5.7 크기배제 크로마토그래피를 이용한 올리고머 분석법
+5.7.1 기본 원리 및 목적
+펩타이드는 자가 결합(self-associations)을 통해 올리고머(oligomer)를 형성할 수
+있고, 더 나아가 다양한 형태의 응집물(aggregates)를 형성할 수 있다 (그림 26). 올리고머
+및 응집물(aggregates)는 면역원성의 주요 원인이 되기 때문에 안전성 측면에서
+측정되어야 할 중요한 지표이다. 올리고머 및 응집물(aggregates) 형성은 의약품
+포뮬레이션에서의 미세한 차이나 일차포장에 사용된 물질 및 보관 조건에 따라서도
+영향을 받을 수 있으므로 안정성 차원에서도 중요한 검토 항목이다.27)
+그림 26 펩타이드의 올리고머 및 aggregates 형성
+(출처: Jamasbi et al. Curr Med Chem, 2016, 23, 884-892)28)
+펩타이드 올리고머는 수용성 상태로 의약품 중에 존재할 수 있으므로 주로
+크기배제 액체크로마토그래피(Size-exclusion chromatography, SEC)으로 분석한다.29)
+의약품 중에 존재하는 올리고머의 양은 면적백분율법에 따라 구하는 것이 바람직하다.
+면적백분율법은 크로마토그램에서 얻은 각 성분의 피크면적의 합계를 100으로 하고 이에
+대한 각 성분의 피크면적비로부터 조성비를 구한다. 이때 단량체(monomer) 피크와 단량체
+피크와 인접한 올리고머 피크 간의 충분한 분리도가 확보되어야 한다. 단량체 피크와
+올리고머 피크 간에 피크 크기가 크게 차이나는 경우에는 분리도를 피크밸리비에 따라
+구하는 것이 바람직하다.30) 응집물(aggregates) 형성이 심각해 침전이 발생하거나 기공
+크기 0.2 μm 또는 0.45 μm의 필터를 통과하지 못하는 올리고머가 발생할 경우
+크기배제 액체크로마토그래프법에 의한 크로마토그램에서 해당 불순물들이 검출되지
+못할 수 있다. 이에 대한 확인을 위해 의약품 중의 주성분 단량체의 피크 면적 유지
+여부를 확인해볼 필요가 있다.
+- 58 -5.7.2 시험 방법
+Liraglutide 원료 및 완제를 각각 취하여 50 mM phosphate buffer(pH 7.8)에 녹여
+2 mg/mL이 되도록 한 다음, 이를 0.45 μm cellulose acetate 시린지 필터로 여과하여
+검액으로 하였다. 제조한 검액을 SEC column에 주입하여 SEC로 분석하였다.
+- SEC 조건 예시
+1) LC: UPLC PDA Detector
+2) Column: UPLC Protein BEH SEC Column, 125 Å, 1.7 μm, 4.6 × 300 mm 1K-80K
+3) Mobile phase: 0.1 % trifluoroacetic acid in 60 % acetonitrile in water
+4) Elution: Isocratic, 15 min
+5) Flow rate: 0.4 mL/min
+7) Injection volume: 5 μL
+8) Sample temperature: 10 ℃
+9) Column temperature: 30 ℃
+10) UV wavelength: 215 nm
+5.7.3 결과 예시
+(1) Liraglutide 원료의 SEC 분석 예시
+SEC 조건에 따라 분석했을 때 Liraglutide 주피크가 5.584분에 검출되는 것을
+확인하였으며, 올리고머로 여겨지는 피크들이 주피크보다 빠른 유지시간에 나타나는
+것을 볼 수 있었다 (그림 27).
+그림 27 Liraglutide를 SEC로 분석하여 얻은 크로마토그램
+- 59 -SEC 크로마토그램에서 주피크의 앞에서 검출되는 올리고머들을 확인하기 위하여
+크로마토그램의 해당 부분을 확대하여 살펴보았다 (그림 28).
+그림 28 올리고머 피크 부분을 확대한 크로마토그램
+올리고머에 해당하는 두 개의 피크가 4.689분과 4.975분에 관찰되었으며,
+면적백분율에 따라 계산했을 때 그 양은 각각 0.02%와 0.34%에 해당하였다 (표 14).
+표 14 Liraglutide 원료의 SEC 분석 결과 (n=3)
+유지시간 (분) 피크 면적 (μV*sec) 피크 면적 (%)
+4.689 3527 0.02
+4.975 53295 0.34
+5.584 15581739 99.64
+(2) Liraglutide 완제의 SEC 분석 예시
+SEC 조건에 따라 분석했을 때 Liraglutide 주피크가 5.592분에 검출되는 것을
+확인하였으며, 올리고머로 여겨지는 세 개의 피크들(유지시간 4.527분, 4.663분, 4.920분)이
+주피크보다 빠른 유지시간에 나타나는 것을 볼 수 있었다 (그림 29). 올리고머에 해당하는
+세 개의 피크 면적을 면적백분율에 따라 계산했을 때 그 양은 각각 0.02%, 0.13%, 0.96%에
+해당하였다 (표 15).
+- 60 -그림 29 Liraglutide 완제를 SEC로 분석하여 얻은 크로마토그램
+표 15 Liraglutide 완제의 SEC 분석 결과 (n=3)
+유지시간 (분) 피크 면적 (μV*sec) 피크 면적 (%)
+4.527 3228 0.02
+4.663 23805 0.13
+4.920 170453 0.96
+5.592 17501178 98.89
+- 61 -5.8 함량시험 및 펩타이드 유연물질 분석법
+5.8.1 기본 원리 및 목적
+펩타이드 의약품 주성분의 함량시험 및 펩타이드 유연물질의 분석은 주로
+역상분배 액체크로마토그래피 (reversed-phase high-performance liquid chromatography,
+RP-HPLC)를 이용하여 수행된다 (표 16). USP에 수재된 11품목의 펩타이드 의약품 중
+10품목은 함량시험과 유연물질 분석법이 동일하며, 11품목 모두 주성분의 동일한 피크
+유지시간을 이용한 확인시험으로 활용되고 있다. 따라서 함량시험을 위한 HPLC
+분석법은 경우에 따라 유연물질에 대한 특이성(specificity)과 정확성(accuracy) 등이
+확보되어야 한다.
+표 16 USP에 수재된 펩타이드 의약품의 확인시험, 정량법 및 유연물질 시험법
+Assay Related
+Drugs Source (AA) Identification
+(Column) peptides
+Calcitonin Synthetic HPLC
+(1) HPLC Assay와 동일
+Salmon or rDNA (32) (L1)
+(1) HPLC HPLC
+Cosyntropin Synthetic (24) Assay와 동일
+(2) AAA (L1)
+Desmopressin (1) MS HPLC
+Synthetic (8) Assay와 동일
+Acetate (2) HPLC (L1)
+(1) HPLC HPLC
+Exenatide Synthetic (39) Assay와 동일
+(2) MS (L1)
+Synthetic (1) HPLC HPLC
+Glucagon Assay와 동일
+or rDNA (29) (2) Peptide mapping (L1)
+Gonadorelin (1) MS HPLC HPLC
+Synthetic (8)
+Hydrochloride (2) HPLC (L1) (L1)
+Goserelin HPLC
+Synthetic (10) (1) HPLC Assay와 동일
+acetate (L1)
+Leuprolide (1) HPLC HPLC
+Synthetic (9) Assay와 동일
+acetate (2) AAA (L1)
+Octreotide (1) HPLC HPLC
+Synthetic (8) Assay와 동일
+acetate (2) AAA (L87)
+(1) HPLC
+HPLC
+Oxytocin Synthetic (9) (2) 1H-NMR Assay와 동일
+(L1)
+(3) AAA
+- 62 -Assay Related
+Drugs Source (AA) Identification
+(Column) peptides
+(1) HPLC HPLC
+Vasopressin Synthetic (9) Assay와 동일
+(2) MS (L1)
+- AAA: Amino acid analysis
+- L1: Octadecyl silane chemically bonded to porous or nonporous silica or ceramic
+microparticles, 1.5 to 10 µm in diameter, or a monolithic silica rod.
+- L87: Dodecyl silane chemically bonded to porous silica particles, 1.5 to 10 µm in diameter.
+앞서 언급한 바와 같이 펩타이드 의약품의 불순물은 제조 방법에 따라 크게 다를
+수 있어 그 종류와 분석법을 일반화하기는 어렵다. 다만, 주성분의 구조로부터 유래된
+펩타이드 유연물질(peptide-related impurities) 중 보관상에서 생길 수 있는 합성부산물,
+분해생성물31) 등을 관리할 수 있도록 해당 물질에 대한 분석법을 개발에 필요한
+일반적인 사항과 프로토콜에 대한 예시를 제시하고자 한다.
+일반적으로 원료 및 완제의 유연물질 등 불순물을 분석할 수 있는 분석법을
+개발하고자 할 때 유연물질 표준품을 보유한 경우에는 원료의약품에 적당한 농도의 유연
+물질을 첨가하여 검체 내 다른 성분들로부터, 혹은 유연 물질 간에 서로 분리됨을 제시할
+수 있으나, 유연물질의 표준품을 확보할 수 없는 경우에는 유연물질 발생이 가능한 가혹
+조건(산 또는 염기 가수분해 및 산화)에 노출된 검체를 이용하여 제시할 수 있다. 검체를
+지나치게 가혹 조건에 노출시키면 실제 의약품의 안정성 시험 기간 동안 생성될 수 있는
+분해 산물이 생성되는 것이 아니라 과도한 분해과정을 통한 2차 분해 산물이 생성될 수
+있으므로, 약 10% 정도 분해되도록 조절하는 것이 좋다.32) 원료의약품이나 완제의약품의
+분해 산물을 생성하기 위해 가할 수 있는 가혹 조건 예시를 표 17에 요약하였다.33)
+- 63 -표 17 강제분해시험을 위해 주로 사용되는 가혹 조건 예시
+분해 종류 시험 조건 보관 조건 샘플링 시간(일)
+Control API (no acid or base) 25℃, 40℃, 60℃ 1, 3, 5
+0.1 M HCl 25℃, 40℃, 60℃ 1, 3, 5
+0.1 M NaOH 25℃, 40℃, 60℃ 1, 3, 5
+가수분해
+Acid Control (no API) 25℃, 40℃, 60℃ 1, 3, 5
+Base Control (no API) 25℃, 40℃, 60℃ 1, 3, 5
+pH: 2, 4, 6, 8 25℃, 40℃, 60℃ 1, 3, 5
+3% H O 25℃, 60℃ 1, 3, 5
+2 2
+Peroxide control 25℃, 60℃ 1, 3, 5
+산화
+Azobisisobutyronitrile (AIBN) 40℃, 60℃ 1, 3, 5
+AIBN control 40℃, 60℃ 1, 3, 5
+Light 1X ICH NA 1, 3, 5
+광분해 Light 3X ICH NA 1, 3, 5
+Light control NA 1, 3, 5
+Heat chamber 60℃ 1, 3, 5
+Heat chamber 60℃/75% RH 1, 3, 5
+열 Heat chamber 80℃ 1, 3, 5
+Heat chamber 80℃/75% RH 1, 3, 5
+Heat chamber Room temp. 1, 3, 5
+NA: Not applicable
+위 예시와 같은 가혹 조건에 노출시켜 생성된 유연물질들을 분석하고자 할 때
+주로 액체크로마토그래프법을 이용한다. 액상 검체 또는 용액으로 만들 수 있는
+대부분의 검체에 적용할 수 있으며, 물질의 확인, 순도시험, 정량 등에 이용할 수 있다.
+그중에서도 펩타이드 및 펩타이드 유연물질 분석에는 주로 RP-HPLC를 사용하는데,
+펩타이드 관련 유연물질과 주성분의 유사한 구조로 인하여 분리가 쉽지 않은 경우,
+초고압 시스템을 이용한 Ultra HPLC를 사용할 수 있다. 이는 HPLC에 비해 초고압으로
+이동상과 시료를 주입시키고, 사용하는 컬럼 충진물의 입자크기가 작아 시료와 고정상이
+접촉하는 표면적을 넓힘으로써 피크의 분리능이 더 향상되는 원리를 이용한다.
+- 64 -5.8.2 시험 방법
+(1) 시약 및 시료
+① 2 M 염산 용액
+② 20 mM 수산화나트륨용액(원료 실험 시) 또는 40 mM 수산화나트륨용액(완제
+실험 시)
+③ 6% 과산화수소수
+④ 표준원액: Semaglutide를 칭량하여, 0.02% Tween 80을 포함하는 인산염
+완충액을 가해 1 mg/mL의 농도로 만든다. 그런 다음, 0.45 μm의 셀룰로오스
+아세테이트 멤브레인 필터로 여과하여 표준원액으로 한다.
+⑤ 중간표준액: 표준원액을 0.02% Tween 80을 함유한 인산염 완충액으로
+희석하여, 500 μg/mL로 만들고, 이를 중간표준액으로 한다.
+⑥ 표준액: 중간표준액을 0.02% Tween 80이 함유된 인산염 완충액으로 희석하여
+250 μg/mL로 만들고, 이를 표준액으로 한다.
+(2) 시료 전처리
+① 산조건 (Semaglutide로써 250 μg/mL in 1 M HCl, 60℃)
+: 원료 및 완제의 중간표준액에 2 M 염산 용액을 1:1 (v/v)로 가해, 60℃에서
+30분(원료) 또는 60분(완제) 간 방치하고, 실온에서 온도 안정화를 시킨 후,
+검체를 취하여, 아래 UPLC 조건에서 시료를 분석한다.
+② 염기조건 (Semaglutide로써 250 μg/mL in 10 mM NaOH(원료) 또는 in 20 mM
+NaOH(완제))
+: 원료 및 완제의 중간표준액에 20 mM 또는 40 mM 수산화나트륨용액을 1:1
+(v/v)로 가해, 실온에서 3시간(원료) 또는 30분(완제) 간 방치하고, 검체를
+취하여, 아래 UPLC 조건에서 시료를 분석한다.
+③ 산화조건 (Semaglutide로써 250 μg/mL in 3% H O )
+2 2
+: 원료 및 완제의 중간표준액에 6% 과산화수소수를 1:1 (v/v)로 가해,
+60℃에서 30분(원료) 또는 60분(완제) 간 방치하고 실온에서 온도 안정화를
+시킨 후, 검체를 취하여 아래 UPLC 조건에서 시료를 분석한다.
+- 65 -(3) 분석 조건
+① 분석 장비: UPLC
+② 분석 조건:
+- 컬럼: Peptide CSH C18 (2.1 × 150 mm, 1.7 μm, 130Å)
+- 컬럼 온도: 35℃
+- 이동상: A, 0.1% TFA in Water; B, 0.1% TFA in ACN
+- 유속: 0.3 mL/min
+- Gradient 조건
+시간 (분) 용매 A (%) 용매 B (%)
+0.0 60 40
+0.2 60 40
+12.0 50 50
+12.1 50 50
+12.2 60 40
+15.0 60 40
+- 시료 주입량: 10 μL
+- 검출기: 자외부흡광광도계 (측정 파장: 215 nm)
+5.8.3 결과 예시
+제시된 시험방법은 Semaglutide 원료 및 완제의 보관 중에 생길 수 있는
+분해산물 등에 대한 분석방법을 개발하기 위해 선행되어야 하는 강제분해시험의
+프로토콜에 대한 예시이며, 원료나 완제의 정량법이나 확인시험, 유연물질 시험법으로
+활용되기 위해서는 「의약품 등 시험방법 밸리데이션 가이드라인」등에 따라 별도의
+적절한 밸리데이션 파라미터가 평가되어야 한다. 이때, 분석 대상 물질이나 목적에
+따라 시스템의 성능이나 재현성 등과 같은 시스템적합성에 대한 기준을 설정할 수
+있다.
+분해산물 이외에도 출발물질을 포함한 원료 또는 제조공정에서 유래되었을
+것으로 예상되는 기지유연물질이나 보고 수준 이상으로 검출된 유연물질이 있다면
+별도의 분석법을 개발하고, 필요시 규격에 설정하여 관리해야 한다.
+- 66 -(1) 강제분해시험에서의 Semaglutide의 불순물 생성률
+UPLC 조건에 따라 가혹 조건에 노출된 검체를 분석했을 때, 강제분해시험을 통해
+생성된 유연물질은 면적백분율법을 통해 계산하였다. 각 조건에서의 Semaglutide의 순도와
+불순물 생성률을 표 18에 정리하였다. 각 조건에서의 불순물 생성률은 산 조건에서 9.4%,
+염기 조건에서는 5.9%, 산화 조건에서는 8.9%로 10% 이내의 불순물이 생성되었으므로
+해당 조건이 분해로 인한 불순물을 평가하기에 적절한 조건임을 알 수 있다.
+표 18 Semaglutide의 각 조건에서의 불순물 생성률
+시험 종류 시험 조건 순도 (%) 불순물 생성률 (%)
+Unstressed sample - 99.8 -
+산 조건 1 M HCl, 60℃, 30분 90.4 9.4
+염기 조건 10 mM NaOH, 3시간 93.9 5.9
+산화 조건 3% H O , 60℃, 30분 90.9 8.9
+2 2
+(2) 강제분해시험에서의 유연물질 프로파일 예시
+강제분해시험을 통해 생성된 Semaglutide의 유연물질과 Semaglutide의
+크로마토그램은 그림 30-31와 같고, 분석된 유연 물질의 프로파일은 표 19에 요약하였다.
+표 19에 각 조건에서 분석된 Semaglutide의 유연 물질들의 상대 유지 시간과
+면적백분율을 정리하였으며, 상대 유지 시간은 기준 피크의 유지 시간에 대한 각 피크의
+유지 시간의 비를 의미한다 (상대 유지 시간=피크의 유지 시간/Semaglutide의 유지 시간).
+그림 30 산 조건에 노출된 Semaglutide 검체의 크로마토그램
+- 67 -그림 31 산화 조건에 노출된 Semaglutide 검체의 크로마토그램
+표 19 각 조건에서 분석된 피크의 면적백분율 (%)
+상대유지시간 Unstressed 산 조건 염기 조건 산화 조건
+0.60 0.64
+0.62 0.13
+0.65 0.14
+0.68 0.37
+0.71 0.17
+0.73 0.86
+0.75 2.35
+0.78 0.12
+0.79
+0.81 0.62
+0.83 0.10 0.40
+0.87 0.08
+0.90 1.24
+0.94 0.18 5.35 1.66
+0.95 0.56
+0.97 0.74
+1.00
+99.82 90.42 93.91 90.94
+(Semaglutide)
+1.04 3.24
+1.10 0.21
+1.19 0.22
+1.21 0.78 0.15
+1.26 0.12
+1.70 0.14
+1.73 0.19
+1.82 0.21
+1.85 0.28
+1.87 0.14
+1.91 3.25
+1.97 0.26
+- 68 -5.9 약물동태평가를 위한 LC-MS/MS 분석법 (Liraglutide의 예)
+5.9.1 기본 원리 및 목적
+본 내용은 생체시료에서 Liraglutide의 농도를 정량할 수 있는 LC-MS/MS분석법의
+개발과 이를 활용하여 실험동물에서 Liraglutide의 약물동태를 평가하는 것을 소개한다.
+(1) 연구필요성 및 목적
+현재 생체시료내 합성펩타이드 약물 정량법은 대부분 enzyme linked
+immunosorbent assay (ELISA)와 같은 ligand binding assays (LBA) 방식이 주를 이루고
+있다. 그러나, 이들 분석법의 선택성과 특이성이 부족하다는 단점으로 인해 펩타이드
+약물의 체내동태를 정확하게 평가할 수 있는 새로운 정량분석법에 대한 필요성이
+대두되고 있다. 기존 LBA 분석법 대비 우수한 선택성과 특이성을 갖는 신규 고성능
+분석법 기반 펩타이드 약물의 생체시료 정량법을 확립하고 이를 활용하여 합성펩타이드
+약물의 약물동태 평가체계를 구축할 필요가 있다.
+또한, 본 연구를 통해 합성펩타이드에 대한 높은 선택성과 특이성을 갖는
+LC-MS/MS 기반 신규 고성능분석법을 개발하고 기존 분석법과 비교하여 신규
+고성능분석법 기반 펩타이드 약물의 약동학 평가체계를 확립한다.
+(2) 연구내용
+1) 생체시료내 펩타이드 정량을 위한 신규 고성능 LC-MS/MS 분석법 개발: 특정
+펩타이드 약물에 대한 높은 특이성과 선택성을 갖는 생체시료내 약물정량에
+최적화된 LC-MS/MS 분석법을 개발하고 이를 검증한다.
+2) 혈액과 조직에서의 약물동태 평가연구: 펩타이드 약물을 실험동물에 투여하고
+기존의 ELISA 시험법과 신규 개발된 고성능 분석법을 이용하여 약물동태를
+평가하고 이를 비교한다.
+3) 고성능 분석법을 활용한 펩타이드 약물의 약동학 평가 기반구축: 추가
+합성펩타이드 약물을 선정하고 이에 대한 신규 고성능 분석법을 활용한 약동학
+연구를 수행하여 고성능 분석법을 활용한 펩타이드 약물의 약동학 평가기반을
+마련한다.
+- 69 -5.9.2 시험 방법
+(1) 샘플 전처리
+1) Liraglutide 1.00 mg에 Methanol 1 mL를 첨가하여 1 mg/mL가 되도록 한다.
+2) 1) 용액을 methanol을 이용하여 다음과 같은 농도로 희석한다.
+; 5, 10, 20, 50, 100, 500, 1000 ng/mL (표준물질, standard, STD), 5, 15, 400, 800
+ng/mL (품질관리 시료, quality control, QC)
+3) 아래 표와 같은 비율로 표준물질(standard) (또는 품질관리 시료(QC))를
+혈장(plasma), 내부표준물질(ISTD, internal standard) 및 침전용매인 methanol과
+혼합한다.
+Blank STD 침전용매 Final
+ISTD (µL)
+plasma (µL) or QC (µL) (Methanol) volume (µL)
+STD 50 50 50 600 750
+QC 50 50 50 600 750
+Blank/ISTD 50 50 650 750
+Blank/Blank 50 700 750
+Sample 50 50 650 750
+4) 10분간 Vortex mixer로 섞어준다.
+5) 샘플을 원심분리한다.
+6) 원심분리하여 얻은 용액의 상층액 10 µL을 취해 vial에 넣고, LC-MS/MS 분석을
+진행한다.
+(2) LC-MS/MS 분석 조건
+1) Column: 2.6 μm Peptide XB-C18, 2.1 x 100 mm
+2) Column temperature: 50℃
+3) Mobile phase: distilled water containing 0.1 % formic acid (mobile phase A),
+acetonitrile containing 0.1 % formic acid (mobile phase B)
+- 70 -4) LC gradient condition
+Time (min) Mobile phase B (%) Flow rate (mL/min)
+0 35 0.3
+7.00 80 0.3
+7.01 35 0.4
+12.00 35 0.4
+12.01 35 0.3
+15.00 35 0.3
+5) injection volume : 10 µL
+6) Parent ion – product ion for analyte (Liraglutide): m/z 938.5 → 1063.7
+7) Parent ion – product ion for ISTD (Semaglutide): m/z 1029.4 → 1302.9
+8) Fragmentor, CE (V) : 380, 24(analyte, Liraglutide), 380, 38(ISTD, Semaglutide)
+(3) 밸리데이션 지표
+1) 선택성 (Selectivity)
+2) 정확성 (Accuracy) 및 정밀성 (Precision)
+3) 회수율 (Recovery)
+4) 정량한계 (Quantitation limit)
+5) 일내, 일간 정확성 및 정밀성 (Intra- and inter-day accuracy and precision)
+6) 단기‧장기 안정성(Long, Short-term stability), 냉-해동 안정성(Freeze and thaw
+stability), Auto sampler 내 안정성(auto sampler stability), 희석의 타당성(Dilution
+integrity), 회수율(Recovery), 생체시료 효과(Matrix effect) 등
+(4) 약물동태학(PK) 시험 (in vivo PK study)
+1) 종: SD rat
+2) 투여 약물: Liraglutide
+3) 투여 용량: 0.05 mg/kg
+4) 투여 경로: 정맥투여(IV, Intravenous Injection)
+5) Matrix: plasma
+- 71 -5.9.3 결과 예시
+(1) 선택성
+Liraglutide의 MRM transition은 positive mode의 938.5 → 1063.7에서 수행하였다.
+그림 32에 Liraglutide의 product ion mass spectrum을 나타내었으며, 그림 33에는 (A)
+Blank, (B) 최저정량한계농도(Lower Limit of Quantification, LLOQ) 그리고 (C)
+최고정량한계농도(Upper Limit of Quantification, ULOQ)를 분석하여 얻어진 Liraglutide의
+MRM 크로마토그램을 나타내었다. Liraglutide의 retention time은 6.015분이었으며,
+공혈장에서 분석에 영향을 주는 방해 peak는 관찰되지 않았다.
+그림 32 양자화된 Liraglutide ([M+4H]4+, m/z = 938.5)의 product ion
+mass spectrum
+(A) (B) (C)
+그림 33 Liraglutide의 (A) 공혈장(Blank), (B) 최저정량한계(LLOQ), (C)
+최고정량한계(ULOQ) MRM 크로마토그램
+- 72 -(2) 시험 및 분석의 타당성 평가
+여러 밸리데이션 지표들이 적합한 기준 안에 있는 것을 모두 확인한 후 시험이
+진행되어야 한다. 시험 및 분석 시 검량선을 작성한 표준물질 및 시험적합성 시료가
+밸리데이션의 각 항목을 만족하고, 최저정량한계(LLOQ)의 신호 대 잡음비(S/N ratio)는
+10 이상이며, 피크의 선택성이 확인된다면 그 시험 및 분석이 타당하다고 평가할 수
+있다.
+(3) 대표 직선성 도면
+시료에 표준용액을 가하여 분석에 활용된 대표적인 검량선을 그림 34에
+나타내었다. 역계산한 검량선용 표준시료의 정확성이 최저정량한계(Lower Limit Of
+Quantification, LLOQ)의 경우 이론값의 20% 이내, 최저정량한계를 제외한 나머지 농도는
+이론 값의 15% 이내로 판정기준을 충족하였다.
+그림 34 랫드 혈장 내의 Liraglutide의 대표 검량선
+(y = 0.00400x – 1.08468e-4, r2 = 0.999).
+(4) 약물동태학 시험(in vivo PK study)
+Liraglutide를 랫트에 정맥주사(IV, 0.05 mg/kg) 또는 피하주사(SC, 1 mg/kg)한 뒤
+얻어진 평균 혈중농도-시간 곡선을 그림 35에 나타내었다.
+- 73 -(A) (B)
+그림 35 랫트에 Liraglutide를 (A) 정맥주사 (IV, 0.05 mg/kg) 및 (B) 피하주사
+(SC, 1 mg/kg)한 후 얻어진 평균 혈중농도-시간 곡선 (n=5, each)
+In vivo 샘플 분석 시 표준물질 및 시험적합성 시료가 각 밸리데이션 항목들의
+판정기준을 충족하고, 피크의 특이성이 확인되었다. 랫트에 Liraglutide를 IV 및 SC
+투여한 후 확립된 분석법으로 혈장샘플을 분석하여 얻은 혈중농도-시간 결과로부터
+Liraglutide의 반감기(t ), 곡선하면적(Area Under the plasma Concentration vs. time
+1/2
+curve, AUC), 클리어런스(CL), 분포용적(V )과 같은 약동학 파라미터를 산출해 낼 수
+z
+있으며, 이를 표 20에 나타내었다.
+표 20 랫트에 Liraglutide를 정맥주사(IV, 0.05 mg/kg) 및 피하주사(SC, 1 mg/kg)한 후
+얻어진 평균 혈중농도-시간 곡선으로부터 산출한 약동학 파라미터 (n=5)
+Parameter 정맥주사 (IV) 피하주사 (SC)
+Dose (mg/kg) 0.05 1
+t (hr) 3.67 ± 0.40 3.55 ± 0.51
+1/2
+C (ng/mL) 822.08 ± 227.19 -
+0
+C (ng/mL) - 669.64 ± 186.57
+max
+AUC (ng·hr/mL) 3429.30 ± 875.27 9166.62 ± 2465.16
+all
+AUC (ng·hr/mL) 3505.33 ± 815.04 9223.30 ± 2417.73
+inf
+V (L/kg) 0.08 ± 0.02 0.59 ± 0.19
+z
+CL (mL/min/kg) 0.25 ± 0.06 1.92 ± 0.52
+- 74 -6. 참고문헌
+1) FDA Guidance for Industry “ANDAs for Certain Highly Purified Synthetic Peptide
+Drug Products That Refer to Listed Drugs of rDNA Origin”(2021.5).
+2) US Pharmacopeia <1503> Quality Attributes of Synthetic Peptide Drug Substances.
+3) https://www.fda.gov/about-fda/economic-impact-analyses-fda-regulations/de
+finition-term-biological-product-final–regulatory-impact-analysis.
+4) 생물학적제제 등의 품목허가·심사 규정 (식품의약품안전처고시 제2021-29호).
+5) Merrifield, R. B. Solid phase peptide synthesis. I. The synthesis of a tetrapeptide. J.
+Am. Chem. Soc. 85, 2149–2154 (1963).
+6) Amblard M, Fehrentz JA, Martinez J, Subra G. Methods and protocols of modern
+solid phase Peptide synthesis. Mol Biotechnol. 2006, 33(3), 239-254.
+7) Wang L, Wang N, Zhang W, Cheng X, Yan Z, Shao G, Wang X, Wang R, Fu C.
+Therapeutic peptides: current applications and future directions. Signal Transduct
+Target Ther. 2022, 7(1), 48.
+8) Muttenthaler M, King GF, Adams DJ, Alewood PF. Trends in peptide drug
+discovery. Nat Rev Drug Discov. 2021, 20(4), 309-325.
+9) Merrifield RB. Solid phase peptide synthesis. I. The synthesis of a tetrapeptide. J
+Am Chem Soc 1963, 85, 2149-2154.
+10) Muttenthaler M, King GF, Adams DJ, Alewood PF. Trends in peptide drug
+discovery. Nat Rev Drug Discov. 2021, 20(4), 309-325.
+11) Merrifield, R. B. Solid phase peptide synthesis. I. The synthesis of a tetrapeptide.
+J. Am. Chem. Soc. 85, 2149–2154 (1963).
+12) Amblard M, Fehrentz JA, Martinez J, Subra G. Methods and protocols of modern
+solid phase Peptide synthesis. Mol Biotechnol. 2006, 33(3), 239-254.
+13) US Pharmacopeia - Impurities in Drug Substances and Drug Products <1086>.
+14) D'Hondt M, Bracke N, Taevernier L, Gevaert B, Verbeke F, Wynendaele E, De
+Spiegeleer B. Related impurities in peptide medicines. J. Pharm. Biomed. Anal.
+101, 2-30 (2014).
+15) USP General Chapter. <1503> Quality Attributes of Synthetic Peptide Drug
+Substances. DOI: https://doi.org/10.31003/USPNF_M12935_02_01.
+16) 대한민국약전 일반시험법 “단백질의 아미노산 분석” 참고.
+17) US Pharmacopeia <1503> Quality Attributes of Synthetic Peptide Drug Substances.
+18) US Pharmacopeia. Exenatide. DOI: https://doi.org/10.31003/USPNF_M4249_04_01.
+19) 대한민국약전 일반시험법에는 “펩티드 지도작성법”으로 시험법명이 되어 있다.
+20) 대한민국약전 일반시험법 “핵자기공명스펙트럼측정법” 참고.
+21) NMR spectroscopy for protein higher order structure similarity assessment in
+formulated drug products. Molecules 26, 4251 (2021).
+- 75 -22) Structural elucidation of leuprolide and its analogues in solution: insight into their
+bioactive conformation. Amino Acids 39, 1147-1160 (2010).
+23) Pignataro MF, Herrera MG, Dodero VI. Evaluation of Peptide/Protein
+Self-Assembly and Aggregation by Spectroscopic Methods. Molecules. 2020,
+25(20), 4854.
+24) 김영하. "ORD 및 CD 를 이용한 단백질 및 Polypeptide 의 형태분석." Polymer
+(Korea) 3.2 (1979): 89-101.
+25) Greenfield, Norma J. "Applications of circular dichroism in protein and peptide
+analysis.” TrAC Trends in Analytical Chemistry 18.4 (1999): 236-244.
+26) User Manual HitHunter® cAMP Assay for Small Molecules For Chemiluminescent
+Detection of cAMP and GPCR Activity.
+27) Bee JS, Randolph TW, Carpenter JF, Bishop SM, Dimitrova MN. Effects of
+surfaces and leachables on the stability of biopharmaceuticals. J Pharm Sci. 2011,
+100(10), 4158-4170.
+28) Jamasbi E, Wade JD, Separovic F, Hossain MA. Amyloid Beta (Aβ) Peptide and
+Factors that Play Important Roles in Alzheimer's Disease. Curr Med Chem. 2016,
+23(9), 884-892.
+29) Zapadka KL, Becher FJ, Gomes Dos Santos AL, Jackson SE. Factors affecting the
+physical stability (aggregation) of peptide therapeutics. Interface Focus. 2017, 7(6),
+20170030.
+30) 대한민국약전 제12개정 일반시험법 10. 기체크로마토그래프법 중 용어에 규정된
+피크밸리비에 따름.
+31) 식품의약품안전평가원, 원료의약품 유연물질 기준 가이드라인 (2018).
+32) 식품의약품안전평가원, 의약품 등 시험방법 밸리데이션 가이드라인 해설서 (2015).
+33) Blessy, M. R. D. P., Patel, R. D., Prajapati, P. N., & Agrawal, Y. K. (2014).
+Development of forced degradation and stability indicating studies of drugs—A
+review. Journal of pharmaceutical analysis, 4(3), 159-165.
+- 76 -사례 1. Leuprolide Acetate
+목 차
+1. 서론 ·································································································································78
+2. 원료의약품 품질평가 ···································································································79
+2.1 물질 정보 ·················································································································79
+2.2 정의 ···························································································································79
+2.3 확인시험 ···················································································································79
+2.4 순도시험 ···················································································································83
+2.5 함량시험 ···················································································································87
+2.6 선광도 ·······················································································································89
+2.7 수분 ···························································································································89
+3. 완제의약품 품질평가 ···································································································90
+3.1 제제 정보 ·················································································································90
+3.2 확인시험 ···················································································································90
+3.3 순도시험 ···················································································································91
+3.4 함량시험 ···················································································································94
+3.5 수분 ···························································································································95
+3.6 pH 측정 ····················································································································95
+- 77 -1. 서론
+Leuprolide acetate는 lutenizing hormone releasing hormone (LHRH) agonist의
+대표적인 약물로 구조적으로 천연 gonadotropin releasing hormone의 6번 위치 Gly을
+D-form 아미노산인 D-Leu으로 치환하여 개발한 합성펩타이드이다 (그림 1).
+그림 1 LHRH agonist 펩타이드 약물들의 구조
+- 78 -2. 원료의약품 품질평가
+2.1 물질 정보
+① 구조식
+② 분자식: C H N O ·(C H O ) , n = 1~2
+59 84 16 12 2 4 2 n
+③ 분자량: 1209.41 (as free base)
+④ CAS No.: 53714-56-0 (free base), 74381-53-6 (acetate salt)
+2.2 정의
+Leuprolide acetate는 lutenizing hormone-releasing hormone의 작용제(agonist)로
+아미노산 9개로 구성된 합성펩타이드이다. 이 약을 건조한 것은 정량할 때 leuprolide
+(C H N O ) 97.0% ~ 103.0%를 함유한다. 이 약은 흡습성이 있다.
+59 84 16 12
+2.3 확인시험
+(1) 액체크로마토그래프법 (HPLC)
+- 표준액: Leuprolide acetate 표준품을 2.5항의 함량시험법에 따라 이동상에 녹여 약
+50 μg/mL이 되도록 한다.
+- 검액: 검체(Leuprolide acetate)를 2.5항의 함량시험법에 따라 이동상에 녹여 약
+50 μg/mL이 되도록 한다.
+- 분석: 2.5항의 함량시험법에 사용된 액체크로마토그래프법
+- 79 -(2) 아미노산분석법 (Amino acid analysis)
+가. 16가지 아미노산 시험법
+1) 조작법
+Leuprolide acetate 및 Goserelin acetate 약 200 mg을 각각의 분해관에 넣고, 6 M
+염산 10 mL를 가하고 질소가스 주입 후 110℃에서 24시간 가수분해시킨다. 여액을
+감압농축기로 농축 후 0.2 M 시트르산 나트륨 완충액 50 mL 넣고 0.2 μm cellulose
+acetate syringe filter로 여과한 액을 검액으로 한다.
+2) 시험조건
+- 분석장비: 아미노산 분석기
+- 칼럼: 이온교환칼럼, 4.6 mm x 60 mm
+- 이동상: Buffer set
+- 검출기: UV 440 nm and 570 nm
+- 유속: Buffer 0.35 mL/min
+- 주입량: 20 μL
+나. 트립토판 : 알칼리 가수분해법
+1) 조작법
+물을 이용하여 약 0.1 mg/mL 농도로 희석한 트립토판 표준액을 사용한다.
+Leuprolide acetate 및 Goserelin acetate 100 mg을 칭량하여 각각의 마이크로
+킬달플라스크에 넣고, 석유 에테르 10 mL를 넣는다. 부드럽게 흔들어 섞은 후 20분 동안
+초음파 처리한 후 질소가스를 주입하여 에테르를 증발시킨다. 질소가스를 이용하여 4.2
+M 수산화나트륨의 기포를 제거한 후 플라스크에 4.2 M 수산화나트륨을 넣고, 1-옥탄
+용액을 3방울 떨어뜨린다. 처리한 용액을 즉시 드라이아이스/에틸알코올 수조에 넣고
+냉동시킨 후 진공시켜 밀봉한다. 시험 시 플라스크를 물이 담긴 비커에 넣고 녹인 후
+110℃오븐에서 20시간 동안 넣고 상온에서 식힌다. pH 4.25 구연산 나트륨 완충액을
+이용하여 50 mL 비커로 정량 검액을 옮긴 후 3.5 mL의 염산으로 중화하고 pH를
+4.25±0.05로 맞춘다. 혼합한 검액을 25 mL 용량 플라스크에 정량 옮기고 물로 희석한다.
+이 용액을 원심분리 튜브에 넣고 1150 g에서 20분 동안 원심분리한 후 유리 필터 종이로
+- 80 -상층액을 여과한다. 여과액을 원심분리 튜브에 넣고 23000 g에서 10분 동안 원심분리한
+후 상층액을 검액으로 한다.
+2) 시험조건
+- 분석장비: HPLC
+- 칼럼: C18, 4.6 mm x 250 mm
+- 이동상: 8.5 mM sodium acetate : methanol = 95 : 5
+- 검출기: UV 280 nm
+- 유속: 1.0 mL/min
+- 주입량: 20 μL
+(3) 적외부스펙트럼측정법
+가. 시험방법
+적외부 스펙트럼 측정법에 따라 적외선을 검체(Leuprolide acetate)에 조사하여
+흡수 또는 투과정도를 확인하여 표준품 대비 각 검체의 정성분석을 진행한다.
+나. 시험조건
+- 분석장비: FT-IR
+- 파장: 4000 cm-1 ~ 450 cm-1
+- 시험법: 브롬화칼륨 정제법
+(4) 질량분석법
+가. 시험방법
+검체(Leuprolide acetate)를 아세톤에 50 ~ 100 μg/mL 농도로 녹인 다음
+액체크로마토그래피-질량분석기(LC-MS)로 분석하여 질량을 측정한다.
+나. 시험조건
+- 분석장비: 액체크로마토그래프 탠덤질량분석기
+- 분석범위: 800 Da ~ 2000 Da
+- 81 -(5) 핵자기공명스펙트럼측정법
+가. 시험방법
+- 주요시약
+Leuprolide acetate (그림 2)
+Dimethyl sulfoxide-d (DMSO-d)
+6 6
+그림 2 Leuprolide acetate의 구조
+- 샘플 전처리
+① 7.5 mg(1H-NMR) 또는 38 mg(13C-NMR)의 Leuprolide acetate을 750 μL
+DMSO-d에 용해시킨다.
+6
+② 류프로렐린아세트산염 용액 750 μL를 NMR tube(OD 5 mm)에 첨가한다.
+나. 시험조건
+- NMR 분석 조건
+(1) 측정장비: 600 MHz 핵자기공명기
+▪ Probe: 5.0 mm probe
+(2) 측정조건
+▪ 1H-NMR: 주파수, 600 MHz. 스캔 수, 8.
+▪ 13C-NMR: 주파수, 150 MHz. 스캔 수, 1024.
+- 82 -2.4 순도시험
+(1) 금속(원소)불순물
+가. 시험방법
+검체인 Leuprolide acetate 및 Goserelin acetate 약 300 mg씩을 칭량하여 각각에
+질산(1→2) 6 mL, 과산화수소 3 mL씩을 첨가한 후 100℃ 이상에서 가열한다. 용해, 용융,
+변색 등의 변화가 멈추면 서서히 온도를 증가시키면서 마르지 않도록 산을 첨가한다.
+검체의 고체상 형태가 사라지고, 황색의 기체가 백색으로 바뀌면 전처리를 종료한다. 이
+액에 물을 넣어 적절한 농도로 희석한 액을 검액으로 한다.
+나. 시험조건
+- 분석장비: 유도결합 플라스마 방출분광분석기
+- 검출방식: CID (Charge Injection Device)
+- 파장범위: 166 ~ 841 nm
+(2) 유연물질
+가. 시험방법
+- 검액: 검체(Leuprolide acetate) 약 10 mg을 칭량하여 10 mL 용량 플라스크에 넣고
+이동상을 넣어 표선을 맞춘다.
+- 시스템적합성액: Leuprolide acetate 표준품을 이용하여 약 1.0 mg/mL 농도로
+이동상에 희석한다. 이 액 5.0 mL를 50 mL 용량 플라스크에 넣고 물을 넣어
+표선을 맞춘다. 이 액 5 mL와 100 μL 1 M 수산화나트륨과 혼합한 후 100℃
+오븐에서 1시간을 보관한다. 이 액을 상온에서 식힌 후 50 μL 염산을 넣고 혼합한
+액을 시스템적합성액으로 한다.
+나. 시험조건
+- 분석장비: HPLC UV/VIS Detector
+- 칼럼: C18, 4.6 mm x 100 mm, 3 μm
+- 이동상: Sol. A : Sol. B = 85 : 15
+- 83 -(1) Sol. A: 15.2 g 트리에틸아민을 800 mL 초순수에 녹이고 인산을 사용하여 pH
+3.0으로 pH를 조절한 후 물을 넣어 1 L로 맞춘다.
+(2) Sol. B: 아세토니트릴과 이소프로판올을 3 : 2 비율로 혼합한다.
+- 검출기: UV 220 nm
+- 유속: 1.0 ~ 1.5 mL/min
+- 주입량: 20 μL
+- 분석시간: 90분 (Leuprolide peak : 41 ~ 49분)
+- 시스템적합성: Leuprolide와 Impurity B와의 분리도 1.5 이상
+□ 참고
+미국약전(USP)와 유럽약전(EP)에는 Leuprolide의 유연물질에 대한 정보를 아래와 같이
+제공하고 있다.
+<Leuprolide 주피크 대비 상대유지시간>
+불순물 상대유지시간
+Impurity E 약 0.7
+Impurity F 약 0.7
+Impurity H 약 0.78
+Impurity A 약 0.8
+Impurity B 약 0.9
+Impurity I 약 0.94
+Impurity J 약 1.09
+Impurity C 약 1.2
+Impurity G 약 1.3
+Impurity K 약 1.31
+Impurity D 약 1.5
+* Impurity A~D (유럽약전과 미국약전에 공통으로 구조가 제시된 유연물질)
+(1) Impurity A: 5-Oxo-L-prolyl-L-histidyl-L-tryptophyl-D-seryl-L-tyrosyl-D-leucyl-L-leucyl-Larginyl-N-ethyl-L-prolinamide
+(2) Impurity B: 5-Oxo-L-prolyl-D-histidyl-L-tryptophyl-L-seryl-L-tyrosyl-D-leucyl-L-leucyl-Larginyl-N-ethyl-L-prolinamide
+(3) Impurity C: 5-Oxo-L-prolyl-L-histidyl-L-tryptophyl-L-seryl-L-tyrosyl-L-leucyl-L-leucyl-Larginyl-N-ethyl-L-prolinamide
+(4) Impurity D: 5-Oxo-L-prolyl-L-histidyl-L-tryptophyl-L-(O-acetyl)-seryl-L-tyrosyl-D-leucyl-L-leucyl-L-arginyl-N-ethyl-L-
+prolinamide
+(5) Impurity E~K: 구조 동정 없이 상대유지시간으로 규정된 유연물질
+- 84 -(3) 트리플루오로아세트산(Trifluoroacetic acid)
+트리플루오로아세트산은 펩타이드 합성 공정에 사용되는 대표적인 용매이다.
+합성 공정에 트리플루오로아세트산이 사용되었을 경우 반드시 잔류 한도 시험을
+수행해야 한다.
+가. 시험방법
+- 표준원액: 물에 트리플루오로아세트산을 넣어 약 10 mg/mL 농도로 만든다.
+- 표준액: 표준원액을 이용하여 희석액을 넣어 트리플루오로아세트산으로서 약 0.01
+mg/mL 농도로 표준액을 만든다.
+- 시스템적합성액: 표준원액을 이용하여 희석액을 넣어 트리플루오로아세트산으로서
+약 0.025 mg/mL 농도로 표준액을 만든다.
+- 검액: 검체(Leuprolide acetate)에 희석액을 넣어 4 mg/mL 이상의 농도로 만든다.
+- 희석액: 0.5% 인산
+나. 시험조건
+- 분석장비: HPLC UV/VIS Detector
+- 칼럼: ODS-3, 4.6 mm x 250 mm, 5 μm
+- 이동상
+(1) Sol. A: 900 mL 초순수에 7.0 mL 인산과 5.0 mL 암모니아수를 넣고 혼합한 후
+초순수를 넣어 1 L로 맞춘다.
+(2) Sol. B: 아세토니트릴과 물을 50 : 50 비율로 혼합한다.
+- Gradient 조건
+시간 (분) Solution A (%) Solution B (%)
+0 100 0
+5 100 0
+6 0 100
+14 0 100
+15 100 0
+30 100 0
+- 검출기: UV 210 nm
+- 85 -- 유속: 1.5 mL/min
+- 주입량: 20 μL
+- 시스템적합성: 트리플루오로아세트산 피크의 유지시간이 약 3분이며, 표준액을 6회
+반복 주입할 때 트리플루오로아세트산 피크면적의 상대표준편차는 5.0% 이하이다.
+(4) 잔류용매
+가. 시험방법
+- 표준원액: 아세토니트릴 용액 약 82 mg, 디메틸포름아미드 용액 약 176 mg, 에탄올
+용액 약 1000 mg, 이소프로판올 용액 약 1000 mg, 메탄올 용액 약 600 mg,
+디클로로메탄 용액 약 120 mg, 트리에틸아민 용액 약 1000 mg을 100 mL 용량
+플라스크에 넣고 N-메틸-2-피롤리돈 용액을 넣어 표선을 맞춘다.
+- 표준액: 표준원액 5 mL를 정확하게 취하여 50 mL 용량 플라스크에 넣고
+N-메틸-2-피롤리돈 용액을 넣어 표선을 맞춘다. 이 액 5 mL를 정확하게 취하여
+헤드스페이스 바이알에 넣고 물 1 mL를 넣어 밀봉한다.
+- 검액: 검체 약 100 mg을 칭량하여 헤드스페이스 바이알에 넣고, N-메틸-2-피롤리돈
+5 mL 및 물 1 mL를 넣어 밀봉한다.
+나. 시험조건
+- 분석장비: GC
+- 칼럼: DB-624 30 m x 0.53 mm, 3 μm
+- 검출기: 불꽃이온화검출기
+- 칼럼온도: 50℃ 5분 유지, 10℃/min 250℃ 승온, 250℃ 5분 유지
+- 주입구 온도: 150℃
+- 검출기 온도: 250℃
+- 유속: 5 mL/min
+- Split ratio: 1 : 5
+- 주입량: 1 mL
+- GC Headspace 조건
+(1) 평형온도: 80℃
+- 86 -(2) 평형시간: 30분
+(3) 루프 온도: 100℃
+(4) 이동관 온도: 110℃
+(5) 압력시간: 60초
+- 시스템적합성: 표준액을 6회 주입할 때 각 피크면적의 상대표준편차는 15.0%
+이하이어야 한다.
+2.5 함량시험
+(1) 주성분
+가. 시험방법
+- 표준액: Leuprolide acetate 표준품을 이용하여 약 1.0 mg/mL 농도로 이동상에
+희석한다. 이 액 0.5 mL를 10 mL 용량 플라스크에 넣고 이동상을 넣어 표선을
+맞춘다.
+- 검액: 검체(Leuprolide acetate) 약 10 mg을 칭량하여 10 mL 용량 플라스크에 넣고
+이동상을 넣어 표선을 맞춘다. 이 액 0.5 mL를 10 mL 용량 플라스크에 넣고
+이동상을 넣어 표선을 맞춘다.
+나. 시험조건
+- 분석장비: HPLC UV/VIS Detector
+- 칼럼: C18, 4.6 mm x 100 mm, 3 μm
+- 이동상: Sol. A : Sol. B = 85 : 15
+(1) Sol. A: 15.2 g 트리에틸아민을 800 mL 초순수에 녹이고 인산을 사용하여 pH
+3.0으로 pH를 조절한 후 물을 넣어 1 L로 맞춘다.
+(2) Sol. B: 아세토니트릴과 이소프로판올을 3 : 2 비율로 혼합한다.
+- 검출기: UV 220 nm
+- 유속: 1.0 ~ 1.5 mL/min
+- 주입량: 20 μL
+- 시스템적합성: 표준액을 6회 반복 주입할 때 각 피크면적의 상대표준편차는 2.0%
+이하이어야 한다.
+- 87 -(2) 아세트산
+가. 시험방법
+- 표준액: 희석액에 아세트산을 넣어 0.1 mg/mL 농도로 표준액을 만든다.
+- 검액: 검체(Leuprolide acetate) 약 10 mg을 10 mL 용량 플라스크에 넣고 희석액을
+넣어 표선을 맞춘다.
+- 희석액: Sol. A : Sol. B = 95 : 5
+(1) Sol. A: 1000 mL 초순수에 0.7 mL 인산을 넣고 혼합한다.
+(2) Sol. B: 100% 메탄올
+나. 시험조건
+- 분석장비: HPLC UV/VIS Detector
+- 칼럼: ODS-3, 4.6 mm x 250 mm, 5 μm
+- 이동상
+(1) Sol. A: 1000 mL 초순수에 0.7 mL 인산을 넣고 혼합한다.
+(2) Sol. B: 100% 메탄올
+- Gradient 조건
+시간 (분) Solution A (%) Solution B (%)
+0 95 5
+5 95 5
+10 50 50
+20 50 50
+22 95 5
+- 검출기: UV 210 nm
+- 유속: 1.2 mL/min
+- 주입량: 10 μL
+- 시스템적합성: 아세트산 피크의 유지시간은 약 3~4분이며, 표준액을 6회 반복
+주입할 때 아세트산 피크면적의 상대표준편차는 5.0% 이하이다.
+- 88 -2.6 선광도
+가. 시험방법
+검체(Leuprolide acetate)를 빙초산에 녹여 Leuprolide acetate로서 약 1.04
+mg/mL이 되도록 하여 검액을 제조하였다.
+나. 시험조건
+- 분석장비: 비선광도계
+- 시험법: 유럽약전 2.2.7 Optical rotation 항에 따름
+- 시험온도: 20℃
+- 시험기준: -38.0°~ -42.0°
+2.7 수분
+가. 시험방법
+검체(Leuprolide acetate) 약 100 mg을 칭량 후 수분측정기 오븐을 이용하여
+아래의 시험조건에 따라 시험한다.
+나. 시험조건
+- 분석장비: 수분측정기
+- 시험법: 미국약전 <921> Water determination 항에 따름
+- 분석시간: 5분
+- 오븐온도: 120℃
+- 시험기준: 5.0% 이하
+- 89 -3. 완제의약품 품질평가
+3.1 제제 정보
+Leuprolide acetate를 주성분으로 하여 생분해성 고분자인 poly(lactic-co-glycolic
+acid)를 가지고 제조한 미립구로 구성된 서방성 제제
+3.2 확인시험
+(1) 액체크로마토그래프법 (HPLC)
+- 표준액: Leuprolide acetate 표준품을 3.4항의 함량시험법에 따라 이동상에 녹여
+농도가 약 50 μg/mL이 되도록 한다.
+- 검액: 검체(Leuprolide acetate 미립구)를 3.4항의 함량시험법에 따라 이동상에 녹여
+약 50 μg/mL이 되도록 한다.
+- 분석: 3.4항의 함량시험법에 사용된 액체크로마토그래프법
+(2) 질량분석법
+가. 시험방법
+검체(Leuprolide acetate 미립구)를 아세톤에 50 ~ 100 μg/mL 농도로 녹인 다음
+액체크로마토그래피-질량분석기(LC-MS)로 분석하여 질량을 측정한다.
+나. 시험조건
+- 분석장비: 액체크로마토그래프 탠덤질량분석기
+- 분석범위: 800 Da ~ 2000 Da
+(3) 핵자기공명스펙트럼측정법
+가. 시험방법
+- 주요시약
+Leuprolide acetate 미립구 제제의 첨가제: 75/25 DL-Lactide/glycolide copolymer
+[PLGA, 락트산·글리콜산공중합체(75:25); 그림 3]
+- 90 -그림 3
+락트산·글리콜산공중합체(75:25)
+의 구조
+- 샘플 전처리
+(1) 38.3 mg 미립구(3.75 mg Leuprolide acetate 포함)를 750 μL DMSO-d에 용해시
+6
+킨다.
+(2) 미립구 용액 750 μL를 NMR tube(OD 5 mm)에 첨가한다.
+나. 시험조건
+- NMR 분석 조건
+(1) 측정장비: 600 MHz 핵자기공명기
+▪ Probe: 5.0 mm probe
+(2) 측정조건
+▪ 1H-NMR: 주파수, 600 MHz. 스캔 수, 8.
+▪ 13C-NMR: 주파수, 150 MHz. 스캔 수, 16000.
+3.3 순도시험
+(1) 금속(원소)불순물
+가. 시험방법
+검체(Leuprolide acetate 미립구) 약 300 mg에 질산(1→2) 6 mL, 과산화수소 3
+mL씩을 첨가한 후 100℃ 이상에서 가열한다. 용해, 용융, 변색 등의 변화가 멈추면
+서서히 온도를 증가시키면서 마르지 않도록 산을 첨가한다. 검체의 고체상 형태가
+사라지고, 황색의 기체가 백색으로 바뀌면 전처리를 종료한다. 이 액에 물을 넣어 적절한
+농도로 희석한 액을 검액으로 한다.
+- 91 -나. 시험조건
+- 분석장비: 유도결합 플라스마 방출분광분석기
+- 검출방식: CID (Charge Injection Device)
+- 파장범위: 166 ~ 841 nm
+(2) 아세트산
+가. 시험방법
+- 표준액: 희석액에 아세트산을 넣어 약 0.1 mg/mL 농도로 표준액을 만든다.
+- 검액: 검체(Leuprolide acetate 미립구) 약 10 mg을 10 mL 용량 플라스크에 넣고
+희석액을 넣어 표선을 맞춘다.
+- 희석액: Sol. A : Sol. B = 95 : 5
+(1) Sol. A: 1000 mL 초순수에 0.7 mL 인산을 넣고 혼합한다.
+(2) Sol. B: 100% 메탄올
+나. 시험조건
+- 분석장비: HPLC UV/VIS Detector
+- 칼럼: ODS-3, 4.6 mm x 250 mm, 5 μm
+- 이동상
+(1) Sol. A: 1000 mL 초순수에 0.7 mL 인산을 넣고 혼합한다.
+(2) Sol. B: 100% 메탄올
+- Gradient 조건
+시간 (분) Solution A (%) Solution B (%)
+0 95 5
+5 95 5
+10 50 50
+20 50 50
+22 95 5
+- 검출기: UV 210 nm
+- 유속: 1.2 mL/min
+- 92 -- 주입량: 10 μL
+- 시스템적합성: 아세트산 피크의 유지시간은 약 3~4분이며, 표준액 10 μL씩을
+가지고 위의 조건으로 시험을 6회 반복할 때 아세트산의 피크면적의
+상대표준편차는 5.0% 이하이다.
+(3) 잔류용매
+가. 시험방법
+- 표준원액 : 아세토니트릴 용액 약 82 mg, 디메틸포름아미드 용액 약 176 mg, 에탄올
+용액 약 1000 mg, 이소프로판올 용액 약 1000 mg, 메탄올 용액 약 600 mg,
+디클로로메탄 용액 약 120 mg, 트리에틸아민 용액 약 1000 mg을 100 mL 용량
+플라스크에 넣고 N-메틸-2-피롤리돈 용액을 넣어 표선을 맞춘다.
+- 표준액 : 표준원액 5 mL를 정확하게 취하여 50 mL 용량 플라스크에 넣고
+N-메틸-2-피롤리돈 용액을 넣어 표선을 맞춘다. 이 액 5 mL를 정확하게 취하여
+헤드스페이스 바이알에 넣고 물 1 mL를 넣어 밀봉한다.
+- 검액 : 검체(Leuprolide acetate 미립구) 약 100 mg을 칭량하여 헤드스페이스
+바이알에 넣고, N-메틸-2-피롤리돈 5 mL 및 물 1 mL를 넣어 밀봉한다.
+나. 시험조건
+- 분석장비: GC
+- 칼럼: DB-624 30 m x 0.53 mm, 3 μm
+- 검출기: 불꽃이온화검출기
+- 칼럼온도: 50℃ 5분 유지, 10℃/min 250℃ 승온, 250℃ 5분 유지
+- 주입구 온도: 150℃
+- 검출기 온도: 250℃
+- 유속: 5 mL/min
+- Split ratio: 1 : 5
+- 주입량: 1 mL
+- GC Headspace 조건
+(1) 평형온도: 80℃
+- 93 -(2) 평형시간: 30분
+(3) 루프 온도: 100℃
+(4) 이동관 온도: 110℃
+(5) 압력시간: 60초
+- 시스템적합성: 표준액을 6회 주입할 때 각 피크면적의 상대표준편차는 15.0%
+이하이어야 한다.
+3.4 함량시험
+가. 시험방법
+- 표준액: Leuprolide acetate 표준품을 이용하여 약 1.0 mg/mL 농도로 이동상에
+희석한다. 이 액 0.5 mL를 10 mL 용량 플라스크에 넣고 이동상을 넣어 표선을
+맞춘다.
+- 검액: 검체(Leuprolide acetate 미립구) 약 10 mg을 칭량하여 아세토니트릴 1 mL를
+넣고 10분 간 초음파 처리한다. 이 액 0.5 mL를 10 mL 용량 플라스크에 넣고
+이동상을 넣어 표선을 맞춘다.
+나. 시험조건
+- 분석장비: HPLC UV/VIS Detector
+- 칼럼: C18, 4.6 mm x 100 mm, 3 μm
+- 이동상: Sol. A : Sol. B = 85 : 15
+(1) Sol. A: 15.2 g 트리에틸아민을 800 mL 초순수에 녹이고 인산을 사용하여 pH
+3.0으로 pH를 조절한 후 물을 넣어 1 L로 맞춘다.
+(2) Sol. B: 아세토니트릴과 이소프로판올을 3 : 2 비율로 혼합한다.
+- 검출기: UV 220 nm
+- 유속: 1.0 ~ 1.5 mL/min
+- 주입량: 20 μL
+- 시스템적합성: 표준액을 6회 반복 주입할 때 각 피크면적의 상대표준편차는
+2.0% 이하이어야 한다.
+- 94 -3.5 수분
+가. 시험방법
+검체(Leuprolide acetate 미립구) 약 100 mg을 칭량하여 수분측정기 오븐을
+이용하여 아래의 시험조건에 따라 시험한다.
+나. 시험조건
+- 분석장비: 수분측정기
+- 시험법: 미국약전 <921> Water determination 항에 따름
+- 분석시간: 5분
+- 오븐온도: 120℃
+3.6 pH 측정
+가. 시험방법
+검체(Leuprolide acetate 미립구) 약 38 mg을 칭량하여 용기에 넣고 물 10 mL를
+넣어 혼합한 후 pH를 측정한다.
+나. 시험조건
+- 분석장비: pH meter
+- 시험법: 미국약전 <791> pH 항에 따름
+- 95 -사례 2. Semaglutide
+목 차
+1. 서론 ·································································································································97
+2. 원료의약품 및 완제의약품 품질평가 ·······································································97
+2.1 물질 정보 ·················································································································97
+2.2 정의 ···························································································································98
+2.3 확인시험 ···················································································································98
+2.4 순도시험 ·················································································································107
+- 96 -1. 서론
+Semaglutide는 Glucagon-like peptide-1(GLP-1) receptor agonist의 대표적인 약물
+중 하나로 구조적으로 천연 GLP-1(7-37)의 8번 위치 Gly을 비천연아미노산인
+2-aminoisobutyric acid(Aib)로 치환, 34번 Lys을 Arg으로 치환하고 26번 Lys에 지방산
+구조를 도입하여 개발한 펩타이드이다 (그림 1).
+그림 1 Semaglutide의 구조
+2. 원료의약품 및 완제의약품 품질평가
+2.1 물질 정보
+- 구조식
+- 분자식: C H N O
+187 291 45 59
+- 분자량: 4113.6 g/mole
+- CAS No.: 910463-68-2
+- 97 -2.2 정의
+Semaglutide는 GLP-1 receptor의 작용제(agonist)로 아미노산 31개로 구성된 합성
+펩타이드이며, 해당 원료의 완제는 Semaglutide를 주성분으로 하고, 염산, 주사용수,
+인산수소이나트륨이수화물, 수산화나트륨, 페놀, 프로필렌글리콜이 첨가제로 사용되고
+있다.
+2.3 확인시험
+2.3.1 질량 분석
+가. 시험 목표
+질량분석법(mass spectrometry, MS)은 이온화법에 따라 생성된 이온들을
+질량대전하비(mass-to-charge ratio, m/z)에 따라 분리하여 검출하는 방법이다.
+질량대전하비(m/z) 값은 이온의 질량(m)을 이온의 전하수(z)로 나누어 얻어지는 값으로
+단위가 없는 값이다. 측정 결과는 각 이온들의 m/z 값을 x축으로 하고 각 이온에
+해당하는 신호들의 상대적인 강도를 y축으로 한 질량스펙트럼(mass spectrum)으로
+나타난다.
+질량분석법을 이용한 확인시험은 대상 펩타이드의 질량 확인에 의해 이루어진다.
+사용 기기의 질량 분해능(mass resolving power)과 측정 분자의 질량에 따라
+질량분석법을 통해 얻어지는 피검성분의 질량은 얻어진 다중전하(multi charge)를 가진
+스펙트럼을 변환(deconvolution) 과정을 거쳐 정확한 분자량의 확인이 가능하다.
+펩타이드의 질량분석에는 고성능 액체 크로마토그래피(high-performance liquid
+chromatography, HPLC)와 질량분석기(mass spectrometry, MS)를 결합한 liquid
+chromatography-mass spectrometry(LC-MS) 방법이 주로 사용된다. 분자량이 2 kDa
+이상인 비교적 큰 펩타이드의 경우에는 정확한 질량값 측정을 위해 고분해능
+질량분석(high-resolution mass spectrometry, HRMS)의 사용이 필요할 수 있다. 이에
+질량분석기를 이용한 펩타이드 의약품의 질량 분석을 통해 펩타이드 의약품 고유의
+분자량 분석법을 확립하는 것을 목표로 한다.
+- 98 -나. 주요 시약 및 방법
+1) 주요 시약
+- Semaglutide 완제
+- Semaglutide
+- Water (LC-MS grade)
+- Acetonitrile (LC-MS grade)
+- Formic acid
+2) 시험 방법
+가) 시료 제조
+Semaglutide 원료 및 완제를 0.1% formic acid를 함유한 50% 아세토니트릴 용액을
+이용하여 0.1 mg/mL의 농도로 제조하여 LC 바이알에 담아서 준비한다.
+나) LC-MS 분석조건
+(1) 분석 장비
+- Mass system: RDa Detector (Q-TOF)
+- UPLC system
+(2) 분석 조건
+- 컬럼: UPLC Peptide BEH C18 (2.1 × 100 mm, 1.7 μm, 130Å)
+- 컬럼 온도: 65℃
+- Scan range: 50 – 2,000 Da
+- Scan rate: 5 Hz
+- Ion polarity: Positive
+- 이동상: A, 0.1 % formic acid in Water; B, 0.1% formic acid in ACN
+- 유속: 0.5 mL/min
+- 99 -- Gradient 조건:
+시간 (분) 용매 A(%) 용매 B(%)
+0.00 95 5
+0.13 95 5
+4.00 50 50
+4.67 50 50
+4.80 95 5
+6.00 95 5
+2.3.2 펩타이드 지도 작성
+가. 시험 목표
+펩타이드 지도작성은 펩타이드 기반 의약품의 특성화 과정 중 중요한 단계로
+펩타이드의 서열 정보 및 표준 펩타이드 지도와의 비교를 통해 동등성을 확인할 수 있다.
+HPLC를 이용한 펩타이드의 지도 분석의 경우 단백질 분해효소를 이용하여 단편화시킨
+패턴의 비교는 가능하지만, 각 피크에 대한 정확한 동정이 어렵다. 따라서, 단편화시킨
+각 펩타이드의 피크에 대한 분리 및 질량값 측정을 통해 정확한 동정을 위해서는
+LC-MS의 활용이 필수적이다.
+펩타이드를 단편화할 경우 아미노산 서열은 다르지만, 분자량이 같은 펩타이드가
+동시에 분석되는 경우를 고려하여 HRMS를 이용하여 생성될 수 있는 펩타이드 단편의
+정확한 분자량을 측정할 수 있다. 이에 따라 펩타이드 약물의 단편화 처리조건 및
+LC-MS를 이용한 펩타이드 지도작성법을 확립하는 것을 제시하고자 하였다.
+나. 주요 시약 및 방법
+1) 주요 시약
+- Semaglutide 완제
+- Semaglutide
+- Water (LC-MS grade)
+- Acetonitrile (LC-MS grade)
+- Formic acid
+- 100 -- Sodium dihydrogen phosphate dihydrate
+- Di-sodium dihydrogen phosphate dodecahydrate
+- Endoproteinase Glu-C from Staphylococcus aureus V8
+2) 시험 방법
+가) Reaction buffer
+Sodium dihydrogen phosphate dihydrate 0.04 g과 di-Sodium dihydrogen phosphate
+dodecahydrate 0.17 g을 칭량하여 3차 증류수 100 mL에 넣어 용해한 후 HCl을 이용하여
+pH 7.8로 조정하여 준비한다.
+나) 단백질 분해효소 (Glu-C)
+Reaction buffer를 이용하여 Glu-C가 1 mg/mL의 농도가 되도록 준비한다.
+다) 시료 전처리
+① Semaglutide 완제(1.33 mg/mL)과 Semaglutide 원료(1 mg/mL)를 reaction buffer를
+이용해 0.5 mg/mL의 농도로 준비한다.
+② 준비된 농도의 0.2 mL Semaglutide 완제와 원료에 5 μL의 Glu-C(20:1, w/w)를
+첨가한다.
+③ 이를 37℃에서 18 시간 동안 반응한 후 4 μL의 formic acid(50:1, v/v)를
+첨가하여 효소 반응을 중지시킨다.
+④ 준비된 시료를 reaction buffer를 이용해 0.1 mg/mL의 농도로 준비한다.
+라) LC-MS 분석 조건
+(1) 분석 장비
+- Mass system: RDa Detector (Q-TOF)
+- UPLC system
+(2) 분석 조건
+- 컬럼: UPLC Peptide BEH C18 (2.1 × 100 mm, 1.7 μm, 130Å)
+- 컬럼 온도: 65℃
+- 101 -- Scan range: 50 – 2,000 Da
+- Scan rate: 5 Hz
+- Ion polarity: Positive
+- 이동상: A, 0.1 % formic acid in Water; B, 0.1% formic acid in ACN
+- 유속: 0.5 mL/min
+- Gradient 조건
+시간 (분) 용매 A(%) 용매 B(%)
+0.00 95 5
+0.13 95 5
+4.00 50 50
+4.67 50 50
+4.80 95 5
+6.00 95 5
+2.3.3 이차구조 분석
+가. 시험목표
+원편광 이색성(circular dichroism, CD)은 광학 활성이 있는 물질이 우원편광과
+좌원편광의 몰 흡광 계수가 서로 다를 때 나타나는 현상으로 물질의 고유한 원편광
+이색성을 이용하여 물질의 분자구조를 유추할 수 있다. 이는 원편광 빛을 광원으로 하는
+분광편광계로 측정되며 주로 광학이성질체, 단백질이나 핵산의 이차구조 분석에
+사용된다.
+단백질은 고유한 아미노산의 조성 및 배열을 가지며, 펩타이드 단위는 수소결합,
+이온 간의 상호작용 등의 영향으로 α-helix, β-sheet, β-turn, random coil 등과 같은
+이차 구조를 형성한다. 이러한 이차 구조의 정보는 far UV (180-260 nm) 범위에서의
+분석을 통해 확인할 수 있다. CD 측정 결과는 설정한 범위의 UV 파장 (nm) 값을 x축으로
+하고, 각 파장에서 우원편광과 좌원편광에 따른 값의 차이인 CD 값을 y축으로 하여
+나타낸다.
+- 102 -나. 주요 시약 및 방법
+1) 주요 시약
+- Semaglutide
+- Sodium dihydrogen phosphate dihydrate (NaH PO ·2H O)
+2 4 2
+- Di-sodium hydrogen phosphate dodecahydrate (Na HPO ·12H O)
+2 4 2
+2) 시험 방법
+가) 시료 제조
+① Semaglutide 10 mg을 칭량하여 인산염 완충용액(pH 7.4)에 100 μg/mL의 농도가
+되도록 시료를 녹인다.
+② 시료는 육안으로 입자가 확인되지 않을 정도까지 녹인 후, 시린지 필터와 같은
+여과장치를 이용하여 시료에서 입자를 제거하여 준비한다.
+나) CD 분석 방법 및 조건
+(1) 분석 장비
+- 원편광 이색성 분광계(Circular dichroism spectrometer)
+(2) 분석 방법
+① 질소가스 밸브를 열어 15분 이상 장비 내에 질소가스가 충진되도록 한다.
+② Circulator를 켠 다음 기기의 전원을 켜고 장비를 안정화시킨다.
+③ 소프트웨어를 실행시키고, 분석 조건을 설정한다.
+④ 쿼츠 셀에 용매(blank)를 일정량을 담아 준비한다. 이때 내부의 기포는
+피펫팅을 통해 제거한다.
+⑤ 측정부에 쿼츠 셀을 넣고 뚜껑을 닫은 다음, baseline 측정을 시작한다. 이때,
+시료를 측정하는 조건과 동일하게 진행해야 한다 (반복측정 횟수도 포함된다).
+⑥ 쿼츠 셀에 시료 일정량을 담아 준비한다. 이때 내부의 기포는 피펫팅을 통해
+제거한다.
+⑦ 측정부에 쿼츠 셀을 넣고 뚜껑을 닫은 다음, 시료 측정을 시작한다.
+⑧ 측정 결과를 얻는다.
+- 103 -(3) 분석 조건
+- Photometric mode: CD
+- Path length of cell: 3 mm
+- Measure range: 190-400 nm
+- Data pitch: 0.5 nm
+- CD scale: 200 mdeg/0.1 dOD
+- FL scale: 200 mdeg/0.1 dOD
+- D.I.T (data integration time): 2 sec
+- Bandwidth: 1.0 nm
+- Scanning speed: 50 nm/min
+- Temperature of chamber: 25℃
+- Accumulations: 4
+- Start mode: Immediately
+- Scanning mode: Continuous
+2.3.4 생물학적 활성 시험
+가. 시험 목표
+생물학적 활성은 목표하는 생물학적 효과를 달성하기 위한 제품의 특이적 능력
+또는 역량을 의미한다. 생물학적 활성 시험은 작용기전을 고려하여 수행한다.
+본시험에서는 시험물질인 Semaglutide의 생물학적 활성을 측정하고자 하며,
+Semaglutide의 수용체이자 GPCR(G Protein Coupled Receptor)인 GLP-1 수용체가
+ligand와 결합하여 생성되고 세포 내 신호전달을 매개하여 생물학 활성의 지표로 사용될
+수 있는 세포 내 cAMP의 level을 측정하는 in vitro 시험방법을 이용하였다.
+본 시험은 시험물질이 GLP-1 수용체로 작용하는 생물학적 활성을 가진 물질인지
+확인하는 것과 시험물질의 생물학적 역가를 확인하는 것을 목표로 한다.
+- 104 -그림 2 생물학적 활성 시험의 원리
+나. 주요 시약 및 방법
+1) 주요 시약
+- CHO-K1 GLP1R Gs
+- 3-Isobutyl-1-methylxanthine
+- PBS 1X
+- cAMP Assay for Small Molecules
+- Cell Detachment Reagent
+- Cell Plating 2 Reagent
+- White 96-well plate
+- 75T-flask
+- Reservoir
+2) 시험 방법
+(1) 분석 장비
+- Microplate reader
+(2) 시험 방법
+① CHO-K1 GLP-1R 세포를 96 well plate에 각 well 당 7 x 103개로 분주하고 37℃,
+CO incubator에서 24시간 배양한다.
+2
+- 105 -② 각 well의 배양액 제거 후 IBMX 0.5 mM in PBS를 30 μL씩 37℃, CO
+2
+incubator에서 15분간 처리한다.
+③ 각 약물을 시험에 처리할 농도별로 IBMX 0.5 mM in PBS로 희석한 후 37℃, CO
+2
+incubator에서 30분간 처리한다.
+④ 각 well에 cAMP antibody solution을 15 μL와 working cAMP detection
+solution을 60 μL 처리하여 차광을 유지한 상태로 실온에서 1시간 동안
+반응시킨다.
+⑤ 각 well에 cAMP Assay kit에 포함된 cAMP solution A를 60 μL 처리하여 광을
+유지한 상태로 실온에서 3시간 동안 반응시킨다.
+⑥ Microplate reader 기기에 96 well plate를 삽입한 후 luminescence를 측정하여
+cAMP의 생성량을 측정한다.
+⑦ 통계분석이 가능한 소프트웨어를 사용하여 데이터를 분석한다.
+⑧ 통계분석에는 시험물질의 농도와 cAMP 생성량 결과를 4-parameter logistic
+모델을 이용하여 분석하여 EC 를 계산한다.
+50
+⑨ 시험 진행 모식도는 그림 3과 같다.
+그림 3 cAMP 생성량 측정 시험법의 모식도
+- 106 -2.4 순도시험
+2.4.1 펩타이드의 안정성 평가 시험법 개발
+가. 시험 목표
+액체크로마토그래피는 적당한 고정상을 써서 만든 컬럼에 검체 혼합물을
+주입하고, 이동상으로 액체를 써서 고정상에 대한 유지력의 차를 이용하여 각각의
+성분으로 분리하여 분석하는 방법이다. 액상 검체 또는 용액으로 만들 수 있는 검체에
+적용할 수 있으며, 물질의 확인, 순도시험, 정량 등에 사용할 수 있다. 이러한
+액체크로마토그래피를 이용하여, 펩타이드의 보관상에서 생길 수 있는 안정성 저하를
+평가할 수 있는 분석법을 개발하는 것을 목표로 한다.
+원료의약품의 유연 물질 등 불순물들을 분석할 수 있는 분석법을 개발하고자 할
+때, 유연 물질 표준품을 보유 시에는 원료의약품에 적당한 농도의 유연 물질을 첨가하여
+이들 유연 물질이 서로 분리되거나 유연 물질이 검체 중에 존재하는 다른 성분들로부터
+분리되는 것을 제시할 수 있다.
+그러나, 유연 물질의 표준품을 확보할 수 없는 경우에는 유연 물질 발생이 가능한
+가혹 조건(산 또는 염기 가수분해 및 산화)에 노출된 검체를 이용할 수 있다. 각 불순물은
+면적백분율법을 통해 계산될 수 있는데, 면적백분율법은 크로마토그램에서 얻은 각
+성분의 피크 면적의 합계를 100으로 하고, 이에 대한 각 성분의 피크 면적 비로부터
+조성비를 구한다.
+펩타이드의 및 펩타이드의 유연 물질 분석에는 주로 역상(reversed-phase, RP)
+HPLC를 사용하며, 유연 물질의 분리능을 향상시키기 위해서 역상 초고성능
+액체크로마토그래피가 사용될 수 있다. 이는 초고압으로 이동상과 시료를 주입시키며,
+사용하는 컬럼 충진물의 입자 크기가 작아 시료와 고정상이 접촉하는 표면적이 넓어지게
+되면서 피크의 분리능이 더 향상되는 원리를 이용한다.
+2.4.1.1 원료의약품
+가. 주요 시약 및 방법
+1) 주요 시약
+- Semaglutide
+- Hydrocholic acid
+- 107 -- Sodium hydroxide
+- Hydrogen peroxide solution
+- Tween 80 solution
+- PBS
+- Acetonitrile
+- Trifluoroacetic acid
+2) 시험 방법
+가) 반응 시약 제조
+(1) 염산 용액: 37%의 염산 용액을 증류수로 희석하여, 2 M 염산 용액으로 만든다.
+(2) 수산화나트륨 용액: 수산화나트륨 펠릿을 증류수에 녹여, 20 mM 수산화나트륨
+용액을 만든다.
+(3) 과산화수소 용액: 30%의 과산화수소 용액을 증류수로 희석하여, 6% 과산화수소
+용액을 만든다.
+나) 원료의약품의 시료 제조
+(1) 원료의약품의 표준원액 제조: 5 mg의 Semaglutide를 칭량하여, 5 mL 용량
+플라스크에 넣고, 0.02% tween 80을 포함하는 인산염 완충액을 표선의 80%
+용량만큼 가해, Semaglutide를 녹인 후, 표선까지 0.02% tween 80을 포함하는
+인산염 완충액을 가해 1 mg/mL의 농도로 만든다. 그런 다음, 0.45 μm의
+셀룰로오스 아세테이트 멤브레인 필터로 여과하여 원료의약품의 표준원액으로
+사용한다.
+(2) 원료의약품의 중간표준액 제조: 원료의약품의 표준원액을 0.02% tween 80을
+함유한 인산염 완충액으로 희석하여, 500 μg/mL로 만들고, 이를 원료의약품의
+중간표준액으로 사용한다.
+(3) 원료의약품 표준액: 원료의약품의 중간표준액을 0.02% tween 80이 함유된
+인산염 완충액으로 희석하여 250 μg/mL로 만들고, 이를 원료의약품의
+표준액으로 사용한다.
+- 108 -다) 시료의 전처리 방법
+(1) 산 조건 (250 μg/mL Semaglutide in 1 M HCl): 원료의약품의 중간표준액에 2 M
+염산 용액을 1:1 (v/v)로 가해, 60도에서 30분간 방치한다. 이후, 실온에서 온도
+안정화 시킨 후, 50 μL를 취하여, 아래 UPLC 조건에서 시료를 분석한다.
+(2) 염기 조건 (250 μg/mL Semaglutide in 10 mM NaOH): 원료의약품의
+중간표준액에 20 mM 수산화나트륨 용액을 1:1 (v/v)로 가해, 실온에서 3시간
+동안 방치한다. 이후, 50 μL를 취하여, 아래 UPLC 조건에서 시료를 분석한다.
+(3) 산화 조건 (250 μg/mL Semaglutide in 3% H O ): 원료의약품의 중간표준액에
+2 2
+6% 과산화수소 용액을 1:1 (v/v)로 가해, 60도에서 30분간 방치한다. 이후,
+실온에서 온도 안정화 시킨 후, 50 μL를 취하여, 아래 UPLC 조건에서 시료를
+분석한다.
+라) 분석 조건
+(1) 분석 장비
+- UPLC system
+(2) 분석 조건
+- 컬럼: Peptide CSH C18 (2.1 × 150 mm, 1.7 μm, 130Å)
+- 컬럼 온도: 35℃
+- 이동상: A, 0.1% TFA in Water; B, 0.1% TFA in ACN
+- 유속: 0.3 mL/min
+- Gradient 조건
+시간 (분) 용매 A (%) 용매 B (%)
+0.00 60 40
+0.20 60 40
+12.00 50 50
+12.10 50 50
+12.20 60 40
+15.00 60 40
+- 시료 주입량: 10 μL
+- 검출기: 자외부흡광광도계 (측정 파장: 215 nm)
+- 109 -2.4.1.2 완제의약품
+가. 주요 시약 및 방법
+1) 주요 시약
+- Semaglutide 완제
+- Hydrocholic acid
+- Sodium hydroxide
+- Hydrogen peroxide solution
+- Tween 80 solution
+- PBS
+- Acetonitrile
+- Trifluoroacetic acid
+2) 시험 방법
+가) 반응 시약 제조
+(1) 염산 용액: 37%의 염산 용액을 증류수로 희석하여, 2 M 염산 용액으로 만든다.
+(2) 수산화나트륨 용액: 수산화나트륨 펠릿을 증류수에 녹여, 40 mM 수산화나트륨
+용액을 만든다.
+(3) 과산화수소 용액: 30%의 과산화수소 용액을 증류수로 희석하여, 6% 과산화수소
+용액을 만든다.
+나) 완제의약품의 시료 제조
+(1) 완제의약품의 표준원액 제조: 완제의약품(1.33 mg/mL)을 0.02% tween 80을
+함유한 인산염 완충액으로 희석하여, 500 μg/mL로 만들고, 이를 완제의약품의
+표준원액으로 사용한다.
+(2) 완제의약품 표준액: 완제의약품의 표준원액을 0.02% tween 80이 함유된 인산염
+완충액으로 희석하여 250 μg/mL로 만들고, 이를 완제의약품의 표준액으로 사용한다.
+- 110 -다) 시료의 전처리 방법
+(1) 산 조건 (Semaglutide로서 250 μg/mL in 1 M HCl): 완제의약품의 표준원액에 2 M
+염산 용액을 1:1 (v/v)로 가해, 60도에서 60분간 방치한다. 이후, 실온에서 온도
+안정화 시킨 후, 50 μL를 취하여, 아래 UPLC 조건에서 시료를 분석한다.
+(2) 염기 조건 (Semaglutide로서 250 μg/mL in 20 mM NaOH): 완제의약품의
+표준원액에 40 mM 수산화나트륨 용액을 1:1 (v/v)로 가해, 실온에서 30분 동안
+방치한다. 이후, 50 μL를 취하여, 아래 UPLC 조건에서 시료를 분석한다.
+(3) 산화 조건 (Semaglutide로서 250 μg/mL in 3% H O ): 완제의약품의 표준원액에
+2 2
+6% 과산화수소 용액을 1:1 (v/v)로 가해, 60도에서 60분간 방치한다. 이후,
+실온에서 온도 안정화 시킨 후, 50 μL를 취하여, 아래 UPLC 조건에서 시료를
+분석한다.
+라) 분석 조건
+(1) 분석 장비
+- UPLC system
+(2) 분석 조건
+- 컬럼: Peptide CSH C18 (2.1 × 150 mm, 1.7 μm, 130Å)
+- 컬럼 온도: 35℃
+- 이동상: A, 0.1% TFA in Water; B, 0.1% TFA in ACN
+- 유속: 0.3 mL/min
+- Gradient 조건
+시간 (분) 용매 A (%) 용매 B (%)
+0.00 60 40
+0.20 60 40
+12.00 50 50
+12.10 50 50
+12.20 60 40
+15.00 60 40
+- 시료 주입량: 10 μL
+- 검출기: 자외부흡광광도계 (측정 파장: 215 nm)
+- 111 -2.4.2 올리고머 확인
+가. 시험 목표
+Semaglutide 원료 및 Semaglutide 완제는 응집 특성을 가지는 물질로, 수용액
+상에서 단량체 또는 올리고머 상태로 존재한다. 수용액 상에서 올리고머는 주로
+이량체로 존재하지만, 보관 기간이 길어질수록 올리고머는 자가조립(Self-assembly)에
+의해 aggregates 상태로 존재하게 된다. 펩타이드의 올리고머 형태는 약물의 흡수에
+영향을 미칠 수 있으므로 올리고머의 형성 여부를 확인하는 것은 중요하다.
+크기배제 크로마토그래피(SEC)는 물질의 분자 크기에 기초한 크로마토그래피로서
+분자 크기가 작을수록 더 늦게 용리된다. 이는 주로 약물의 aggregates를 측정하거나
+불순물을 분리하는 데에 활용된다. 본 시험에서는 SEC-HPLC를 활용하여 Semaglutide
+원료 및 Semaglutide 완제의 수용액 상에서의 올리고머 형성 여부를 확인하고자 한다.
+- 112 -나. 주요 시약 및 방법
+1) 주요 시약
+- Semaglutide
+- Semaglutide 완제
+- Sodium dihydrogen phosphate dihydrate (NaH PO ·2H O)
+2 4 2
+- Di-sodium hydrogen phosphate dodecahydrate (Na HPO ·12H O)
+2 4 2
+- Trifuloroacetic acid (TFA)
+- Water
+- Acetonitrile
+2) 시험 방법
+가) 시료 제조
+① Semaglutide 완제는 제품으로부터 용액을 취하여 튜브에 분획한다.
+② Semaglutide는 10 mg을 칭량하여 인산염 완충액(pH 7.4)에 1.34 mg/mL의 농도가
+되도록 녹인 후, 육안으로 입자가 확인되지 않을 정도까지 녹인다.
+③ 튜브에 분획한 시료는 50℃에 일정 기간 보관한다.
+④ 시료는 시린지 필터와 같은 여과장치를 이용하여 입자를 제거하고, 분석을 위해
+바이알에 일정 양을 담는다.
+나) SEC 분석 방법 및 조건
+(1) 분석 장비
+- UPLC system
+- 검출기: Photodiode array (PDA) detector
+(2) 분석 방법
+① 이동상 제조를 위하여 증류수 0.4 L에 ACN 0.6 L을 섞고 0.15% TFA (v/v)를
+첨가한 후, 필터 및 탈기하여 준비한다.
+② 장비 평형화를 위하여 prime solvent를 실시하고 컬럼 온도는 30도로 설정한다.
+이동상을 0.4 mL/min으로 흘리며 압력 변화를 통해 평형화 여부를 관찰한다.
+- 113 -③ 시료 분석 전 증류수 및 이동상을 분석하여 크로마토그램 상에 방해 피크가
+없는지 확인한다.
+④ 시료는 10 μL를 주입하여 SEC-HPLC 분석을 진행한다.
+⑤ 면적백분율법을 사용하여 올리고머 생성 정도를 확인한다.
+(3) 분석 조건
+- 컬럼: Protein BEH SEC column (4.6 × 300 mm, 1.7 μm, 125Å)
+- 컬럼 온도: 30℃
+- 이동상: 0.15% TFA in 60% ACN
+- 유속: 0.4 mL/min
+- Gradient 조건: Isocratic for 15 min
+- 시료 주입량: 10 μL
+- 검출기: UV 215 nm
+- 114 -발 행 일 2024년 3월
+발 행 인 식품의약품안전평가원장 박윤주
+편집위원장 의료제품연구부장 손수정
+편 집 위 원 장정윤, 김판순, 김자영, 김민정, 최인선, 문형실, 안일영,
+전혜림, 김민경, 신지현, 함현주, 민선미, 황선희
+도움주신분 나동희 (중앙대학교)
+발 행 처 식품의약품안전평가원 의료제품연구부 의약품연구과
+본 자료집은 2022년도 식품의약품안전처의 연구개발사업(의약품 등 안전관리 - 합성
+펩타이드 의약품 평가체계 마련 연구, 22202의약안106)의 결과를 활용하였습니다.
