@@ -1,0 +1,29 @@
+general:
+  project: "YouMe-Us"
+  version: "0.0.1"
+tool_layer:
+  general:
+    data_path: "./invoice_recog/data"
+    minimum_text_lines: 10
+    openai_temperature: 0.7
+  experiment:
+    test_files: "./data/invoices_yumi_000/*.PDF" #"./data/invoices_yumi_001/*.PDF" #"./data/invoices_yumi_000/*.PDF"    # "/path/*.PDF"
+    ground_truth: "./data/yumi_gts_002.json" #"./data/yumi_gts_sorted.json" #"./data/yumi_gts_002.json"
+    run_parallel: true
+  invoice_recognizer:
+    verbose: false # True: StdOutCallbackHandler
+  pdf_reader:
+    image_dir: "./invoice_recog/data/image_files"
+    target_dpi: 300
+  output_delivery:
+    xlsx_file_name: ".xlsx" # "wtf.xlsx" "copied_YAS.xlsx" "YAS.xlsx" "growdle_YAS.xlsx" #
+    # target_keys: "No.,원본파일명,검색시작시간,검색종료시간,작업자,외국청구번호,총비용,화폐,GW접수자,GW접수번호,GW저장시간,GW저장파일명"   # comma separated string, 엑셀 칼럼 이름
+    # key_mapping: "invoice_id:외국청구번호,currency:화폐,total_amount:총비용,pdf_file_name:원본파일명,start_timestamp:검색시작시간,end_timestamp:검색종료시간" # growdle 작업 결과:엑셀 칼럼 이름 매핑 테이블
+    # xlsx_sheet_name: "Sheet1"
+    # pdf_file_column_name: "원본파일명"
+    # number_column_name: "No."
+    # worker_column_name: "작업자"
+server_api:
+  host: "yas"
+  host_ip: "0.0.0.0"
+  # host_port: 8000
