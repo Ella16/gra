@@ -1,6 +1,5 @@
 import base64
-import json
-import os
+
 from copy import deepcopy
 from io import BytesIO
 
@@ -24,6 +23,12 @@ class PDFReader(object):
         self.extracted_text, self.num_text_lines, self.base64_images = [], [], []
         self.num_input_tokens, self.num_pixels, self.num_output_tokens = [], [], []
         self.tokenizer = tokenizer
+        
+        self.poppler_path = None
+        import platform
+        if 'windows' in platform.system().lower():
+            self.poppler_path = r'C:/Users/sylqu/local_projects/poppler-24.08.0/Library/bin'
+            
         logger.debug(f"[pdf_reader] Initialized")
 
     def reset(self) -> None:
@@ -37,7 +42,8 @@ class PDFReader(object):
         fid = file.split("/")[-1]
         base64_images = []
         try:
-            images = convert_from_path(pdf_path=file, fmt="png", dpi=self.target_dpi)
+            images = convert_from_path(pdf_path=file, fmt="png", dpi=self.target_dpi,
+                                        poppler_path=self.poppler_path)
             # root_dir = self.config["image_dir"]
             for _, image in enumerate(images):
                 # for cost calculation
