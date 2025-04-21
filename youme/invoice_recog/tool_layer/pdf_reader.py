@@ -2,6 +2,7 @@ import base64
 
 from copy import deepcopy
 from io import BytesIO
+import time 
 
 import PyPDF2  # pypdf2==3.0.1
 from pdf2image import convert_from_path  # pdf2image==1.17.0
@@ -31,7 +32,7 @@ class PDFReader(object):
             
         logger.debug(f"[pdf_reader] Initialized")
 
-    def reset(self) -> None:
+    def reset(self) -> None: # TODO 이거 지우기 self 에 넣을 필요 없음 
         self.pdf_file, self.markdown_text = "", ""
         self.extracted_text, self.num_text_lines, self.base64_images = [], [], []
         self.num_input_tokens, self.num_pixels, self.num_output_tokens = [], [], []
@@ -58,8 +59,7 @@ class PDFReader(object):
             logger.error(f"[pdf_reader] Error converting PDF to image: {file}")
             logger.error(f"[pdf_reader] Error converting PDF to image: {e}")
 
-        self.base64_images = base64_images
-        return fid
+        return fid, base64_images
 
     def _read_pdf(self, pdf_file: str) -> list[tuple[str, int]]:
         try:
@@ -87,36 +87,47 @@ class PDFReader(object):
             f"[pdf_reader] {sum(self.num_text_lines)} lines extracted from {file}"
         )
 
-    def build_markdown2(self, client, model, minimum_text_lines: int = 10) -> str:
+    def build_markdown2(self, client, model, base64_images, minimum_text_lines: int = 10) -> str:
         logger.debug(f"[pdf_reader] Building markdown ... ")
-        markdown_text = ""
-
-        for i, image_url in enumerate(self.base64_images):
+        self.markdown_text = ""
+        
+        # base64_images = base64_images[28:]
+        # base64_images = base64_images[:12]
+        base64_images = base64_images[48:] # 224-5. 5. 보툴리눔 독 소제제의 국가검정제도 소개.pdf
+        num_pages = len(base64_images)
+        # num_pages = 1
+        for i in range(num_pages):
+            image_url = base64_images[i]
+            print(f'[pdf_reader] build_markdown2: building.. {i}/{num_pages}')
             pagei, num_text_linei = self.extracted_text[i], self.num_text_lines[i]
-            try:
-                human_prompt = deepcopy(prompt_pdf.human_template_MD_Extractor)
-                if num_text_linei < minimum_text_lines:
-                    human_prompt["content"][0][
-                        "text"
-                    ] = "text_contents: ** No Contents Available for this page **"
-                else:
-                    human_prompt["content"][0]["text"] = "text_contents: " + pagei
-                message = [
-                    deepcopy(prompt_pdf.system_template_MD_Extractor),
-                    human_prompt,
-                ]
-                self.num_input_tokens.append(self.tokenizer.get_num_tokens(message))
-                message[1]["content"][1]["image_url"]["url"] = image_url
+            
+            human_prompt = deepcopy(prompt_pdf.human_template_MD_Extractor)
+            if num_text_linei < minimum_text_lines:
+                human_prompt["content"][0][
+                    "text"
+                ] = "text_contents: ** No Contents Available for this page **"
+            else:
+                human_prompt["content"][0]["text"] = "text_contents: " + pagei
+            human_prompt["content"][1]["image_url"]["url"] = image_url
+            
+            message = [
+                deepcopy(prompt_pdf.system_template_MD_Extractor),
+                human_prompt,
+            ]            
+            
+            self.num_input_tokens.append(self.tokenizer.get_num_tokens(message))
+            md = run_machine(client, model, messages=message) # build markdown by LLM 
+            self.num_output_tokens.append(self.tokenizer.get_num_tokens(md))
 
-                md = run_machine(client, model, messages=message)
-                self.num_output_tokens.append(self.tokenizer.get_num_tokens(md))
-
-                markdown_text += md
-
-            except Exception as e:
-                logger.error(f"[pdf_reader] Error building markdown: {e}")
+            self.markdown_text += md
+            print(f'[pdf_reader] build_markdown2: done {i}/{num_pages} {self.num_input_tokens[-1] + self.num_output_tokens[-1]}/{sum(self.num_output_tokens) + sum(self.num_input_tokens)}')
+            
+            if (i+1)%5 == 0:
+                sleep = 20
+                print(f'[pdf_reader] build_markdown2 sleep {sleep} secs to prevent too many request {i}/{num_pages}') 
+                time.sleep(sleep) # to prevent too many request
 
         logger.debug(f"[pdf_reader] Built markdown")
 
-        self.markdown_text = markdown_text
-        return markdown_text
+        # self.markdown_text = self.markdown_text
+        return self.markdown_text

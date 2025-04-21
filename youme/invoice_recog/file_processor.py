@@ -16,16 +16,16 @@ class FileProcessor(object):
 
     def _generate_markdown(self, file, client, model) -> tuple[str, dict]:
         # pdf to png : return {fid}.PDF
-        fid = self.pdf_reader.convert_pdf_to_img(file)
+        file_basename, base64_images = self.pdf_reader.convert_pdf_to_img(file)
         # pdf to text
         self.pdf_reader.read_pdf(file)
 
         markdown_text = self.pdf_reader.build_markdown2(
-            client, model, self.min_text_line
-            # client, model, self.config["tool_layer"]["general"]["minimum_text_lines"]
-        )
+            client, model, base64_images, self.min_text_line,
+        ) # 이 부분이 엄청 오래걸림 
 
-        return fid, {
+        return {"file":file_basename,
+            "num_pages": len(base64_images),
             "contents": markdown_text,
         }
 
@@ -42,10 +42,10 @@ class FileProcessor(object):
         start_timestamp = utils.get_current_time_for_xlsx()
 
         # generate markdown
-        key, result = self._generate_markdown(file, client, model)
+        result = self._generate_markdown(file, client, model) # {"file":file_basename,"contents": markdown_text, "num_pages": len(base64_images) }
 
         # extract information from markdown
-        response = self._extract_information(key, result, client, model)
+        response = self._extract_information(result['file'], result, client, model)
 
         self.num_pixels.extend(self.pdf_reader.num_pixels)
         self.num_input_tokens.extend(self.pdf_reader.num_input_tokens)
@@ -66,4 +66,4 @@ class FileProcessor(object):
 
         response["start_timestamp"] = start_timestamp
 
-        return key, response, cost
+        return response, cost
