@@ -1,15 +1,9 @@
 import faiss
 import numpy as np
 import rag
-
-
-
-# def add_faiss(index:faiss.swigfaiss.IndexIDMap, encoded_data, data):
-#     if not isinstance(encoded_data, np.array):
-#         encoded_data = np.array(encoded_data)
-#     index.add_with_ids(encoded_data, np.array(range(0, len(data))))
+faiss_gpu_resource = faiss.StandardGpuResources() 
     
-def update_db():
+def update_db(index_name='abc_news.faiss'):
     dim = 1536 # openai, 768 for the other offline models 
     index = faiss.IndexFlatIP(dim)
     
@@ -17,17 +11,21 @@ def update_db():
     query_list = []
     for _ in range(5): # 이게 chunked docs이면 됨 
         query = input("ask me: ") 
-        domain, retriver = rag.domain_classifier(query) 
+        # domain, retriver = rag.domain_classifier(query) # TODO
         encoded = rag.make_embedding(query)
         encoded_list.append(encoded)
         query_list.append(query)
         
-    index.add(np.array(encoded_list).astype(np.float32))
+    encoded_list = np.array(encoded_list).astype(np.float32)
+    faiss.normalize_L2(encoded_list)
+    # index.add(encoded_list)
+    index.add_with_ids(encoded_list, np.array(range(0, len(encoded_list))))
     
-    faiss.write_index(index, 'main.faiss')
+    faiss.write_index(index, index_name)
     
 def infer(index_name='abc_news.faiss'):
     index = faiss.read_index(index_name)
+    index = faiss.index_cpu_to_gpu(faiss_gpu_resource, 0, index) # single gpu
     k = 5
     docs = ['ask me: hi',
 'suask me: nyou',
@@ -36,7 +34,7 @@ def infer(index_name='abc_news.faiss'):
 'fask me: or',]
     while True:
         query_user = input("ask me: ")
-        domain, retriver = rag.domain_classifier(query_user) 
+        # domain, retriver = rag.domain_classifier(query_user)  # TODO
         query_re = rag.rephrase_query(query_user)
         encoded = rag.make_embedding(query_re)
 

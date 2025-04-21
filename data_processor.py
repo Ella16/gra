@@ -7,6 +7,8 @@ from invoice_recog.utils import utils
 import keys
 from openai import OpenAI
 
+import os
+
 openai_client = OpenAI(api_key=keys.openai.api_key, organization=keys.openai.organization)
 GPT_MODEL = "gpt-4o-mini"
 EMBEDDING_ENGINE = "text-embedding-ada-002"
@@ -41,7 +43,7 @@ class OCRFreeFileProcessor(FileProcessor):
 
         return result
 
-def run_ocr_free_proc():
+def make_markdown():
     import os
     import time
     import json 
@@ -63,7 +65,7 @@ def run_ocr_free_proc():
             else:
                 print(f'already processed', pdf)
     
-    pdfs = pdfs[:1] # # 224-5. 5. 보툴리눔 독 소제제의 국가검정제도 소개.pdf 만 하기 
+    # pdfs = pdfs[:1] # # 224-5. 5. 보툴리눔 독 소제제의 국가검정제도 소개.pdf 만 하기 
     # pdfs = pdfs
     num = len(pdfs)
     res = []
@@ -88,11 +90,39 @@ def run_ocr_free_proc():
     import pandas as pd
     pd.DataFrame(res)[['file', 'num_pages', 'cost', 'contents']].to_csv('result.csv')
     
-# import pandas as pd
-# csvfile = './data/250415/qa.csv'
-# qa = pd.read_csv(csvfile)
-# print()
 
+import re
+
+def clean_text(text):
+    # 1. '2023.', '1999년' → @YEAR@
+    text = re.sub(r'\b(19|20)\d{2}(년|\.)\b?', '@YEAR@', text)
+
+    # 2. 괄호 안 숫자로 끝나는 경우 삭제: 예) (3), (12)
+    text = re.sub(r'\(\d+\)$', '', text)
+
+    # 3. 앞뒤 특수문자 제거 (단, 「」는 보존)
+    text = re.sub(r'^[^\w가-힣「」]+|[^\w가-힣」]+$', '', text)
+
+    # 4. 중간 특수문자 제거 (숫자, 영문, 한글, 「」만 유지)
+    text = re.sub(r'[^\w가-힣「」]', '', text)
+
+    return text
+
+def preprocess_qa():
+    # src, ref, q, a
+    # 안내서-0194-02+「의약품+국제공통기술문서(CTD)+해설서」[민원인+안내서].pdf
+    # 의약품+국제공통기술문서+작성을+위한+질의응답집(품질)(민원인안내서) 얘는 QA 다시 만들어야 할 것 같다
+    # 배포용, 최종본, 붙임, 최종, .pdf 
+    
+    # src
+    # 질의응답집, 민원인안내서, 년도 표기 등은 기호로 대체
+    
+    # a: new line이 이걸로 시작할 경우 리스트로 표현해야 할듯? v, 답변: ❍ , O, ■, ○, (답변 1), ◉, 〇 , ▶ , -
+    # Q 3.을 참조하시기 바랍니다. 는 삭제하기 
+    dir = './data/250415/'
+    file = os.path.join(dir, )
+     
+    
 if __name__=="__main__":
-    run_ocr_free_proc()
+    # make_markdown()
     
