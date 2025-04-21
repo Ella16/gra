@@ -15,3 +15,7 @@ tiktoken==0.8.0
 pandas==2.2.3
 openpyxl==3.1.5
 # poppler 
+
+## 
+faiss-gpu==1.7.2
+numpy==1.24.2

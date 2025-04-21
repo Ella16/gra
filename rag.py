@@ -12,6 +12,41 @@ GPT_MODEL = "gpt-4o-mini"
 EMBEDDING_ENGINE = "text-embedding-ada-002"
 SIMILARITY_THRESHOLD = 0.85
 
+def domain_classifier(query):
+    retriever_dict = {
+        "form":None,
+        "qa": None,
+        "docs": None,
+    }
+    
+    if True:
+        domain = "docs"
+        retriever = retriever_dict[domain]
+        return domain, retriever
+    else:
+        from transformers import pipeline
+
+        classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+
+        result = classifier("What are the symptoms of COVID?", candidate_labels=["medical", "legal", "technical"])
+        print(result['labels'][0])  # Best guess
+
+
+        query = "How do I appeal a court decision?"
+
+        domain = domain_classifier(query)
+
+        
+        docs = retriever.retrieve(query)
+
+        response = generator.generate(query, docs)
+
+
+
+def load_offline_embedding():
+    from sentence_transformers import SentenceTransformer
+    model = SentenceTransformer('jhgan/ko-sbert-sts')
+
 def make_embedding(text):
     text = text.replace("\n", " ")
     return client.embeddings.create(input = [text], model=EMBEDDING_ENGINE).data[0].embedding
@@ -132,14 +167,14 @@ Output must be in Korean.
     return query
 
 
-def create_prompt(query, ref_docs):
+def create_prompt(query, ref_docs:list):
     if len(ref_docs) > 0:
         system_prompt = f"""
-            You're an expert for medicine regulations and legislation.
-            Yor're very fluent in Korean and English.
-            According to following docs, answer the user query.:\n"""
-        for doc_id, doc in ref_docs.iterrows():
-            system_prompt += f'''doc#{doc_id}: """{str(doc['text'])}"""\n'''
+You're an expert for medicine regulations and legislation.
+Yor're very fluent in Korean and English.
+According to following docs, answer the user query.:\n"""
+        for doc_id, doc in ref_docs:
+            system_prompt += f'''doc#{doc_id}: """{str(doc)}"""\n'''
         system_prompt +="\nAnswer user query in detail; it must be in Korean and must have rationale w.r.t the given docs."
        
     else:

@@ -5,7 +5,10 @@ import ast
 import time 
 
 from openai import OpenAI
-import gra.keys as keys # Set OpenAI API key 
+
+import sys 
+sys.append('../')
+import keys as keys # Set OpenAI API key 
 client = OpenAI(api_key=keys.openai.api_key, organization=keys.openai.organization)
 
 import streamlit as st
@@ -28,7 +31,7 @@ QA_ID = 0
 off_qa = pd.read_csv('demo-qa.csv')
 off_ref = pd.read_csv('demo-ref.csv')
 
-from gra.rag import load_doc_embedding, make_embedding 
+from rag import load_doc_embedding, make_embedding 
 data_dir = './data/processed/250324_demo/'
 emb_path = './embedding/embedding-250324_demo.csv'
 DOC_EMB = load_doc_embedding(data_dir, emb_path)
