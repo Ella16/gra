@@ -91,9 +91,6 @@ class PDFReader(object):
         logger.debug(f"[pdf_reader] Building markdown ... ")
         self.markdown_text = ""
         
-        # base64_images = base64_images[28:]
-        # base64_images = base64_images[:12]
-        # base64_images = base64_images[48:] # 224-5. 5. 보툴리눔 독 소제제의 국가검정제도 소개.pdf
         num_pages = len(base64_images)
         # num_pages = 1
         for i in range(num_pages):

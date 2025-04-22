@@ -64,9 +64,7 @@ def make_markdown():
                 pdfs.append(os.path.join(data_dir, pdf))
             else:
                 print(f'already processed', pdf)
-    
-    # pdfs = pdfs[:1] # # 224-5. 5. 보툴리눔 독 소제제의 국가검정제도 소개.pdf 만 하기 
-    # pdfs = pdfs
+   
     num = len(pdfs)
     res = []
     print('num pdfs', num)
