@@ -49,7 +49,9 @@ def load_offline_embedding():
 
 def make_embedding(text):
     text = text.replace("\n", " ")
-    return client.embeddings.create(input = [text], model=EMBEDDING_ENGINE).data[0].embedding
+    emb = client.embeddings.create(input = [text], model=EMBEDDING_ENGINE).data[0].embedding
+    emb = np.array(emb).astype(np.float32)
+    return emb
 
 def segment_by_paragraph(doc, context_length=1000, tolerance=0.1, stride_para=2):
     paras = doc.strip().split('\n')

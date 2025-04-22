@@ -2,26 +2,20 @@ import faiss
 import numpy as np
 import rag
 faiss_gpu_resource = faiss.StandardGpuResources() 
-    
-def update_db(index_name='abc_news.faiss'):
+faiss_db_dir = 'faiss/'
+def update_db(data:list, index_name:str='abc_news.faiss'):
     dim = 1536 # openai, 768 for the other offline models 
-    index = faiss.IndexFlatIP(dim)
+    index = faiss.IndexIDMap(faiss.IndexFlatIP(dim))
     
     encoded_list= []
-    query_list = []
-    for _ in range(5): # 이게 chunked docs이면 됨 
-        query = input("ask me: ") 
+    for doc in data:
         # domain, retriver = rag.domain_classifier(query) # TODO
-        encoded = rag.make_embedding(query)
+        encoded = rag.make_embedding(doc)
         encoded_list.append(encoded)
-        query_list.append(query)
         
-    encoded_list = np.array(encoded_list).astype(np.float32)
     faiss.normalize_L2(encoded_list)
-    # index.add(encoded_list)
     index.add_with_ids(encoded_list, np.array(range(0, len(encoded_list))))
-    
-    faiss.write_index(index, index_name)
+    faiss.write_index(index, os.path.join(faiss_db_dir, index_name))
     
 def infer(index_name='abc_news.faiss'):
     index = faiss.read_index(index_name)
@@ -47,8 +41,16 @@ def infer(index_name='abc_news.faiss'):
             
 
 if __name__=="__main__":
+    import pandas as pd
+    import os
+    data_dir = './data/250415/'
+    file = 'qa-250422-processed.csv'
+    qa = pd.read_csv(os.path.join(data_dir, file))
+    for col in ['src_processed', 'ref', 'Q', 'A_processed']:
+        update_db(qa[col].unique().tolist(), index_name=f'qa-{col}.faiss')
+        print(col)
     # update_db()
-    infer()
+    # infer()
 
 # # FAISS로 top-k 검색
 # index = faiss.IndexFlatL2(query_embedding.shape[1])
